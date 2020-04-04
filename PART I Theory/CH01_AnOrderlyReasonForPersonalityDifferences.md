@@ -9,7 +9,7 @@ The merit of the theory presented here is that it enables us to expect specific 
 These basic differences concern the way people prefer to use their minds, specifically, the way they perceive and the way they make judgments. Perceiving is here understood to include the processes of becoming aware of things, people, occurrences, and ideas. Judging includes the processes of coming to conclusions about what has been perceived. Together, perception and judgment, which make up a large portion of people’s total mental activity,  govern much of their outer behavior, because perception -- by definition -- determines what people see in a situation, and their judgment determines what they decide to do about it. Thus, it is reasonable that basic differences in perception or judgment should result in corresponding differences in behavior.  
 這些基本差異關係到人們喜歡使用思想的方式，特別是他們的感知方式和做出判斷的方式。在這裡，感知被理解為包括對事物，人，事件和思想的認識的過程。評判包括就所感知的事物得出結論的過程。感知和判斷共同構成了人們總體心理活動的很大一部分，支配著他們的許多外在行為，因為感知（根據定義）決定了人們在某種情況下所看到的東西，而判斷則決定了他們決定要做的事情關於它。因此，合理的認識或判斷上的差異應導致相應的行為差異。(Google 翻)  
 
-## Two Ways of Perceiving
+## Two Ways of Perceiving 感知功能有兩種
 
 As Jung points out in Psychological Types, humankind is equipped with two distinct and sharply contrasting ways of perceiving. One means of perception is the familiar process of sensing, by which we become aware of things directly through our five senses. The other is the process of intuition, which is indirect perception by way of the unconscious, incorporating ideas or associations that the unconscious tacks on to perceptions coming from outside. These unconscious contributions range from the merest masculine “hunch” or “woman’s intuition” to the crowning examples of creative art or scientific discovery.
 正如榮格在《心理類型》中指出的那樣，人類擁有兩種截然不同且截然相反的感知方式。感知的一種方法是熟悉的感知過程，通過它我們可以通過五種感覺直接感知事物。另一個是直覺的過程，它是通過無意識的方式進行的間接感知，並結合了無意識對來自外部的感知的想法或聯想。這些無意識的貢獻從最男性化的“預感”或“女性的直覺”到創造性藝術或科學發現的最高典範。(Google翻)
@@ -27,16 +27,20 @@ With the advantage of constant practice, the preferred process grows more contro
 Thus, by a natural sequence of events, the child who prefers sensing and the child who prefers intuition develop along divergent lines. Each becomes relatively adult in an area where the other remains relatively childlike. Both channel their interests and energy into activities that give them a chance to use their mind the way they prefer. Both acquire a set of surface traits that grows out of the basic preferences beneath. This is the SN preference: S for sensing and N for intuition.
 因此，通過自然的事件序列，喜歡感知的孩子和喜歡直覺的孩子會沿著分歧的方向發展。在彼此保持相對童年的地區，每個人都相對成年。雙方都將自己的興趣和精力投入到活動中，使他們有機會以自己喜歡的方式使用自己的思想。兩者都獲得了一系列表面特徵，這些特徵是從下面的基本偏好中衍生出來的。這是SN偏好：S代表感應，N代表直覺。(Google翻)
 
-## Two Ways of Judging
+## Two Ways of Judging 判斷功能有兩種
 
-A  basic difference in judgment arises from the existence of two distinct and sharply contrasting ways of coming to conclusions. One way is by the use of thinking, that is, by a logical process, aimed at an impersonal finding. The other is by feeling, that is, by appreciation -- equally reasonable in its fashion -- bestowing on things a personal, subjective value.  
+A basic difference in judgment arises from the existence of two distinct and sharply contrasting ways of coming to conclusions. One way is by the use of thinking, that is, by a logical process, aimed at an impersonal finding. The other is by feeling, that is, by appreciation -- equally reasonable in its fashion -- bestowing on things a personal, subjective value.  
+判斷的基本差異是由兩種截然不同且截然相反的結論得出的。一種方法是通過使用思維，即通過針對非個人發現的邏輯過程。另一種是通過感覺，也就是通過欣賞（在形式上同樣合理），賦予事物一種個人的，主觀的價值。(Google翻)  
   
 These two ways of judging would also seem self-evident. Most people would agree that they make some decisions with thinking and some with feeling, and that the two methods do not always reach the same result from a given set of facts. The theory suggest that a person is almost certain to enjoy and trust one way of judging more than the other. In judging the ideas presented here, a reader who considers first whether they are consistent and logical is using thinking judgment.  A reader who is conscious first that the ideas are pleasing or displeasing, supporting or threatening ideas already prized, is using feeling judgment.  
+這兩種判斷方法似乎也是不言而喻的。大多數人會同意，他們用思想做出某些決定，而用感覺做出某些決定，並且這兩種方法並不總是從給定的事實集合中得出相同的結果。該理論表明，一個人幾乎肯定會喜歡和信任一種判斷方式，而不是另一種。在判斷此處提出的想法時，首先考慮思想是否一致且合乎邏輯的讀者正在使用思維判斷。首先意識到想法是令人愉悅或不悅，支持或威脅已經珍視的想法的讀者正在使用感覺判斷。(Google翻)  
   
 Whichever judging process a child prefers he or she will use more often, trust more implicitly, and be much more ready to obey. The other kind of judgment will be a sort of minority opinion, half-heard and often wholly disregarded.  
+無論孩子喜歡哪個判斷過程，他或她都會更頻繁地使用，更隱含地信任並且更願意服從。另一種判斷將是一種少數意見，是半聽卻常常被完全忽視的。(Google翻)  
   
 Thus, the child who prefers thinking develops along divergent lines from the child who prefers feeling, even when both like the same perceptive process and start with the same perceptions. Both are happier and more effective in activities that call for the sort of judgments that they are better equipped to make. The child who prefers feeling becomes more adult in the handling of human relationships. The child who prefers thinking grows more adept in the organization of facts and ideas. Their basic preference for the personal or the impersonal approach to life results in distinguishing surface traits. This is the TF preference: T for thinking and F for feeling.  
-
+因此，即使他們都喜歡相同的感知過程並以相同的感知開始，但喜歡思考的孩子卻與喜歡感覺的孩子沿著分歧的方向發展。兩者在需要更好地做出判斷的活動中都更快樂，更有效。喜歡情感的孩子在處理人際關係時變得更加成人。喜歡思考的孩子會更擅長事實和思想的組織。他們對生活的個人或非個人方法的基本偏愛導致區分錶面特徵。這就是TF偏好：T代表思考，F代表感覺。(Google翻)  
+  
 ## Combinations of Perception and judgment  
 ### Sensing Plus Thinking    
 ### Sensing Plus Feeling  
