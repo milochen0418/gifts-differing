@@ -12,4 +12,4 @@
 ## Chapter 8 
 ### Extraerted and Introverted Forms of the Processes Compared 外傾與內傾的對比
 ## Chapter 9
-### [Descriptions of the Sixteen Types 16 種人格類型](https://github.com/milochen0418/gifts-differing/tree/master/PART%20II%20Effects%20of%20the%20Preferences%20on%20Personality/Ch09%20Descriptions%20of%20the%20Sixteen%20Types%2016)
+### [Descriptions of the Sixteen Types 16 種人格類型](https://github.com/milochen0418/gifts-differing/tree/master/PART%20II%20Effects%20of%20the%20Preferences%20on%20Personality/Ch09%20Descriptions%20of%20the%20Sixteen%20Types%2016/README.md)
