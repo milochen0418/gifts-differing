@@ -12,11 +12,11 @@ Because the project can help more Chinese to understnad the book Gifts Differing
 因為它可以幫助更多全球華人理解《天生不同，了解人格類型》一書。 人們可以從這本書中更多地了解自己和其他人。  
 
 ### [Preface 前言](https://github.com/milochen0418/gifts-differing/blob/master/PREFACE.md)
-## Part I Theory 基礎理論
+## [Part I Theory 基礎理論](https://github.com/milochen0418/gifts-differing/tree/master/PART%20I%20Theory)
 ### Chapter 1 An Orderly Reason  for Personality Differences 關於人格類型差異的思考
 ### Chapter 2 Extensions of Jung's Theory 榮格理論的擴展
 
-## Part II Effects of the Preferences on Personality 人格維度與人格類型
+## [Part II Effects of the Preferences on Personality 人格維度與人格類型](https://github.com/milochen0418/gifts-differing/tree/master/PART%20II%20Effects%20of%20the%20Preferences%20on%20Personality)
 ### Chapter 3 Type Tables for Comparison and Discovery 人格類型表
 ### Chapter 4 Effect of the EI  Preference 外傾與內傾
 ### Chapter 5 Effect of the SN Preference 感覺與直覺
