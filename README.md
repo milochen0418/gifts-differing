@@ -20,23 +20,23 @@ Because the project can help more Chinese to understnad the book Gifts Differing
 ### Chapter 3 Type Tables for Comparison and Discovery 人格類型表
 ### Chapter 4 Effect of the EI  Preference 外傾與內傾
 ### Chapter 5 Effect of the SN Preference 感覺與直覺
-### Chapter 6 Effect of the TF Preference 思維與情感
+### Chapter 6 Effect of the TF Preference 思考與情感
 ### Chapter 7 Effect of the JP Preference 判斷與感知
 ### Chapter 8 Extraerted and Introverted Forms of the Processes Compared 外傾與內傾的對比
 ### Chapter 9 Descriptions of the Sixteen Types 16 種人格類型
 #### The Shadow Side 人格陰影區
-#### Extraverted Thinking Types ESTJ and ENTJ 外傾思維型: ESTJ 和 ENTJ
-##### Extraverted Thinking Supported by Sensing 外傾感覺思維判斷型 (ESTJ)
-##### Extraverted Thinking Supported by Intuition 外傾直覺思維判斷型 (ENTJ)
-#### Introverted Thinking Types ISTP and INTP 內傾思維型: ISTP 和 INTP
-##### Introverted Thinking Supported by Sensing 
-##### Introverted Thinking Supported by Intuition 
-#### Extraverted Feeling Types ESFJ and ENFJ 
-##### Extraverted Feeling Supported by Sensing 
-##### Extraverted Feeling Supported by Intuition 
-#### Introverted Feeling Types ISFP and INFP
-##### Introverted Feeling Supported by Sensing
-##### Introverted Feeling Supported by Intuition
+#### Extraverted Thinking Types ESTJ and ENTJ 外傾思考型: ESTJ 和 ENTJ
+##### Extraverted Thinking Supported by Sensing 以感覺輔佐的 外傾思考型 (ESTJ)
+##### Extraverted Thinking Supported by Intuition 以直覺輔佐的 外傾思維型 (ENTJ)
+#### Introverted Thinking Types ISTP and INTP 內傾思考型: ISTP 和 INTP
+##### Introverted Thinking Supported by Sensing 以感覺輔佐的 內傾思考型 (ISTP)
+##### Introverted Thinking Supported by Intuition 以直覺輔佐的 內傾思考型 (INTP)
+#### Extraverted Feeling Types ESFJ and ENFJ 外傾思考型: ESFJ 和 ENFJ
+##### Extraverted Feeling Supported by Sensing 以感覺輔佐的 外傾思考型 (ESFJ)
+##### Extraverted Feeling Supported by Intuition 以直覺輔佐的 外傾思考型 (ENFJ)
+#### Introverted Feeling Types ISFP and INFP 內傾感覺型: ISFP 和 INFP
+##### Introverted Feeling Supported by Sensing 以感覺輔佐的 內傾感覺型 (ISFP)
+##### Introverted Feeling Supported by Intuition 以直覺輔佐的 內傾感覺型 (INFP)
 #### Extraverted Sensing Types ESTP and ESFP  
 ##### Extraverted Sensing Supported by Thinking 
 ##### Extraverted Sensing Supported by Feeling
