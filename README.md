@@ -10,7 +10,8 @@ It's nice to read on smartphone
 
 Because the project can help more Chinese to understnad the book Gifts Differing. And people can understand themselves and another people more from this book.  
 因為它可以幫助更多全球華人理解《天生不同，了解人格類型》一書。 人們可以從這本書中更多地了解自己和其他人。  
-
+  
+----
 ### [Preface 前言](https://github.com/milochen0418/gifts-differing/blob/master/PREFACE.md)
 ## [Part I Theory 基礎理論](https://github.com/milochen0418/gifts-differing/tree/master/PART%20I%20Theory)
 ### Chapter 1 [An Orderly Reason for Personality Differences](https://github.com/milochen0418/gifts-differing/blob/master/PART%20I%20Theory/CH01_AnOrderlyReasonForPersonalityDifferences.md) 關於人格類型差異的思考
@@ -76,3 +77,12 @@ Because the project can help more Chinese to understnad the book Gifts Differing
 ### Chapter 17 Obstacles to Type Development 人格發展的障礙
 ### Chapter 18 Motivation for Type Development in Children 兒童的人格發展動機
 ### Chapter 19 Going On From Wherever You Are 從現在開始
+
+
+
+
+----  
+By the way, there are also some operating societies and Facebook in Taiwan, everyone share, learn and communicate together.  
+另外一提，在台灣也有一些正在運作的社團以及臉書，大家一同分享、學習與交流。  
+[Happy Peak - happy peak 人格類型 認識自己理解他人](https://www.facebook.com/search/top/?q=happy%20peak%20%E4%BA%BA%E6%A0%BC%E9%A1%9E%E5%9E%8B%20%E8%AA%8D%E8%AD%98%E8%87%AA%E5%B7%B1%E7%90%86%E8%A7%A3%E4%BB%96%E4%BA%BA&epa=SEARCH_BOX)  
+[MBTI Taiwan (Unofficial) - 台灣(非官方)](https://www.facebook.com/groups/mbtitaiwan/learning_content/)    
