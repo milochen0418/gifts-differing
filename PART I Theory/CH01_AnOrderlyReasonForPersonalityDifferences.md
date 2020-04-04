@@ -46,7 +46,8 @@ The TF preference (thinking or feeling) is entirely independent of the SN prefer
 - ST Sensing plus thinking
 - SF Sensing plus feeling
 - NF Intuition plus feeling
-- NT Intuition plus thinking 
+- NT Intuition plus thinking  
+ 
  Each of these combinations produces a different kind of personality, characterized by the interests,  values, needs, habits of mind, and surface traits that naturally result from the combination. Combinations with a common preference will share some qualities, but each combination has qualities all its own, arising from the interaction of the preferred way of looking at life and the preferred way of judging what is seen. 
 
 Whatever a person's particular combination of preferences may be, others with the same combination are apt to be the easiest to understand and like. They will tend to have similar interests, since they share the same kind of perception, and to consider the same things important, since they share the same kind of judgment. 
