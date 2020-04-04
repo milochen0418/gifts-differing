@@ -42,23 +42,31 @@ Thus, the child who prefers thinking develops along divergent lines from the chi
 因此，即使他們都喜歡相同的感知過程並以相同的感知開始，但喜歡思考的孩子卻與喜歡感覺的孩子沿著分歧的方向發展。兩者在需要更好地做出判斷的活動中都更快樂，更有效。喜歡情感的孩子在處理人際關係時變得更加成人。喜歡思考的孩子會更擅長事實和思想的組織。他們對生活的個人或非個人方法的基本偏愛導致區分錶面特徵。這就是TF偏好：T代表思考，F代表感覺。(Google翻)  
   
 ## Combinations of Perception and judgment  
-The TF preference (thinking or feeling) is entirely independent of the SN preference (sensing or intuition). Either kind of judgment can team up with either kind of perception. Thus, four combinations occur:
+The TF preference (thinking or feeling) is entirely independent of the SN preference (sensing or intuition). Either kind of judgment can team up with either kind of perception. Thus, four combinations occur:  
+TF偏好（思考或情感）完全獨立於SN偏好（感覺或直覺）。 每種判斷都可以與任何一種感知結合在一起。 因此，出現四種組合：(Google 翻)
+
 - ST Sensing plus thinking
 - SF Sensing plus feeling
 - NF Intuition plus feeling
 - NT Intuition plus thinking  
- 
- Each of these combinations produces a different kind of personality, characterized by the interests,  values, needs, habits of mind, and surface traits that naturally result from the combination. Combinations with a common preference will share some qualities, but each combination has qualities all its own, arising from the interaction of the preferred way of looking at life and the preferred way of judging what is seen. 
+
+Each of these combinations produces a different kind of personality, characterized by the interests,  values, needs, habits of mind, and surface traits that naturally result from the combination. Combinations with a common preference will share some qualities, but each combination has qualities all its own, arising from the interaction of the preferred way of looking at life and the preferred way of judging what is seen. 
+這些組合中的每一種都會產生不同類型的個性，其特徵是組合所自然產生的興趣，價值，需求，思維習慣和表面特徵。具有共同偏愛的組合將具有某些特質，但是每種組合都具有其自身的特質，這源於對生活的偏愛和判斷事物的偏好。(Google 翻)
 
 Whatever a person's particular combination of preferences may be, others with the same combination are apt to be the easiest to understand and like. They will tend to have similar interests, since they share the same kind of perception, and to consider the same things important, since they share the same kind of judgment. 
+無論一個人的特定偏好組合是什麼，具有相同組合的其他人都傾向於最容易理解和喜歡。由於他們具有相同的看法，因此他們傾向於具有相似的興趣，並且由於他們具有相同的判斷力，因此他們將認為相同的事情很重要。(Google 翻)
 
 On the other hand, people who differ on both preferences will be hard to understand and hard to predict --except that on every debatable question they are likely to take opposite stands. If these very opposite people are merely acquaintances, the clash of views may not matter, but if they are co-workers, close associates, or members of the same family, the constant opposition can be a strain. 
+另一方面，兩種偏好不同的人將很難理解和預測-除了在每個有爭議的問題上他們可能會採取相反的立場。如果這些非常對立的人僅僅是熟人，則意見衝突可能並不重要，但是如果他們是同事，親密同事或同一個家庭的成員，則持續不斷的反對可能會成為一種壓力。(Google 翻)
 
 Many destructive conflicts arise simply because two people are using opposite kinds of perception and judgment. When the origin  of such a conflict is recognized, it becomes less annoying and easier to handle.
+許多破壞性衝突的產生僅僅是因為兩個人正在使用相反的感知和判斷力。當識別出這種衝突的根源時，它就變得不那麼煩人並且更易於處理。(Google 翻)
 
 An even more destructive conflict may exist between people and their jobs, when the job makes no use of the worker's natural combination of perception  and judgment but constantly demands the opposite combination. 
+當工作沒有利用工人的感知和判斷力的自然組合，而是不斷要求相反的組合時，人們與工作之間可能存在更具破壞性的衝突。(Google 翻)
 
 The following paragraphs sketch the contrasting personalities that are expected in theory and found in practice to result from each of the four possible combinations of perception and judgment.
+以下各段簡要介紹了理論上所期望並在實踐中發現的兩種截然不同的個性，這些個性是由感知和判斷的四種可能組合中的每一種產生的。(Google 翻)
 
 ### Sensing Plus Thinking    
 ### Sensing Plus Feeling  
