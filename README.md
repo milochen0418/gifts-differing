@@ -11,6 +11,7 @@ It's nice to read on smartphone
 Because the project can help more Chinese to understnad the book Gifts Differing. And people can understand themselves and another people more from this book.  
 因為它可以幫助更多全球華人理解《天生不同，了解人格類型》一書。 人們可以從這本書中更多地了解自己和其他人。  
 
+### [Preface 前言](https://github.com/milochen0418/gifts-differing/blob/master/PREFACE.md)
 ## Part I Theory 基礎理論
 ### Chapter 1 An Orderly Reason  for Personality Differences 關於人格類型差異的思考
 ### Chapter 2 Extensions of Jung's Theory 榮格理論的擴展
