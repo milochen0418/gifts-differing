@@ -1,6 +1,6 @@
 # Part I Theory
 ## Chapter 1 
-### An Orderly Reason for Personality Differences
+### [An Orderly Reason for Personality Differences](https://github.com/milochen0418/gifts-differing/blob/master/PART%20I%20Theory/CH01_AnOrderlyReasonForPersonalityDifferences.md)
 
 > Two ways of Perceiving   
 
