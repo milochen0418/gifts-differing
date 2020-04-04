@@ -26,7 +26,7 @@ Because the project can help more Chinese to understnad the book Gifts Differing
 
 
 ### Chapter 9 Descriptions of the Sixteen Types 16 種人格類型
-#### The Shadow Side 人格陰影區
+#### The Shadow Side 人格陰影面
 #### Extraverted Thinking Types ESTJ and ENTJ 外傾思考型: ESTJ 和 ENTJ
 ##### Extraverted Thinking Supported by Sensing 被感覺輔佐的 外傾思考型 (ESTJ)
 ##### Extraverted Thinking Supported by Intuition 被直覺輔佐的 外傾思維型 (ENTJ)
