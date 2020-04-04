@@ -2,10 +2,13 @@
 ## 天生不同, 了解人格類型
 ### Isabel Briggs MyersPeter B. Myers
 **Please purchase book from here. 請到下面網址購買原文電子書。**  
-[Buy it on Google Play](https://play.google.com/store/books/details?id=WfR8DAAAQBAJ)    
-[Why we have this project ? 為何有此專案 ?](https://github.com/milochen0418/gifts-differing/blob/master/WHY_THIS_PROJ.md)  
+[Click to buy it on Google Play. ](https://play.google.com/store/books/details?id=WfR8DAAAQBAJ)    
+It's nice to read on smartphone
+![Book Cover](https://books.google.com/books/content/images/frontcover/WfR8DAAAQBAJ?fife=w400-h600)  
 
-Because it can help more Chinese to understnad the book Gifts Differing. And people can understand themselves and another epople more from this book.  
+[Why do we create this project ? 為何我們成立此專案 ?](https://github.com/milochen0418/gifts-differing/blob/master/WHY_THIS_PROJ.md) <-- Click to understand detail
+
+Because the project can help more Chinese to understnad the book Gifts Differing. And people can understand themselves and another people more from this book.  
 因為它可以幫助更多全球華人理解《天生不同，了解人格類型》一書。 人們可以從這本書中更多地了解自己和其他人。  
 
 ## Part I Theory 基礎理論
