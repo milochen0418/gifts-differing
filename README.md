@@ -1,4 +1,5 @@
-# gifts-differing
+# Gifts Differing, Understanding Personality Type 天生不同, 了解人格類型
+
 
 ## Part I Theory 基礎理論
 ### Chapter 1 An Orderly Reason  for Personality Differences 關於人格類型差異的思考
