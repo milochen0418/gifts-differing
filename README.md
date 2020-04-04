@@ -3,7 +3,7 @@
 ### Isabel Briggs MyersPeter B. Myers
 **Please purchase book from here. 請到下面網址購買原文電子書。**  
 [Click to buy it on Google Play. ](https://play.google.com/store/books/details?id=WfR8DAAAQBAJ)    
-It's nice to read on smartphone
+It's nice to read on smartphone  
 ![Book Cover](https://books.google.com/books/content/images/frontcover/WfR8DAAAQBAJ?fife=w400-h600)  
 
 [Why do we create this project ? 為何我們成立此專案 ?](https://github.com/milochen0418/gifts-differing/blob/master/WHY_THIS_PROJ.md) <-- Click to understand detail
