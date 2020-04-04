@@ -57,14 +57,14 @@ Because the project can help more Chinese to understnad the book Gifts Differing
 
 
 
-## Part III Practical Implications of Type 人格類型的實際應用
+## [Part III Practical Implications of Type 人格類型的實際應用](https://github.com/milochen0418/gifts-differing/tree/master/PART%20III%20Practical%20Implications%20of%20Type)
 ### Chapter 10 Use of the Opposites 人格類型的對立性
 ### Chapter 11 Type and Marriage 人格類型與婚姻
 ### Chapter 12 Type and Early Learning 人格類型與早期學習
 ### Chapter 13 Learning Styles 人格類型與學習風格
 ### Chapter 14 Type and Occupation 人格類型與職業選擇
 
-## Part IV Dynamics of Type Development 人格類型的動態發展
+## [Part IV Dynamics of Type Development 人格類型的動態發展](https://github.com/milochen0418/gifts-differing/tree/master/PART%20IV%20Dynamics%20of%20Type%20Development)
 ### Chapter 15 Type and the Task of Growing Up 人格類型與自我成長
 ### Chapter 16 Good Type Development 健康的人格發展
 ### Chapter 17 Obstacles to Type Development 人格發展的障礙
