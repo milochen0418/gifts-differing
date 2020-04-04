@@ -6,10 +6,13 @@
 It's nice to read on smartphone  
 ![Book Cover](https://books.google.com/books/content/images/frontcover/WfR8DAAAQBAJ?fife=w400-h600)  
 
-[Why do we create this project ? 為何我們成立此專案 ?](https://github.com/milochen0418/gifts-differing/blob/master/WHY_THIS_PROJ.md) <-- Click to understand detail
-
+[Why do we create this project ? 為何我們成立此專案 ?](https://github.com/milochen0418/gifts-differing/blob/master/WHY_THIS_PROJ.md) <-- Click to understand detail  
 Because the project can help more Chinese to understnad the book Gifts Differing. And people can understand themselves and another people more from this book.  
 因為它可以幫助更多全球華人理解《天生不同，了解人格類型》一書。 人們可以從這本書中更多地了解自己和其他人。  
+
+**Want to join, discuss or help ? 想加入、討論或幫忙嗎 ?**   
+--> [Click Hyperlink to chat 到連結來聊天](https://gitter.im/gifts-differing/community)  
+
   
 ----
 ### [Preface 前言](https://github.com/milochen0418/gifts-differing/blob/master/PREFACE.md)
