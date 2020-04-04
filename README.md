@@ -1,6 +1,12 @@
-# Gifts Differing, Understanding Personality Type 天生不同, 了解人格類型
-Please purchase book from here. 請到下面網址購買原文書。  
+# Gifts Differing, Understanding Personality Type 
+## 天生不同, 了解人格類型
+### Isabel Briggs MyersPeter B. Myers
+**Please purchase book from here. 請到下面網址購買原文書。**
 https://play.google.com/store/books/details?id=WfR8DAAAQBAJ  
+Why we have this project ? 為何有此專案 ?  
+
+Because it can help more Chinese to understnad the book Gifts Differing. And people can understand themselves and another epople more from this book.  
+因為它可以幫助更多的中國人理解《天生不同，了解人格類型》一書。 人們可以從這本書中更多地了解自己和其他人。  
 ```
 因為大陸簡體中文之翻譯與原文欲表達意思仍有語言上的落差，
 所以這邊建議讀原文書會比較取得正確觀念。  
