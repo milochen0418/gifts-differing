@@ -42,6 +42,23 @@ Thus, the child who prefers thinking develops along divergent lines from the chi
 因此，即使他們都喜歡相同的感知過程並以相同的感知開始，但喜歡思考的孩子卻與喜歡感覺的孩子沿著分歧的方向發展。兩者在需要更好地做出判斷的活動中都更快樂，更有效。喜歡情感的孩子在處理人際關係時變得更加成人。喜歡思考的孩子會更擅長事實和思想的組織。他們對生活的個人或非個人方法的基本偏愛導致區分錶面特徵。這就是TF偏好：T代表思考，F代表感覺。(Google翻)  
   
 ## Combinations of Perception and judgment  
+The TF preference (thinking or feeling) is entirely independent of the SN preference (sensing or intuition). Either kind of judgment can team up with either kind of perception. Thus, four combinations occur:
+- ST Sensing plus thinking
+- SF Sensing plus feeling
+- NF Intuition plus feeling
+- NT Intuition plus thinking 
+ Each of these combinations produces a different kind of personality, characterized by the interests,  values, needs, habits of mind, and surface traits that naturally result from the combination. Combinations with a common preference will share some qualities, but each combination has qualities all its own, arising from the interaction of the preferred way of looking at life and the preferred way of judging what is seen. 
+
+Whatever a person's particular combination of preferences may be, others with the same combination are apt to be the easiest to understand and like. They will tend to have similar interests, since they share the same kind of perception, and to consider the same things important, since they share the same kind of judgment. 
+
+On the other hand, people who differ on both preferences will be hard to understand and hard to predict --except that on every debatable question they are likely to take opposite stands. If these very opposite people are merely acquaintances, the clash of views may not matter, but if they are co-workers, close associates, or members of the same family, the constant opposition can be a strain. 
+
+Many destructive conflicts arise simply because two people are using opposite kinds of perception and judgment. When the origin  of such a conflict is recognized, it becomes less annoying and easier to handle.
+
+An even more destructive conflict may exist between people and their jobs, when the job makes no use of the worker's natural combination of perception  and judgment but constantly demands the opposite combination. 
+
+The following paragraphs sketch the contrasting personalities that are expected in theory and found in practice to result from each of the four possible combinations of perception and judgment.
+
 ### Sensing Plus Thinking    
 ### Sensing Plus Feeling  
 ### Intuition Plus Feeling  
