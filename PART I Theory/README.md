@@ -12,7 +12,8 @@
 >> Intuition Plus Feeling  
 >> Intuition Plus Thinking  
 
-> The Extraversion-Introversion Preference
+> The Extraversion-Introversion Preference  
+
 > The Judgment-Perception Preference  
 
 > Summary of the Four Preferences  
