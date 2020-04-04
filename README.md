@@ -1,7 +1,7 @@
 # Gifts Differing, Understanding Personality Type 
 ## 天生不同, 了解人格類型
 ### Isabel Briggs MyersPeter B. Myers
-**Please purchase book from here. 請到下面網址購買原文書。**
+**Please purchase book from here. 請到下面網址購買原文書。**  
 https://play.google.com/store/books/details?id=WfR8DAAAQBAJ  
 Why we have this project ? 為何有此專案 ?  
 
