@@ -1,4 +1,3 @@
-
 # Preface 前言
 This is a family book. Whether your family is made up of blood relatives, close friends, or colleagues in the workplace, the ideas and concepts in this book can help you to understand yourself and your reactions in the process of living every day, and they can help you to understand and appreciate the reactions of those around you who, with differing gifts, seem to be marching to a different drummer.  
 這是一本家庭書。 無論您的家人是由血親，親密朋友還是工作場所的同事組成，本書中的想法和概念都可以幫助您了解自己以及您在日常生活中的反應，並且可以幫助您了解 並欣賞周圍人的反應，他們帶著不同的禮物似乎正在向另一位鼓手進軍。  
