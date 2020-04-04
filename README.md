@@ -1,3 +1,4 @@
+[![Gitter](https://badges.gitter.im/gifts-differing/community.svg)](https://gitter.im/gifts-differing/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 # Gifts Differing, Understanding Personality Type 
 ## 天生不同, 了解人格類型
 ### Isabel Briggs MyersPeter B. Myers
