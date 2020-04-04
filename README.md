@@ -32,6 +32,29 @@ Because the project can help more Chinese to understnad the book Gifts Differing
 ##### Introverted Thinking Supported by Sensing 
 ##### Introverted Thinking Supported by Intuition 
 #### Extraverted Feeling Types ESFJ and ENFJ 
+##### Extraverted Feeling Supported by Sensing 
+##### Extraverted Feeling Supported by Intuition 
+#### Introverted Feeling Types ISFP and INFP
+##### Introverted Feeling Supported by Sensing
+##### Introverted Feeling Supported by Intuition
+#### Extraverted Sensing Types ESTP and ESFP  
+##### Extraverted Sensing Supported by Thinking 
+##### Extraverted Sensing Supported by Feeling
+#### Introverted Sensing Types ISTJ and ISFJ 
+##### Introverted Sensing Supported by Thinking
+##### Introverted Sensing Supported by Feeling
+#### Extraverted Intuitive Types ENTP and ENFP
+##### Extraverted Intuition Supported by Thinking
+##### Extraverted Intuition Supported by Feeling
+#### Introverted Intuitive Types INTJ and INFJ
+##### Introverted Intuition Supported by Thinking
+##### Introverted Intuition Supported by Feeling
+
+
+
+
+
+
 
 ## Part III Practical Implications of Type 人格類型的實際應用
 ### Chapter 10 Use of the Opposites 人格類型的對立性
