@@ -1,4 +1,4 @@
-[ Why we have this project ? 為何有此專案 ? ] (http://google.com)
+# [Why we have this project ? 為何有此專案 ?]
 Because it can help more Chinese to understnad the book Gifts Differing. And people can understand themselves and another epople more from this book.  
 因為它可以幫助更多的中國人理解《天生不同，了解人格類型》一書。 人們可以從這本書中更多地了解自己和其他人。  
 ```
