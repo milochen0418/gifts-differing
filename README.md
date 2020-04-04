@@ -12,6 +12,14 @@
 ### Chapter 7 Effect of the JP Preference 判斷與感知
 ### Chapter 8 Extraerted and Introverted Forms of the Processes Compared 外傾與內傾的對比
 ### Chapter 9 Descriptions of the Sixteen Types 16 種人格類型
+#### The Shadow Side 人格陰影區
+#### Extraverted Thinking Types ESTJ and ENTJ 外傾思維型: ESTJ 和 ENTJ
+##### Extraverted Thinking Supported by Sensing 外傾感覺思維判斷型 (ESTJ)
+##### Extraverted Thinking Supported by Intuition 外傾直覺思維判斷型 (ENTJ)
+#### Introverted Thinking Types ISTP and INTP 內傾思維型: ISTP 和 INTP
+##### Introverted Thinking Supported by Sensing 
+##### Introverted Thinking Supported by Intuition 
+#### Extraverted Feeling Types ESFJ and ENFJ 
 
 ## Part III Practical Implications of Type 人格類型的實際應用
 ### Chapter 10 Use of the Opposites 人格類型的對立性
