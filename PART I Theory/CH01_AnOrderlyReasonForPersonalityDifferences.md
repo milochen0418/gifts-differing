@@ -20,7 +20,13 @@ Thus, by a natural sequence of events, the child who prefers sensing and the chi
 
 ## Two Ways of Judging
 
-
+A  basic difference in judgment arises from the existence of two distinct and sharply contrasting ways of coming to conclusions. One way is by the use of thinking, that is, by a logical process, aimed at an impersonal finding. The other is by feeling, that is, by appreciation -- equally reasonable in its fashion -- bestowing on things a personal, subjective value.  
+  
+These two ways of judging would also seem self-evident. Most people would agree that they make some decisions with thinking and some with feeling, and that the two methods do not always reach the same result from a given set of facts. The theory suggest that a person is almost certain to enjoy and trust one way of judging more than the other. In judging the ideas presented here, a reader who considers first whether they are consistent and logical is using thinking judgment.  A reader who is conscious first that the ideas are pleasing or displeasing, supporting or threatening ideas already prized, is using feeling judgment.  
+  
+Whichever judging process a child prefers he or she will use more often, trust more implicitly, and be much more ready to obey. The other kind of judgment will be a sort of minority opinion, half-heard and often wholly disregarded.  
+  
+Thus, the child who prefers thinking develops along divergent lines from the child who prefers feeling, even when both like the same perceptive process and start with the same perceptions. Both are happier and more effective in activities that call for the sort of judgments that they are better equipped to make. The child who prefers feeling becomes more adult in the handling of human relationships. The child who prefers thinking grows more adept in the organization of facts and ideas. Their basic preference for the personal or the impersonal approach to life results in distinguishing surface traits. This is the TF preference: T for thinking and F for feeling.  
 
 ## Combinations of Perception and judgment  
 ### Sensing Plus Thinking    
