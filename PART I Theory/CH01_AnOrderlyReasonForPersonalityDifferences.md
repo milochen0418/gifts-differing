@@ -69,9 +69,37 @@ The following paragraphs sketch the contrasting personalities that are expected 
 以下各段簡要介紹了理論上所期望並在實踐中發現的兩種截然不同的個性，這些個性是由感知和判斷的四種可能組合中的每一種產生的。(Google 翻)
 
 ### Sensing Plus Thinking    
+
+The ST(sensing plus thinking) people rely primarily on sensing for purposes of perception and on thinking for purposes of judgment. Thus, their main interest focuses upon facts, because facts can be collected and verified directly by the senses -- by seeing, hearing touching, counting, weighing,  measuring. ST people approach their decisions regarding these facts by impersonal analysis, because of their trust in thinking, with its step-by-step logical process of reasoning from cause to effect,  from premise to conclusion.  
+
+In consequence, their personalities tend to be practical and matter-of-fact, and their best chances of success and satisfaction lie in fields that demand impersonal analysis of concrete facts, such as economics, law, surgery, business, accounting, production,  and the handling of machines and materials.  
+
+
 ### Sensing Plus Feeling  
+
+The SF (sensing plus feeling) people, too, rely primarily on sensing for purposes of perception, but they prefer feeling for purposes of judgment. They approach their decisions with personal warmth because their feeling weighs how much things matter to themselves and others.  
+
+They are more interested in facts about people than in facts about things and, therefore, they tend to be sociable and friendly. They are more likely to succeed and be satisfied in work where their personal warmth can be applied effectively to the immediate situation, as in pediatrics, nursing, teaching (especially elementary), social work, selling of tangibles, and service-with-a-smile jobs.  
+
 ### Intuition Plus Feeling  
+
+The NF (intuition plus feeling) people possess the same personal warmth as SF people because of their shared use of feeling for purposes of judgment, but because the NFs prefer intuition to sensing, they do not center their attention upon the concrete situation. Instead they focus on possibilities,  such as new projects (things that haven’t ever happened but might be made to happen) or new truths (things that are not yet known but might be found out). The new project or the new truth is imagined by the unconscious processes and then intuitively perceived as an idea that feels like an inspiration.  
+
+The personal warmth and commitment with which the NF people seek and follow up a possibility are impressive. They are both enthusiastic and insightful. Often they have a marked gift of language and can communicate both the possibility  they see and the value they attach to it. They are more likely to find success and satisfaction in work that calls for creativity to meet a human need. They may excel in teaching (particularly college and high school), preaching, advertising, selling of intangibles, counseling, clinical psychology, psychiatry, writing,  and most fields of research.   
+
+
 ### Intuition Plus Thinking  
+
+The NT (intuition plus thinking) people also use intuition but team it with thinking.  Although they focus on a possibility, they approach it with impersonal analysis. Often they choose a theoretical or executive possibility and subordinate the human element.   
+
+NTs tend to be logical and ingenious and are most successful in solving problems in a field of special interest, whether scientific research, electronic computing mathematics, the more complex aspects of finance, or any sort of development or pioneering in technical areas.  
+
+Everyone has probably met all four kinds of people: ST people, who are practical and matter-of-fact; the sympathetic and friendly SF people. NF people, who are characterized by their enthusiasm and insight; and NT people, who are logical and ingenious.  
+
+The skeptic may ask how four apparently basic categories of people could have gone unnoticed in the past. The answer is that the categories  have been noted repeatedly and by different investigators or theorists.   
+
+Vernon (1938) cited three systems of classification derived by different methods but which are strikingly parallel. Each reflects the combinations of perception and judgment: Thurstone (1931), by factor analysis of vocational interest scores, found four main factors corresponding to interest in business,  in people, in language, and in science; Gundlach and Gerum (1931), from inspection of interest intercorrelations,  deduced five main “type of ability,” namely, technical, social, creative, and intellectual, plus physical skill; Spranger (1928), from logical and intuitive considerations, derived six “types of men,” namely, economic, social religious, and theoretical, plus aesthetic and political.  
+
 
 ## The Extraversion-Introversion Preference  
 
