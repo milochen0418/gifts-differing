@@ -128,6 +128,15 @@ This preference makes the difference between the judging people, who order their
 
 ## Summary of the Four Preferences  
 
+Under the theory presented here, personality is structured by four preferences concerning the use of perception and judgment. Each of these preferences is a fork in the road of human development and determines which of two contrasting forms of excellence a person will pursue. How much excellence people actually achieve depends in part on their energy and their aspirations, but according to type theory, the kind of excellence toward which they are headed is determined by the inborn preferences that direct them at each fork in the road.
+
+|  | Preference for | Affects a person's choice | 
+| ------ | ------ | ------ |
+| EI | Extraversion or Introversion | To focus the dominant (favorite) process on the outer world or on the world of ideas |
+| SN | Sensing or Intuition | To use one kind of perception instead of the other when either could be used |
+| TF | Thinking or Feeling | To use one kind of judgment instead of the other when either could be used |
+| JP | Judgment or Perception | To use the judging or the perceptive attitude for dealing with the outer world |
+
 ## Creation of "Type" by Exercise of the Preferences  
 
 ## The Role of the Dominat Process  
