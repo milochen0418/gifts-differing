@@ -169,6 +169,10 @@ Under the theory presented here, personality is structured by four preferences c
 
 ## Creation of "Type" by Exercise of the Preferences  
 
+Under this theory, people create their “type” through exercise of their individual preferences regarding perception and judgment. The interests, values, needs, and habits of mind that naturally result from any set of preferences tend to produce a recognizable set of traits and potentialities.  
+
+Individuals can, therefore, be described in part by stating their four preferences, such as ENTP. Such a person can be expected to be different from others in ways characteristic of his or her type. To describe people as ENTPs does not infringe on their right to self-determination: They have already exercised this right by preferring E and N and T and P. Identifying and remembering people’s types shows respect not ojnly for their abstract right to develop along lines of their own choosing, but also for the concrete ways in which they are and prefer to be different from others.   
+
 ## The Role of the Dominat Process  
 
 ## The Role of the Auxiliary Process  
