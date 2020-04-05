@@ -116,6 +116,16 @@ Among the NF people, the introverts (INF) work out their insights slowly and car
 
 ## The Judgment-Perception Preference  
 
+One more preference enters into the identification of type -- the choice between the perceptive attitude and the judging attitude as a way of life, a method of dealing with the world around us. Although people must of course use both perception and judgment, both cannot be used at the same moment. So people shift back and forth between the perceptive and judging attitudes, sometimes quite abruptly, as when a parent with a high tolerance for children’s noise suddenly decides that enough is enough.   
+
+There is a time to perceive and a time to judge, and many times when either attitude might be appropriate. Most people find one attitude more comfortable than the other, feel more at home in it, and use it as often as possible in dealing with the outer world. For example, some readers are still following this explanation with an open mind; they are, at least for the moment, using perception. Other readers have decided by now that they agree or disagree; they are using judgment.   
+
+There is a fundamental opposition between the two attitudes. In order to come to a conclusion, people use the judging attitude and have to shut off perception for the time being. All the evidence is in, and anything more is irrelevant and immaterial. The time has come to arrive at a verdict. Conversely, in the perceptive attitude people shut off judgment. Not all the evidence is in; new developments will occur. It is much too soon to do anything irrevocable.   
+
+This preference makes the difference between the judging people, who order their lives, and the perceptive people, who just live them. Both attitudes have merit. Either can make a satisfying way of life, if a person can switch temporarily to the opposite attitude when it is really needed.  
+
+
+
 ## Summary of the Four Preferences  
 
 ## Creation of "Type" by Exercise of the Preferences  
