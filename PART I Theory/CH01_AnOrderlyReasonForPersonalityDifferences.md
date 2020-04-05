@@ -103,6 +103,17 @@ Vernon (1938) cited three systems of classification derived by different methods
 
 ## The Extraversion-Introversion Preference  
 
+Another basic difference in people’s use of perception and judgment arises from their relative interest in their outer and inner worlds. Introversion, in the sense given to it by Jung in formulating the term and the idea, is one of two complementary orientations to life; its complement is extraversion. The introvert’s main interests are in the inner world of concepts and ideas, while the extravert is more involved with the outer world of people and things. Therefore, when circumstances permit, the introvert concentrates perception and judgment upon ideas, while the extravert likes to focus them on the outside environment.   
+
+This is not to say that anyone is limited either to the inner world or to the outer. Well-developed introverts can deal ably with the world or to the outer. Well-developed introverts can deal ably with the world around them when necessary, but they do their best work inside their heads, in reflection. Similarly well-developed extraverts can deal effectively with ideas, but they do their best work externally, in action. For both kinds, the natural preference remains,  like right of left-handedness.  
+
+For example, some readers, who would like to get to the practical applications of this theory, are looking at it from the extravert standpoint. Other readers, who feel more interest in the insight that the theory may provide for understanding themselves and human nature in general, are seeing it from the introvert point of view.   
+
+Sing the EI preference (extraversion or introversion) is completely independent of the SN and TF preferences, extraverts and introverts may have any of the four combinations of perception and judgment. For example, among the STs, the introverts (IST) organize the facts and principles related to a situation; this approach is useful in economics or law. The extraverts (EST) organize the situation itself, including any idle by standers, and get things rolling, which is useful in business and industry. Things usually move faster for the extraverts; things move in a more considered direction for the introverts.    
+
+Among the NF people, the introverts (INF) work out their insights slowly and carefully, searching for eternal verities. The extraverts (ENF) have an urge to communicate and put their inspirations into practice. If the extraverts’ results are more extensive, the introverts’ maybe more profound.  
+
+
 ## The Judgment-Perception Preference  
 
 ## Summary of the Four Preferences  
