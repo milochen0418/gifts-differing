@@ -144,7 +144,10 @@ This preference makes the difference between the judging people, who order their
 
 ## Summary of the Four Preferences  
 
-Under the theory presented here, personality is structured by four preferences concerning the use of perception and judgment. Each of these preferences is a fork in the road of human development and determines which of two contrasting forms of excellence a person will pursue. How much excellence people actually achieve depends in part on their energy and their aspirations, but according to type theory, the kind of excellence toward which they are headed is determined by the inborn preferences that direct them at each fork in the road.
+Under the theory presented here, personality is structured by four preferences concerning the use of perception and judgment. Each of these preferences is a fork in the road of human development and determines which of two contrasting forms of excellence a person will pursue. How much excellence people actually achieve depends in part on their energy and their aspirations, but according to type theory, the kind of excellence toward which they are headed is determined by the inborn preferences that direct them at each fork in the road.  
+根據這裡介紹的理論，人格由關於感知和判斷使用的四個偏好構成。 這些偏好中的每一個都是人類發展道路上的一個分支，並決定一個人追求兩種不同的卓越形式。 人們實際上能取得多少成就，部分取決於他們的精力和志向，但是根據類型理論，他們所追求的卓越程度取決於先天的偏好，這些偏好將他們引導到道路上的每個分支。(Google 翻)
+
+------  
 
 |  | Preference for | Affects a person's choice | 
 | ------ | ------ | ------ |
@@ -152,6 +155,17 @@ Under the theory presented here, personality is structured by four preferences c
 | SN | Sensing or Intuition | To use one kind of perception instead of the other when either could be used |
 | TF | Thinking or Feeling | To use one kind of judgment instead of the other when either could be used |
 | JP | Judgment or Perception | To use the judging or the perceptive attitude for dealing with the outer world |
+  
+------------  
+ 
+|  | 偏好 | 對個體選擇的影響 | 
+| ------ | ------ | ------ |
+| EI | 外傾或內傾 | 將自己的主要精明投注在外部世界還是內部世界 |
+| SN | 感覺或直覺 | 當兩種感知方式都可行時，選擇使用感覙還是直覺 |
+| TF | 思考或情感 | 當兩種判斷方式都可行時，選擇使用思考還是情感 |
+| JP | 判斷或感知 | 在日常生活中，選擇判斷態度還是感知態度 |
+
+------------
 
 ## Creation of "Type" by Exercise of the Preferences  
 
