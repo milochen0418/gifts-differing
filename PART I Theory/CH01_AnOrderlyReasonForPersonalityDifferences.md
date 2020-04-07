@@ -210,6 +210,21 @@ Some people dislike the idea of a dominant process and prefer to think of themse
 
 ## The Role of the Auxiliary Process  
 
+One process alone, however, is not enough. For people to be balanced, they need adequate (but by no means equal) development of a second process, not as a rival to the dominant process but as a welcome auxiliary. If the dominant process is a judging one, the auxiliary process will be perceptive: Either sensing or intuition can supply sound material for judgments. If the dominant process is perceptive, the auxiliary process will be a judging one: Either thinking or feeling can give continuity of aim.
+
+If a person has no useful development of an auxiliary process, the absence is likely to be obvious. An extreme perceptive with no judgment is all sail and no rudder. An extreme judging type with no perception is all form and no content. 
+
+In addition to supplementing the dominant process in its main field of activity, the auxiliary has another responsibility. It carries the main burden of supplying adequate balance (but not equality) between extraversion and introversion, between the outer and inner worlds. For all types, the dominant process becomes deeply absorbed in the world that interests them most, and such absorption is fitting and proper. The world of their choice is not only more interesting, it is more important to them. It is where they can do their best work and function at their best level, and it lays claim to the almost undivided attention of their best process. If the dominant process becomes deeply involved in less important matters are left to the auxiliary process. 
+
+For extraverts, the dominant process is concerned with the outer world of people and things, and the auxiliary process has to look after their inner lives, without which the extraverts would be extreme in the extraversion and, in the opinions of their better-balanced associates, superficial. 
+
+Introverts have less choice about participating in both worlds. The outer life is  thrust upon them whether they want one or not. Their dominant process is engrossed with the inner world of ideas, and the auxiliary process does what it can about their outer lives. In effect, the dominant process says to the auxiliary, “Go out there and tend to the things that can’t be avoided, and don’t ask me to work on them except when it’s absolutely necessary.”
+
+Introverts are reluctant to use the dominant process on the outer world any more than necessary because of the predictable results. If the dominant process, which is the most adult and conscientious process, is used on outer things, it will involve the introverts in more extraversion than they can handle, and such involvement will cost them privacy and peace.
+
+The success of introverts’ contacts with the outer world depends on the effectiveness of their auxiliary. If their auxiliary process is not adequately developed, their outer lives will be very awkward, accidental, and uncomfortable. Thus there is a more obvious penalty upon introverts who fail to develop useful auxiliary than upon the extraverts with a like deficiency. 
+
+
 ## Difficulty of Seeing the Introverts' Dominant Process  
 
 ## Finding Which Process Is Dominant  
