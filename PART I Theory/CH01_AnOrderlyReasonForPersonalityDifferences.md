@@ -177,6 +177,27 @@ Individuals can, therefore, be described in part by stating their four preferenc
 
 ## The Role of the Dominat Process  
 
+It is easier to recognize a person’s preferred way of perception and way of judging than it is to tell which of the two is the dominant process. There is no doubt that a ship needs a captain with undisputed authority to set its course and bring it safely to the desired port. It would never make harbor if each person at the helm in turn aimed at a different destination and altered course accordingly.  
+
+In the same way, people need some governing force in their makeup. They need to develop their best process to the point where it dominates and unifies their lives. In the natural course of events, each person does just that.  
+
+For example, those ENTs who find intuition more interesting than thinking will naturally give intuition the right of way and subordinate thinking to it. Their intuition acquires an unquestioned personal validity that no other process can approach. They will enjoy, use, and trust it most. Their lives will be so shaped as to give maximum freedom for the pursuit of intuitive goals. BEcause intuition is a perceptive process. These ENTs will deal with the world in the perceptive attitude, which makes them ENTPs.   
+
+They will consult their judgment, their thinking, only when it does not conflict with their intuition. Even then, they will use it only to a degree, depending on how well developed it is. They may make fine use of thinking in pursuit of something they want because of their intuition, but ENTPs will not permit thinking to reject what they are pursuing.   
+
+On the other hand, those ENTs who find thinking more attractive than intuition will tend to let their thinking take charge of their lives, with intuition in second place. Thinking will dictate the goals, and intuition will only be allowed to suggest suitable means of reaching them. Since the process they prefer is a judging one, these ENTs will deal with the world in the judging attitude; therefore they are ENTJs.   
+
+Similarly, some ESFs find more satisfaction in feeling than in sensing; they let their feeling take charge of their lives, with sensing in second place. Feeling is then supreme and unquestioned. In any conflict with the other processes, feeling dominates. The lives of these ESFs will be shaped to serve their feeling values. Because of the preference for feeling, a judging process, they will deal with the world in the judging attitude. They are ESFJ.  
+
+ESFJs will pay real attention to their perception, their sensing, only when it is in accord with their feeling. Even then, they will respect it only to a degree, depending on how well they have developed it. They will not acknowledge doubts raised by the senses concerning something valued by their feeling.  
+
+However, other ESFs find sensing more rewarding than feeling and will tend to put sensing first and feeling in second place. Their lives will be shaped to serve their sensing -- to provide a stream of experiences that provide something interesting to see, hear, taste, or handle. Feeling will be allowed to contribute but not to interfere. Because sensing, a perceptive process, is preferred, these ESFs will deal with the world in the perceptive attitude, and therefore they are ESFPs.  
+
+This phenomenon, of the dominant process overshadowing the other processes and shaping the personality accordingly, was empirically noted by Jung in the course of his work and became, along with the extraversion-introversion preference, the basis of his Psychological Types.  
+
+Some people dislike the idea of a dominant process and prefer to think of themselves as using all four processes equally. However, Jung holds that such impartiality, where it actually exists, keeps all of the processes relatively undeveloped and produces a “primitive mentality,” because opposite ways of doing the same thing interfere with each other if neither has priority. If one perceptive process is to reach a high degree of development, it needs undivided attention much of the time, which means that the other must be shut off frequently and will be less developed. If one judging process is to become highly developed, it must similarly have the right of way. One perceptive process and one judging process can develop side by side, provided one is used in the service of the other. But one process -- sensing, intuition, thinking, or feeling -- must have clear sovereignty, with opportunity to reach its full development, if a person is to be really effective.  
+
+
 ## The Role of the Auxiliary Process  
 
 ## Difficulty of Seeing the Introverts' Dominant Process  
