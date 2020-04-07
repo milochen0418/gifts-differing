@@ -178,51 +178,58 @@ Individuals can, therefore, be described in part by stating their four preferenc
 ## The Role of the Dominat Process  
 
 It is easier to recognize a person’s preferred way of perception and way of judging than it is to tell which of the two is the dominant process. There is no doubt that a ship needs a captain with undisputed authority to set its course and bring it safely to the desired port. It would never make harbor if each person at the helm in turn aimed at a different destination and altered course accordingly.  
-識別一個人偏愛的感知方式和判斷方式要比分辨兩者中的哪一個是主導過程要容易得多。毫無疑問，船舶需要擁有無可爭議的權威的船長來設定航向並將其安全地帶到所需的港口。如果掌舵的每個人依次瞄準不同的目的地並相應地改變航向，那將永遠不會成為港口。  
+識別一個人偏愛的感知方式和判斷方式要比分辨兩者中的哪一個是主導過程要容易得多。毫無疑問，船舶需要擁有無可爭議的權威的船長來設定航向並將其安全地帶到所需的港口。如果掌舵的每個人依次瞄準不同的目的地並相應地改變航向，那將永遠不會成為港口。(Google 翻)    
 
 In the same way, people need some governing force in their makeup. They need to develop their best process to the point where it dominates and unifies their lives. In the natural course of events, each person does just that.  
-同樣，人們在妝容中需要一些統治力。他們需要發展自己的最佳流程，使其支配和統一他們的生活。在自然事件中，每個人都這樣做。  
+同樣，人們在妝容中需要一些統治力。他們需要發展自己的最佳流程，使其支配和統一他們的生活。在自然事件中，每個人都這樣做。(Google 翻)    
 
 For example, those ENTs who find intuition more interesting than thinking will naturally give intuition the right of way and subordinate thinking to it. Their intuition acquires an unquestioned personal validity that no other process can approach. They will enjoy, use, and trust it most. Their lives will be so shaped as to give maximum freedom for the pursuit of intuitive goals. BEcause intuition is a perceptive process. These ENTs will deal with the world in the perceptive attitude, which makes them ENTPs.   
-例如，那些覺得直覺比思考有趣的耳鼻喉科醫師自然會賦予直覺以通行權和從屬思維的權利。他們的直覺獲得了毫無疑問的個人有效性，這是其他任何過程都無法接近的。他們將最喜歡，使用和信任它。他們的生活將被塑造，以便為追求直觀目標提供最大的自由。因為直覺是一個感知過程。這些ENT將以感知的態度與世界打交道，這使其成為ENTP。  
+例如，那些覺得直覺比思考有趣的耳鼻喉科醫師自然會賦予直覺以通行權和從屬思維的權利。他們的直覺獲得了毫無疑問的個人有效性，這是其他任何過程都無法接近的。他們將最喜歡，使用和信任它。他們的生活將被塑造，以便為追求直觀目標提供最大的自由。因為直覺是一個感知過程。這些ENT將以感知的態度與世界打交道，這使其成為ENTP。(Google 翻)    
 
 They will consult their judgment, their thinking, only when it does not conflict with their intuition. Even then, they will use it only to a degree, depending on how well developed it is. They may make fine use of thinking in pursuit of something they want because of their intuition, but ENTPs will not permit thinking to reject what they are pursuing.   
-只有在與自己的直覺不衝突時，他們才會徵求自己的判斷和思想。即使這樣，他們也只會在一定程度上使用它，這取決於它的開發程度。他們可能會因為直覺而善於利用思維去追求自己想要的東西，但是ENTP不允許思考拒絕他們追求的東西。  
+只有在與自己的直覺不衝突時，他們才會徵求自己的判斷和思想。即使這樣，他們也只會在一定程度上使用它，這取決於它的開發程度。他們可能會因為直覺而善於利用思維去追求自己想要的東西，但是ENTP不允許思考拒絕他們追求的東西。(Google 翻)    
 
 On the other hand, those ENTs who find thinking more attractive than intuition will tend to let their thinking take charge of their lives, with intuition in second place. Thinking will dictate the goals, and intuition will only be allowed to suggest suitable means of reaching them. Since the process they prefer is a judging one, these ENTs will deal with the world in the judging attitude; therefore they are ENTJs.   
-另一方面，那些覺得思維比直覺更具吸引力的耳鼻喉科將傾向於讓自己的思維掌控自己的生活，而直覺排在第二位。思維將決定目標，直覺將僅被允許提出實現目標的合適方法。由於他們喜歡的過程是一個判斷過程，因此這些ENT將以判斷態度與整個世界打交道。因此它們是ENTJ。  
+另一方面，那些覺得思維比直覺更具吸引力的耳鼻喉科將傾向於讓自己的思維掌控自己的生活，而直覺排在第二位。思維將決定目標，直覺將僅被允許提出實現目標的合適方法。由於他們喜歡的過程是一個判斷過程，因此這些ENT將以判斷態度與整個世界打交道。因此它們是ENTJ。(Google 翻)    
 
 Similarly, some ESFs find more satisfaction in feeling than in sensing; they let their feeling take charge of their lives, with sensing in second place. Feeling is then supreme and unquestioned. In any conflict with the other processes, feeling dominates. The lives of these ESFs will be shaped to serve their feeling values. Because of the preference for feeling, a judging process, they will deal with the world in the judging attitude. They are ESFJ.  
-同樣，一些ESF在感覺上比在感覺上更滿意。他們讓自己的感覺掌控自己的生活，而感知則排在第二位。感覺是至高無上的。在與其他過程的任何衝突中，感覺占主導地位。這些ESF的生活將被塑造以服務於他們的情感價值。由於對感覺的偏好和判斷過程，他們將以判斷態度與世界打交道。他們是ESFJ。  
+同樣，一些ESF在感覺上比在感覺上更滿意。他們讓自己的感覺掌控自己的生活，而感知則排在第二位。感覺是至高無上的。在與其他過程的任何衝突中，感覺占主導地位。這些ESF的生活將被塑造以服務於他們的情感價值。由於對感覺的偏好和判斷過程，他們將以判斷態度與世界打交道。他們是ESFJ。(Google 翻)    
 
 ESFJs will pay real attention to their perception, their sensing, only when it is in accord with their feeling. Even then, they will respect it only to a degree, depending on how well they have developed it. They will not acknowledge doubts raised by the senses concerning something valued by their feeling.  
-ESFJ只會在符合他們的感覺時才真正關注他們的感知和感知。即使這樣，他們也只會在一定程度上尊重它，具體取決於他們的開發程度。他們不會承認感官對他們的感覺所重視的事物提出的疑問。  
+ESFJ只會在符合他們的感覺時才真正關注他們的感知和感知。即使這樣，他們也只會在一定程度上尊重它，具體取決於他們的開發程度。他們不會承認感官對他們的感覺所重視的事物提出的疑問。(Google 翻)    
 
 However, other ESFs find sensing more rewarding than feeling and will tend to put sensing first and feeling in second place. Their lives will be shaped to serve their sensing -- to provide a stream of experiences that provide something interesting to see, hear, taste, or handle. Feeling will be allowed to contribute but not to interfere. Because sensing, a perceptive process, is preferred, these ESFs will deal with the world in the perceptive attitude, and therefore they are ESFPs.  
-但是，其他ESF則發現感覺比感覺更有意義，並且傾向於將感覺放在第一位，將感覺放在第二位。他們的生活將被塑造以服務於他們的感知-提供一系列的體驗，這些體驗提供一些有趣的事物，以供觀看，聆聽，品嚐或操作。感覺會有所貢獻，但不能干預。由於感知是一個感知過程，因此這些ESF將以感知態度與世界打交道，因此它們是ESFP。  
+但是，其他ESF則發現感覺比感覺更有意義，並且傾向於將感覺放在第一位，將感覺放在第二位。他們的生活將被塑造以服務於他們的感知-提供一系列的體驗，這些體驗提供一些有趣的事物，以供觀看，聆聽，品嚐或操作。感覺會有所貢獻，但不能干預。由於感知是一個感知過程，因此這些ESF將以感知態度與世界打交道，因此它們是ESFP。(Google 翻)    
 
 This phenomenon, of the dominant process overshadowing the other processes and shaping the personality accordingly, was empirically noted by Jung in the course of his work and became, along with the extraversion-introversion preference, the basis of his Psychological Types.  
-榮格在工作過程中憑經驗指出了這一現象，即占主導地位的過程蓋過了其他過程並相應地塑造了人格，並與外向內向型偏好一起成為他的心理類型的基礎。  
+榮格在工作過程中憑經驗指出了這一現象，即占主導地位的過程蓋過了其他過程並相應地塑造了人格，並與外向內向型偏好一起成為他的心理類型的基礎。(Google 翻)    
 
 Some people dislike the idea of a dominant process and prefer to think of themselves as using all four processes equally. However, Jung holds that such impartiality, where it actually exists, keeps all of the processes relatively undeveloped and produces a “primitive mentality,” because opposite ways of doing the same thing interfere with each other if neither has priority. If one perceptive process is to reach a high degree of development, it needs undivided attention much of the time, which means that the other must be shut off frequently and will be less developed. If one judging process is to become highly developed, it must similarly have the right of way. One perceptive process and one judging process can develop side by side, provided one is used in the service of the other. But one process -- sensing, intuition, thinking, or feeling -- must have clear sovereignty, with opportunity to reach its full development, if a person is to be really effective.  
-有些人不喜歡主導性過程的想法，而寧願認為自己平等地使用了所有四個過程。但是，榮格認為，這種公正性（實際上存在）使所有過程相對不發達，並產生了一種“原始心態”，因為如果沒有一個人優先考慮，做相同事情的相反方法會互相干擾。如果一個感知過程要達到較高的發展水平，那麼它在很多時候都需要全神貫注，這意味著必須經常關閉另一個感知過程，否則它就不會發展。如果一個審判程序要高度發展，它同樣必須具有通行權。一個感知過程和一個判斷過程可以並排發展，只要其中一個用於另一個。但是，如果一個人要真正變得有效，一個過程-感知，直覺，思考或感覺-必須擁有明確的主權，並有機會實現其全面發展。  
+有些人不喜歡主導性過程的想法，而寧願認為自己平等地使用了所有四個過程。但是，榮格認為，這種公正性（實際上存在）使所有過程相對不發達，並產生了一種“原始心態”，因為如果沒有一個人優先考慮，做相同事情的相反方法會互相干擾。如果一個感知過程要達到較高的發展水平，那麼它在很多時候都需要全神貫注，這意味著必須經常關閉另一個感知過程，否則它就不會發展。如果一個審判程序要高度發展，它同樣必須具有通行權。一個感知過程和一個判斷過程可以並排發展，只要其中一個用於另一個。但是，如果一個人要真正變得有效，一個過程-感知，直覺，思考或感覺-必須擁有明確的主權，並有機會實現其全面發展。(Google 翻)    
 
 
 ## The Role of the Auxiliary Process  
 
-One process alone, however, is not enough. For people to be balanced, they need adequate (but by no means equal) development of a second process, not as a rival to the dominant process but as a welcome auxiliary. If the dominant process is a judging one, the auxiliary process will be perceptive: Either sensing or intuition can supply sound material for judgments. If the dominant process is perceptive, the auxiliary process will be a judging one: Either thinking or feeling can give continuity of aim.
+One process alone, however, is not enough. For people to be balanced, they need adequate (but by no means equal) development of a second process, not as a rival to the dominant process but as a welcome auxiliary. If the dominant process is a judging one, the auxiliary process will be perceptive: Either sensing or intuition can supply sound material for judgments. If the dominant process is perceptive, the auxiliary process will be a judging one: Either thinking or feeling can give continuity of aim.  
+但是，僅一個過程是不夠的。為了使人們保持平衡，他們需要充分（但絕不平等）發展第二個過程，而不是與主導過程競爭，而是作為一個受歡迎的輔助手段。如果主導過程是判斷過程，則輔助過程將是可感知的：感知或直覺都可以為判斷提供合理的素材。如果主導過程是感知性的，則輔助過程將是一個判斷：思維或感覺都可以賦予目標連續性。(Google 翻)    
 
-If a person has no useful development of an auxiliary process, the absence is likely to be obvious. An extreme perceptive with no judgment is all sail and no rudder. An extreme judging type with no perception is all form and no content. 
+If a person has no useful development of an auxiliary process, the absence is likely to be obvious. An extreme perceptive with no judgment is all sail and no rudder. An extreme judging type with no perception is all form and no content.   
+如果一個人沒有輔助過程的有益發展，那麼這種缺失很可能是顯而易見的。一個沒有判斷力的極端洞察力就是所有的帆和舵。沒有感知的極端判斷類型就是形式和內容。(Google 翻)    
 
-In addition to supplementing the dominant process in its main field of activity, the auxiliary has another responsibility. It carries the main burden of supplying adequate balance (but not equality) between extraversion and introversion, between the outer and inner worlds. For all types, the dominant process becomes deeply absorbed in the world that interests them most, and such absorption is fitting and proper. The world of their choice is not only more interesting, it is more important to them. It is where they can do their best work and function at their best level, and it lays claim to the almost undivided attention of their best process. If the dominant process becomes deeply involved in less important matters are left to the auxiliary process. 
+In addition to supplementing the dominant process in its main field of activity, the auxiliary has another responsibility. It carries the main burden of supplying adequate balance (but not equality) between extraversion and introversion, between the outer and inner worlds. For all types, the dominant process becomes deeply absorbed in the world that interests them most, and such absorption is fitting and proper. The world of their choice is not only more interesting, it is more important to them. It is where they can do their best work and function at their best level, and it lays claim to the almost undivided attention of their best process. If the dominant process becomes deeply involved in less important matters are left to the auxiliary process.  
+除了補充其主要活動領域中的主導過程外，輔助者還承擔另一項責任。它承擔著在外在世界與內在世界之間在內向與內向之間提供適當平衡（而不是平等）的主要負擔。對於所有類型，主導過程都已深深地吸引到了他們最感興趣的世界中，並且這種吸收是適當且適當的。他們選擇的世界不僅更有趣，而且對他們來說更重要。在這裡，他們可以盡其所能，盡力而為，盡其所能，這是他們最好的過程的關注點。如果主導過程深入參與了次要問題，則由輔助過程處理。(Google 翻)    
 
-For extraverts, the dominant process is concerned with the outer world of people and things, and the auxiliary process has to look after their inner lives, without which the extraverts would be extreme in the extraversion and, in the opinions of their better-balanced associates, superficial. 
+For extraverts, the dominant process is concerned with the outer world of people and things, and the auxiliary process has to look after their inner lives, without which the extraverts would be extreme in the extraversion and, in the opinions of their better-balanced associates, superficial.   
+對於外向型人來說，支配性過程與人和物的外部世界有關，輔助過程必須照顧他們的內心生活，否則，外向型人在外向性方面將是極端的，並根據他們的平衡良好的員工的看法，膚淺。(Google 翻)    
 
-Introverts have less choice about participating in both worlds. The outer life is  thrust upon them whether they want one or not. Their dominant process is engrossed with the inner world of ideas, and the auxiliary process does what it can about their outer lives. In effect, the dominant process says to the auxiliary, “Go out there and tend to the things that can’t be avoided, and don’t ask me to work on them except when it’s absolutely necessary.”
+Introverts have less choice about participating in both worlds. The outer life is  thrust upon them whether they want one or not. Their dominant process is engrossed with the inner world of ideas, and the auxiliary process does what it can about their outer lives. In effect, the dominant process says to the auxiliary, “Go out there and tend to the things that can’t be avoided, and don’t ask me to work on them except when it’s absolutely necessary.”  
+內向的人對參與這兩個世界的選擇較少。無論他們是否想要，外來生活都強加於他們。他們的主導過程全神貫注於思想的內在世界，而輔助過程則盡其所能地對待他們的外在生活。實際上，支配過程對輔助人員說：“到那裡去做一些不可避免的事情，不要讓我去做，除非絕對必要。”(Google 翻)    
 
-Introverts are reluctant to use the dominant process on the outer world any more than necessary because of the predictable results. If the dominant process, which is the most adult and conscientious process, is used on outer things, it will involve the introverts in more extraversion than they can handle, and such involvement will cost them privacy and peace.
+Introverts are reluctant to use the dominant process on the outer world any more than necessary because of the predictable results. If the dominant process, which is the most adult and conscientious process, is used on outer things, it will involve the introverts in more extraversion than they can handle, and such involvement will cost them privacy and peace.  
+內向的人由於可預見的結果，不願意在外部世界使用主導性過程。如果在外部事物上使用占主導地位的過程，這是最成人和最認真的過程，它將使內向的人更多地無法獲得外向的外向性，而這種介入將使他們的隱私與和平陷入困境。(Google 翻)    
 
-The success of introverts’ contacts with the outer world depends on the effectiveness of their auxiliary. If their auxiliary process is not adequately developed, their outer lives will be very awkward, accidental, and uncomfortable. Thus there is a more obvious penalty upon introverts who fail to develop useful auxiliary than upon the extraverts with a like deficiency. 
+The success of introverts’ contacts with the outer world depends on the effectiveness of their auxiliary. If their auxiliary process is not adequately developed, their outer lives will be very awkward, accidental, and uncomfortable. Thus there is a more obvious penalty upon introverts who fail to develop useful auxiliary than upon the extraverts with a like deficiency.   
+性格內向的人與外界接觸的成功取決於他們的輔助能力。如果他們的輔助過程沒有得到充分的發展，他們的外在生活將非常尷尬，偶然和不舒服。因此，對內向型人未能發展出有用的輔助，比對具有類似缺陷的外向型人有更明顯的懲罰。(Google 翻)    
 
 
 ## Difficulty of Seeing the Introverts' Dominant Process  
