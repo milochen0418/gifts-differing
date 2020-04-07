@@ -178,24 +178,34 @@ Individuals can, therefore, be described in part by stating their four preferenc
 ## The Role of the Dominat Process  
 
 It is easier to recognize a person’s preferred way of perception and way of judging than it is to tell which of the two is the dominant process. There is no doubt that a ship needs a captain with undisputed authority to set its course and bring it safely to the desired port. It would never make harbor if each person at the helm in turn aimed at a different destination and altered course accordingly.  
+識別一個人偏愛的感知方式和判斷方式要比分辨兩者中的哪一個是主導過程要容易得多。毫無疑問，船舶需要擁有無可爭議的權威的船長來設定航向並將其安全地帶到所需的港口。如果掌舵的每個人依次瞄準不同的目的地並相應地改變航向，那將永遠不會成為港口。  
 
 In the same way, people need some governing force in their makeup. They need to develop their best process to the point where it dominates and unifies their lives. In the natural course of events, each person does just that.  
+同樣，人們在妝容中需要一些統治力。他們需要發展自己的最佳流程，使其支配和統一他們的生活。在自然事件中，每個人都這樣做。  
 
 For example, those ENTs who find intuition more interesting than thinking will naturally give intuition the right of way and subordinate thinking to it. Their intuition acquires an unquestioned personal validity that no other process can approach. They will enjoy, use, and trust it most. Their lives will be so shaped as to give maximum freedom for the pursuit of intuitive goals. BEcause intuition is a perceptive process. These ENTs will deal with the world in the perceptive attitude, which makes them ENTPs.   
+例如，那些覺得直覺比思考有趣的耳鼻喉科醫師自然會賦予直覺以通行權和從屬思維的權利。他們的直覺獲得了毫無疑問的個人有效性，這是其他任何過程都無法接近的。他們將最喜歡，使用和信任它。他們的生活將被塑造，以便為追求直觀目標提供最大的自由。因為直覺是一個感知過程。這些ENT將以感知的態度與世界打交道，這使其成為ENTP。  
 
 They will consult their judgment, their thinking, only when it does not conflict with their intuition. Even then, they will use it only to a degree, depending on how well developed it is. They may make fine use of thinking in pursuit of something they want because of their intuition, but ENTPs will not permit thinking to reject what they are pursuing.   
+只有在與自己的直覺不衝突時，他們才會徵求自己的判斷和思想。即使這樣，他們也只會在一定程度上使用它，這取決於它的開發程度。他們可能會因為直覺而善於利用思維去追求自己想要的東西，但是ENTP不允許思考拒絕他們追求的東西。  
 
 On the other hand, those ENTs who find thinking more attractive than intuition will tend to let their thinking take charge of their lives, with intuition in second place. Thinking will dictate the goals, and intuition will only be allowed to suggest suitable means of reaching them. Since the process they prefer is a judging one, these ENTs will deal with the world in the judging attitude; therefore they are ENTJs.   
+另一方面，那些覺得思維比直覺更具吸引力的耳鼻喉科將傾向於讓自己的思維掌控自己的生活，而直覺排在第二位。思維將決定目標，直覺將僅被允許提出實現目標的合適方法。由於他們喜歡的過程是一個判斷過程，因此這些ENT將以判斷態度與整個世界打交道。因此它們是ENTJ。  
 
 Similarly, some ESFs find more satisfaction in feeling than in sensing; they let their feeling take charge of their lives, with sensing in second place. Feeling is then supreme and unquestioned. In any conflict with the other processes, feeling dominates. The lives of these ESFs will be shaped to serve their feeling values. Because of the preference for feeling, a judging process, they will deal with the world in the judging attitude. They are ESFJ.  
+同樣，一些ESF在感覺上比在感覺上更滿意。他們讓自己的感覺掌控自己的生活，而感知則排在第二位。感覺是至高無上的。在與其他過程的任何衝突中，感覺占主導地位。這些ESF的生活將被塑造以服務於他們的情感價值。由於對感覺的偏好和判斷過程，他們將以判斷態度與世界打交道。他們是ESFJ。  
 
 ESFJs will pay real attention to their perception, their sensing, only when it is in accord with their feeling. Even then, they will respect it only to a degree, depending on how well they have developed it. They will not acknowledge doubts raised by the senses concerning something valued by their feeling.  
+ESFJ只會在符合他們的感覺時才真正關注他們的感知和感知。即使這樣，他們也只會在一定程度上尊重它，具體取決於他們的開發程度。他們不會承認感官對他們的感覺所重視的事物提出的疑問。  
 
 However, other ESFs find sensing more rewarding than feeling and will tend to put sensing first and feeling in second place. Their lives will be shaped to serve their sensing -- to provide a stream of experiences that provide something interesting to see, hear, taste, or handle. Feeling will be allowed to contribute but not to interfere. Because sensing, a perceptive process, is preferred, these ESFs will deal with the world in the perceptive attitude, and therefore they are ESFPs.  
+但是，其他ESF則發現感覺比感覺更有意義，並且傾向於將感覺放在第一位，將感覺放在第二位。他們的生活將被塑造以服務於他們的感知-提供一系列的體驗，這些體驗提供一些有趣的事物，以供觀看，聆聽，品嚐或操作。感覺會有所貢獻，但不能干預。由於感知是一個感知過程，因此這些ESF將以感知態度與世界打交道，因此它們是ESFP。  
 
 This phenomenon, of the dominant process overshadowing the other processes and shaping the personality accordingly, was empirically noted by Jung in the course of his work and became, along with the extraversion-introversion preference, the basis of his Psychological Types.  
+榮格在工作過程中憑經驗指出了這一現象，即占主導地位的過程蓋過了其他過程並相應地塑造了人格，並與外向內向型偏好一起成為他的心理類型的基礎。  
 
 Some people dislike the idea of a dominant process and prefer to think of themselves as using all four processes equally. However, Jung holds that such impartiality, where it actually exists, keeps all of the processes relatively undeveloped and produces a “primitive mentality,” because opposite ways of doing the same thing interfere with each other if neither has priority. If one perceptive process is to reach a high degree of development, it needs undivided attention much of the time, which means that the other must be shut off frequently and will be less developed. If one judging process is to become highly developed, it must similarly have the right of way. One perceptive process and one judging process can develop side by side, provided one is used in the service of the other. But one process -- sensing, intuition, thinking, or feeling -- must have clear sovereignty, with opportunity to reach its full development, if a person is to be really effective.  
+有些人不喜歡主導性過程的想法，而寧願認為自己平等地使用了所有四個過程。但是，榮格認為，這種公正性（實際上存在）使所有過程相對不發達，並產生了一種“原始心態”，因為如果沒有一個人優先考慮，做相同事情的相反方法會互相干擾。如果一個感知過程要達到較高的發展水平，那麼它在很多時候都需要全神貫注，這意味著必須經常關閉另一個感知過程，否則它就不會發展。如果一個審判程序要高度發展，它同樣必須具有通行權。一個感知過程和一個判斷過程可以並排發展，只要其中一個用於另一個。但是，如果一個人要真正變得有效，一個過程-感知，直覺，思考或感覺-必須擁有明確的主權，並有機會實現其全面發展。  
 
 
 ## The Role of the Auxiliary Process  
