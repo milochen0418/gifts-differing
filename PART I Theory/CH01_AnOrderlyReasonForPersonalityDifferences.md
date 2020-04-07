@@ -267,7 +267,7 @@ For ready reference, the underlined letters in Figure 1 indicate the dominant pr
 
 |  | ST | SF | NF | NT |
 | ------ | ------ | ------ | ------ | ------ |
-| I--J | I`S`TJ | I`S`FJ | I`N`FJ | I`N`TJ |
+| I--J | I`**S**`TJ | I`S`FJ | I`N`FJ | I`N`TJ |
 | I--P | IS`T`P | IS`F`P | IN`F`P | IN`T`P |
 | E--P | E`S`TP | E`S`FP | E`N`FP | E`N`TP |
 | E--J | ES`T`J | ES`F`J | EN`F`J | EN`T`J |
