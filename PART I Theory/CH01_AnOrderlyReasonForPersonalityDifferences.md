@@ -231,7 +231,21 @@ Introverts are reluctant to use the dominant process on the outer world any more
 The success of introverts’ contacts with the outer world depends on the effectiveness of their auxiliary. If their auxiliary process is not adequately developed, their outer lives will be very awkward, accidental, and uncomfortable. Thus there is a more obvious penalty upon introverts who fail to develop useful auxiliary than upon the extraverts with a like deficiency.   
 性格內向的人與外界接觸的成功取決於他們的輔助能力。如果他們的輔助過程沒有得到充分的發展，他們的外在生活將非常尷尬，偶然和不舒服。因此，對內向型人未能發展出有用的輔助，比對具有類似缺陷的外向型人有更明顯的懲罰。(Google 翻)    
 
-
 ## Difficulty of Seeing the Introverts' Dominant Process  
+
+In the extraverts, the dominant process, being extraverted, is not only visible but conspicuous. Their most trusted, most skilled, most adult way of using their minds is devoted to the outside world. Therefore it is the side ordinarily presented, the side others see, even in casual contacts. The extraverts’ best process tends to be immediately apparent.  
+
+With introverts, the reverse is true. The dominant process is habitually and stubbornly introverted; when their attention must turn to the outer world, they tend to use the auxiliary process. Except for those who are very close to introverts, or very much interested in work that they love (which is probably the best way of getting close to them), people are not likely to be admitted to the introverts’ inner worlds. Most people see only the side introverts present to the outer world, which is mostly their auxiliary process, their second best.  
+
+The result is a paradox. Introverts whose dominant process is a judging process, either thinking or feeling, do not outwardly act like judging people. What shows on the outside is the perceptiveness of their auxiliary process, and they live their outer lives mainly in the perceptive attitude. The inner judgingness is not apparent until something comes up that is important to their inner worlds. At such moments they may take a startlingly positive stand.  
+
+Similarly, introverts whose dominant process is perceptive, either sensing or intuition, do not outwardly behave like perceptive people. They show the judgingness of the auxiliary process and live their outer lives mainly in the judging attitude.  
+
+A good way to visualize the difference is to think of the dominant process as the General and the auxiliary process as his Aide. In the case of the extravert, the General is always out in the open. Other people meet him immediately and do their business directly with him. They can get the official viewpoint on anything at any time. The Aide stands respectfully in the background or disappears inside the tent. The introvert’s General is inside the tent, working on matters of top priority. The Aide is outside fending off interruptions, or, if he is inside helping the General, he comes out to see what is wanted. It is the Aide whom others meet and with whom they do their business. Only when the business is very important( or the friendship is very close) do others get in to see the General himself.  
+
+If people do not realize that there is a General in the tent who far outranks the Aide they have met, they may easily assume that the Aide is in sole charge. This is a regrettable mistake. It leads not only to an underestimation of the introvert’s abilities but also to an incomplete understanding of his wishes, plans, and point of view. The only source for such inside information is the General.   
+
+A cardinal precaution in dealing with introverts, therefore, is not to assume, just from ordinary contact, that they have revealed what really matters to them. Whenever there is a decision to be made that involves introverts, they should be told about it as fully as possible. If the matter is important to them, the General will come out of the tent and reveal a number of new things, and the ultimate decision will have a better chance of being right.  
+
 
 ## Finding Which Process Is Dominant  
