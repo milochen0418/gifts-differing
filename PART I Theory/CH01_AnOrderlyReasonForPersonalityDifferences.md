@@ -234,18 +234,25 @@ The success of introverts’ contacts with the outer world depends on the effect
 ## Difficulty of Seeing the Introverts' Dominant Process  
 
 In the extraverts, the dominant process, being extraverted, is not only visible but conspicuous. Their most trusted, most skilled, most adult way of using their minds is devoted to the outside world. Therefore it is the side ordinarily presented, the side others see, even in casual contacts. The extraverts’ best process tends to be immediately apparent.  
+在外向型中，被外向的主導過程不僅可見，而且顯而易見。他們最值得信賴，最熟練，最成年的思維方式專門用於外界。因此，即使在偶然的接觸中，它也是通常別人看到的一面。外向者的最佳流程往往會立即顯現出來。  
 
 With introverts, the reverse is true. The dominant process is habitually and stubbornly introverted; when their attention must turn to the outer world, they tend to use the auxiliary process. Except for those who are very close to introverts, or very much interested in work that they love (which is probably the best way of getting close to them), people are not likely to be admitted to the introverts’ inner worlds. Most people see only the side introverts present to the outer world, which is mostly their auxiliary process, their second best.  
+內向的人則相反。主導過程是習慣性和固執的內向；當他們的注意力必須轉向外部世界時，他們傾向於使用輔助過程。除了那些非常內向的人，或者對自己喜歡的工作非常感興趣的人（這可能是與他們親近的最好方法），人們不太可能被內向的人接納。大多數人只看到外向的性格內向，這主要是他們的輔助過程，是第二好的。  
 
 The result is a paradox. Introverts whose dominant process is a judging process, either thinking or feeling, do not outwardly act like judging people. What shows on the outside is the perceptiveness of their auxiliary process, and they live their outer lives mainly in the perceptive attitude. The inner judgingness is not apparent until something comes up that is important to their inner worlds. At such moments they may take a startlingly positive stand.  
+結果是自相矛盾。性格內向的人，其主導過程是判斷過程，無論是思考還是感覺，都不會像評判人那樣外向。外部表現出的是他們輔助過程的感知力，他們的外來生活主要是靠感知力的態度。直到出現對他們的內在世界很重要的事情時，內在的判斷才變得明顯。在這樣的時刻，他們可能會採取驚人的積極立場。  
 
 Similarly, introverts whose dominant process is perceptive, either sensing or intuition, do not outwardly behave like perceptive people. They show the judgingness of the auxiliary process and live their outer lives mainly in the judging attitude.  
+同樣，內向型人的主導過程是感知性的，無論是感知性還是直覺性，其外在行為都不像感知性人。他們表現出輔助過程的判斷力，主要依靠判斷態度來生活。  
 
 A good way to visualize the difference is to think of the dominant process as the General and the auxiliary process as his Aide. In the case of the extravert, the General is always out in the open. Other people meet him immediately and do their business directly with him. They can get the official viewpoint on anything at any time. The Aide stands respectfully in the background or disappears inside the tent. The introvert’s General is inside the tent, working on matters of top priority. The Aide is outside fending off interruptions, or, if he is inside helping the General, he comes out to see what is wanted. It is the Aide whom others meet and with whom they do their business. Only when the business is very important( or the friendship is very close) do others get in to see the General himself.  
+可視化差異的一個好方法是將主導過程視為一般，將輔助過程視為其助手。在外向型的情況下，將軍總是公開的。其他人立即與他見面，並直接與他開展業務。他們可以隨時獲得關於任何事情的官方觀點。助手在後台站立，或在帳篷內消失。內向的將軍在帳篷內，負責最優先的事項。助手在外面阻止干擾，或者，如果他在內部幫助將軍，他出來看看想要什麼。這是與他人會面並與他們開展業務的助手。只有當生意非常重要（或者友誼很親密）時，其他人才可以進入將軍本人。  
 
 If people do not realize that there is a General in the tent who far outranks the Aide they have met, they may easily assume that the Aide is in sole charge. This is a regrettable mistake. It leads not only to an underestimation of the introvert’s abilities but also to an incomplete understanding of his wishes, plans, and point of view. The only source for such inside information is the General.   
+如果人們沒有意識到帳篷中的將軍遠遠超過他們遇到的助手，他們可能會輕易地認為由助手獨自負責。這是一個令人遺憾的錯誤。這不僅導致對性格內向的人的低估，而且導致對他的願望，計劃和觀點的不完全理解。這種內部信息的唯一來源是將軍。  
 
 A cardinal precaution in dealing with introverts, therefore, is not to assume, just from ordinary contact, that they have revealed what really matters to them. Whenever there is a decision to be made that involves introverts, they should be told about it as fully as possible. If the matter is important to them, the General will come out of the tent and reveal a number of new things, and the ultimate decision will have a better chance of being right.  
+因此，在處理內向者時，最基本的預防措施不是僅僅通過普通的接觸就假定他們已經揭示了對他們真正重要的事情。每當要做出涉及內向的決定時，應盡可能全面地告知他們。如果這件事對他們很重要，將軍將從帳篷裡出來，揭露許多新事物，而最終的決定將有更大的機會成為正確的人。  
 
 
 ## Finding Which Process Is Dominant  
