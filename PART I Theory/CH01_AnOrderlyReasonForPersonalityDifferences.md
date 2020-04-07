@@ -258,12 +258,16 @@ A cardinal precaution in dealing with introverts, therefore, is not to assume, j
 ## Finding Which Process Is Dominant  
 
 There are three ways of deducing the dominant process from the four letters of a person’s type. The dominant process must, of course, be either the preferred perceptive process (as shown by the second letter) or the preferred judging process (as shown by the third).  
+有三種方法可以從一個人類型的四個字母推斷出主導過程。當然，主導過程必須是首選的感知過程（如第二個字母所示）或首選的判斷過程（如第三個字母所示）。(Google 翻)  
 
 The JP preference can be used to determine the dominant process, but must be used differently with extraverts and introverts. JP reflects only the process used in dealing with the outside world. As explained earlier, the extravert’s dominant process prefers the outer world. Hence the extravert’s dominant process shows on the JP preference. If an extravert’s type ends in J, the dominant process is a judging one, either T or F. If the type ends in P, the dominant process is a perceptive one, either S or N.  
+JP偏好可用於確定主導過程，但必須與外向和內向不同地使用。 JP僅反映與外界打交道的過程。如前所述，外向型人的主導過程傾向於外部世界。因此，外向型人的主導過程顯示在JP偏好上。如果外向型的類型以J結尾，則主導過程是判斷T或F。如果外向型的類型以P結尾，則主導過程為S或N。(Google 翻)  
 
 For introverts, the exact opposite is true. The introvert’s dominant process does not show on the JP preference, because introverts prefer not to use the dominant process in dealing with the outer world. The J or P in their type therefore reflects the auxiliary instead of the dominant process. If an introvert’s type ends in J, the dominant process is a perceptive one, S or N. If the type ends in P,  the dominant process is judging one, T or F.  
+對於性格內向的人，恰恰相反。內向型人的主導過程並未顯示在JP偏好上，因為內向型人傾向於在與外界打交道時不使用主導性過程。因此，其類型中的J或P反映了輔助過程而不是主導過程。如果一個內向型的人以J結尾，則主導過程是一個感知性的S或N。如果一個內向型的人以P結尾，則主導過程是對一個T或F的判斷。(Google 翻)  
 
 For ready reference, the underlined letters in Figure 1 indicate the dominant process for each of the sixteen types.  
+為便於參考，圖1中帶下劃線的字母表示16種類型中每種類型的主導過程。(Google 翻)  
 
 |  | ST | SF | NF | NT |
 | ------ | ------ | ------ | ------ | ------ |
