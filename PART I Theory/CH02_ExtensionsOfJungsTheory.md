@@ -17,6 +17,8 @@ Few of Jung’s readers appear to have realized that his type concepts had a bea
 
 ## Overlooked Implications of Jung’s Theory  
 
+To be useful, a personality theory must portray and explain people as they are. Jung’s theory must, therefore, be extended to include the following three essentials.  
+
 ## Constant Presence of the Auxiliary Process 
 
 ## Results of the Combinations of Perception and Judgment  
