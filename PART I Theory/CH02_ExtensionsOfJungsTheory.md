@@ -80,3 +80,22 @@ Her own understanding of the “spontaneous” types had prepared her to recogni
 
 
 ## Reality of the Opposites  
+
+In all our subsequent work with type, Katharine Briggs and I have taken these four pairs of opposites as basic. We did not invent or discover them. They are inherent in Jung’s theory of the function types, which is based on many years of observations that seemed to him to synthesize already existing knowledge of personality. We have been less interested in defining the processes than in describing the consequences of each preference as far as we can observe or infer them, and in using the most accessible consequences (not the most important) to develop a means of identifying type.  
+
+Since the more superficial aspects of type are often the easiest to report, many trivial reactions are useful for identification, but these are merely straws to show which way the wind blows. They are not the wind. It would be a mistake to assume that the essence of an attitude or of a perceptive or judging process is defined by its trivial surface effects or by the test items that reflect it or by the words used to describe it. The essence of each of the four preferences is an observable reality.  
+
+It is easy for people to see that they have a choice of two worlds on which to concentrate their interest. One is an outer world where things happen outside individuals or “without” them, in both senses of the word, and the other is an inner world where the activity is within the individual’s mind, so that the individual is an inseparable part of all that goes on.  
+
+It will be apparent to people, too, though perhaps more clearly as applied to others rather than to themselves, that people have a choice of two attitudes in dealing with the outer world. They can perceive it with no inclination to judge it at the moment, or they can judge it without making any further effort at perception.  
+
+When people consider their own mental processes, it will be evident that more than one kind of perception is possible. People are certainly not limited to the direct report of their senses. Through the subtle messages of intuition people can also become aware of what might be or can be made to be.  
+
+Finally, people can see, at least in others, that there are two kinds of judgment, one by way of thinking and one by way of feeling. Everyone meets both daily, sometimes used appropriately and sometimes not.  
+
+The existence of the opposites is thus nothing new, as jUng himself points out. They are common knowledge, once people stop to think about them. The difficulty is, Jung notes, that they look quite different to different types. People of each type experience the opposites after their own fashion. Even with “perfect” knowledge of all sixteen points of view, it would still be impossible to define the opposites in terms that would satisfy everyone. However, when people waive formal definitions and consult instead the reality of their own experiences, they can agree that in each of the four areas just mentioned there is a choice of opposites that may be experienced, however the dichotomies are defined.  
+
+The way insight by which jung synthesized such knowledge was the realization that an initial choice between these basic opposites determines the line of development for the person’s perception and judgment and thus has profound consequences in the field of personality. This magnificent idea makes possible a coherent explanation for the variety of simple human differences, for complexities of personality, and for widely different satisfactions and motivations. It also suggests an important new dimension in understanding the development of young people.  
+
+Jung saw his theory as an aid to self-understanding, but the application of the theory (like the theory itself) extends beyond the point where Jung was content to stop. The type concepts shed light on the way individuals perceive and judge and on the things that they value most; the type concepts are thus useful whenever one person must communicate with another or live with another or make decisions that affect another’s life.  
+
