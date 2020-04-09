@@ -58,6 +58,25 @@ Good type development thus demands that the auxiliary supplement the dominant pr
 
 ## The Resulting Sixteen Types  
 
+When the auxiliary process is taken into consideration, it splits each of Jung’s types into two. Instead of merely the introverted thinker, there are the introverted thinker with sensing and the introverted thinker with intuition. Thus there are sixteen types in place of Jung’s eight. Sixteen would be an unwieldy number to keep in mind if the types were arbitrary, unrelated categories, but each is the logical result of its own preferences and is closely related to other types that share some of those preferences. (The relationships can be visualized logically and easily through familiarity with the Type Table in Chapter 3, Figure 2.)  
+
+To attempt to determine a person’s type by observation, it is unnecessary to consider all sixteen possibilities at once. Any preference that seems reasonably certain will reduce the possibilities by half. For example, any introvert belongs to one of the eight introvert types. An intuitive introvert belongs to one of the four IN types. If such a person prefers thinking to feeling, the type is refined further to INT. The final step, identification of the dominant process, will depend on the JP preference.  
+
 ## The Role of the Judgment-Perception Preference  
+
+The JP preference completes the structure of type. As explained at the end of Chapter 1, this preference is indispensable for ascertaining which process is dominant. Students of Jung will not, however, find any reference to the JP preference in Psychological Types. Although he occasionally refers to judging and perceptive types among extraverts, Jung never mentions that the JP difference can be seen in introverts and that it reflects the character of their extraversion. This omission is inevitable because he never discusses the introvert’s extraversion.  
+
+Instead, Jung divides the types into rational and irrational; the “rational” types are those whose dominant process is thinking or feeling, and the “irrational” are those whose dominant process is sensing or intuition. This distinction is of little practical use in ascertaining a person’s type. The rationality of the introverted feeling type, for example, is too interior and subtle for the observer to perceive with any certainty, or even for the subject to report. It is safer to depend on relatively simple and accessible reactions.  
+
+The JP preference does show itself in simple and accessible reactions. It serves admirably as the fourth dichotomy if one detail is borne in mind: It deals only with outward behavior and thus points only indirectly to the dominant process of the introvert. The preference has three main advantages. It is easily ascertained; it is descriptive, embracing a number of conspicuous and important qualities; and it expresses a basic division in positive terms, without offense to either side. Both judging people and perceptive people can see merit in what they are, while to most people “irrational” is a fighting word.  
+
+Inclusion of the JP preference in the theory came about as a result of unpublished personality research by Katharine C. Briggs before Jung’s Psychological Types was published. The type categories she had devised were entirely consistent with Jung’s, but less detailed. Her “meditative type” included all introvert types. Her “spontaneous type” corresponded to the perceptive extraverts, in whom perceptive behavior is at its strongest. Her “executive type” exactly described the extraverted thinkers, and her “sociable type” the extraverted feeling people.  
+
+When Jung’s theory was published in 1923, she saw that it went far beyond her own, and she made an intensive study of it. Putting together the sentences quoted earlier in this chapter, she interpreted them to mean that the auxiliary process runs the introvert’s outer life. She looked at the outer lives of her “meditative” friends to see if this was true and concluded that it was.  
+
+Briggs also found that when the introvert’s auxiliary was a perceptive process, it gave rise to a perceptive attitude and an outer personality that resembled, in a quiet way, the “spontaneous” personality of the perceptive extravert. When the auxiliary was a judging process, it produced a judging attitude and an outer personality that was the opposite of “spontaneous.”  
+
+Her own understanding of the “spontaneous” types had prepared her to recognize the perceptive attitude and the judging attitude -- and the fact that they made a fourth pair of opposites. Inclusion of JP along with the other preferences, EI, SN, and TF, completed the system. The analyses she drew up at that time -- summarizing the effects of each of these four preferences -- provided, long afterward, the key to the practical determination of type.  
+
 
 ## Reality of the Opposites  
