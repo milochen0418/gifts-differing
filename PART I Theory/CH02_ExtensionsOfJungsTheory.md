@@ -37,6 +37,23 @@ The characteristics that result from these combinations, as outlined in Chapter 
 
 ## Role of the Auxiliary in Balancing Extraversion-Introversion  
 
+The basic principle that the auxiliary provides needed extraversion for the introverts and needed introversion for the extraverts is vitally important. The extraverts’ auxiliary gives them access to their own inner life and to the world of ideas; the introverts’ auxiliary gives them a means to adapt to the world of action and to deal with it effectively.  
+
+Jung’s only allusions to this fact are cryptically brief. As a result, almost all his followers except van der Hoop seem to miss the principle involved. They assume that the two most developed processes are used in the favorite sphere (both extraverted or both introverted) and that the other sphere is left to the mercy of the two inferior processes. Jung writes:  
+
+> For all the types appearing in practice, the principle holds good that besides the conscious main function there is also a relatively unconscious, auxiliary function which is in every respect different from the nature of the main function. (1923, p. 515)   
+
+The operative words are “in every respect.” If the auxiliary process differs from the dominant process in every respect, it cannot be introverted where the dominant process is introverted. It has to be extraverted if the dominant process is introverted, and introverted if the dominant process is extraverted. This interpretation is confirmed by Jung in two other sentences, the first about the introvert thinker, the second about the extravert.   
+
+> The relatively unconscious functions of feeling, intuition and sensation, which counterbalance introverted thinking, are inferior in quality and have a primitive, extraverted character. (1923, p. 489)  
+>  
+> When the mechanism of extraversion predominates… the most highly differentiated function has a constantly extraverted application, where the inferior functions are found in the service of introversion. (1923, p. 426)    
+
+The conclusion that the auxiliary process takes care of the extraversion of the introvert and the introversion of the extravert is confirmed by observation. In any well-balanced introvert, the observer can see that the extraverting is carried on by the auxiliary process. For example, ISTJ people (introverted sensing types preferring thinking to feeling as auxiliary) normally run their outer life with their second-best process, thinking, so it is conducted with impersonal system and order. They do not leave it to their third-best process, feeling, as they would have to do if both their sensing and their thinking were introverted. Similarly, INFP people (introverted feeling types preferring intuition to sensing as auxiliary) normally run their outer life with their second-best process, their intuition, so their outer life is characterized by spurts and projects and enthusiasm. They do not leave it to ehri third-best process, sensing, as they would have to do if both their feeling and their intuition were introverted.  
+
+A more subtle kind of evidence lies in the “extraverted character” of the introvert’s auxiliary process. For example, in a well-balanced ISTJ the observable auxiliary process, thinking, can be seen to resemble the thinking of the extraverted thinker more than that of the introverted thinker. This point can be tested with any introvert by comparing the auxiliary process with Chapter 8. Figures 28-31, where the differences between extraverted and introverted thinking, extraverted and introverted feeling, etc., are shown.  
+
+Good type development thus demands that the auxiliary supplement the dominant process in two respects. It must supply a useful degree of balance not only between perception and judgment but also between extraversion and introversion. When it fails to do so it leaves the individual literally “unbalanced,” retreating into the preferred world and consciously or unconsciously afraid of the other world. Such cases do occur and may seem to support the widespread assumption among Jungian analysts that the dominant and auxiliary are naturally both extraverted or both introverted; but such cases are not the norm: They are instances of insufficient use and development of the auxiliary. To live happily and effectively in both worlds, people need a balancing auxiliary that will make it possible to adapt in both directions -- to the world around them and to their inner selves.  
 
 
 ## The Resulting Sixteen Types  
