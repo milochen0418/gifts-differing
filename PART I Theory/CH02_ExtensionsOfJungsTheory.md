@@ -21,6 +21,15 @@ To be useful, a personality theory must portray and explain people as they are. 
 
 ## Constant Presence of the Auxiliary Process 
 
+The first requisite for balance is development of the auxiliary process in support of the dominant process. Jung does not mention the auxiliary process in Psychological Types until page 513, after all his descriptions of the types.  
+
+- In the foregoing descriptions I have no desire to give my readers the impression that such pure types occur at all frequently in actual practice. (1923, p. 513)  
+
+- In conjunction with the most differentiated function, another function of secondary importance, and therefore of inferior differentiation in consciousness, is constantly present, and is a relatively determining factor. (1923, p. 513)  
+
+- Experience shows that the secondary function is always one whose nature is different from, though not antagonistic to, the leading function: Thus, for example, thinking, as primary function, can readily pair with intuition as auxiliary, or indeed equally well with sensation, but … never with feeling. (1923, p. 515)  
+
+
 ## Results of the Combinations of Perception and Judgment  
 
 ## Role of the Auxiliary in Balancing Extraversion-Introversion  
