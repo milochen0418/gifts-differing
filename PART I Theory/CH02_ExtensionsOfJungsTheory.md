@@ -32,10 +32,12 @@ The first requisite for balance is development of the auxiliary process in suppo
 ## Results of the Combinations of Perception and Judgment  
 
 The characteristics that result from these combinations, as outlined in Chapter 1, provide perhaps the most easily recognized aspect of type. All Jung writes about them is the following:
-
+```
 From these combinations well-known pictures arise, the practical intellect for instance paired with sensation, the speculative intellect breaking through with intuition, the artistic intuition which selects and presents its images by means of feeling judgment, the philosophical intuition which, in league with a vigorous intellect, translates its vision into the sphere of comprehensible thought, and so forth. (1923, p. 515)  
-
+``` 
 ## Role of the Auxiliary in Balancing Extraversion-Introversion  
+
+
 
 ## The Resulting Sixteen Types  
 
