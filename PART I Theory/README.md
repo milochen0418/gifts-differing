@@ -29,7 +29,7 @@
 > Finding Which Process Is Dominant  
 
 ## Chapter 2
-### Extensions of Jung's Theory  
+### [Extensions of Jung's Theory](https://github.com/milochen0418/gifts-differing/blob/master/PART%20I%20Theory/CH02_ExtensionsOfJungsTheory.md)  
 
 > Overlooked Implications of Jung’s Theory  
 
