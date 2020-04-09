@@ -1,6 +1,6 @@
 # Part I Theory
 ## Chapter 1 
-### [An Orderly Reason for Personality Differences](https://github.com/milochen0418/gifts-differing/blob/master/PART%20I%20Theory/CH01_AnOrderlyReasonForPersonalityDifferences.md)
+### [An Orderly Reason for Personality Differences](https://github.com/milochen0418/gifts-differing/blob/master/PART%20I%20Theory/CH01_AnOrderlyReasonForPersonalityDifferences.md) 關於人格類型差異的思考
 
 > Two ways of Perceiving   
 
@@ -29,7 +29,7 @@
 > Finding Which Process Is Dominant  
 
 ## Chapter 2
-### [Extensions of Jung's Theory](https://github.com/milochen0418/gifts-differing/blob/master/PART%20I%20Theory/CH02_ExtensionsOfJungsTheory.md)  
+### [Extensions of Jung's Theory](https://github.com/milochen0418/gifts-differing/blob/master/PART%20I%20Theory/CH02_ExtensionsOfJungsTheory.md) 榮格理論的延伸  
 
 > Overlooked Implications of Jung’s Theory  
 

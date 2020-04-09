@@ -1,4 +1,4 @@
-# Extension of Jung’s Theory 
+# Extension of Jung’s Theory 榮格理論的延伸
 
 CHAPTER 1 PRESENTS the type theory in a less abstruse form than Jung employed in his Psychological Types and states the theory in terms of the everyday aspects seen in well-balanced people. In addition to their dominant process, such people have an auxiliary developed well enough to provide a balance between judgment and perception and between extraversion and introversion. Nowhere in Jung’s book does he describe these normal, balanced types with an auxiliary process at their disposal. He portrays each process in sharpest focus and with maximum contrast between its extraverted and introverted form; consequently, he describes the rare, theoretically “pure” types, who have little or no development of the auxiliary.  
 第一章以比榮格在《心理類型》中所採用的抽象形式少的粗俗的形式提出類型理論，並以均衡的人的日常狀況來陳述該理論。這些人除了占主導地位的過程外，還具有足夠的輔助能力，可以在判斷和知覺之間以及外向和內向之間取得平衡。在榮格的書中，他都沒有描述這些正常，平衡的類型，並輔以輔助處理。他以最清晰的視角描繪每個過程，並在其外向和內向形式之間形成最大的對比。因此，他描述了罕見的，理論上“純”的類型，它們很少或沒有輔助劑的開發。(Google 翻譯)  

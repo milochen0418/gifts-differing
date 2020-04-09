@@ -1,4 +1,4 @@
-# An Orderly Reason for Personality Differences
+# An Orderly Reason for Personality Differences 關於人格類型差異的思考
 
 It is fashionable to say that the individual is unique. Each is the product of his or her own heredity and environment and, therefore, is different from everyone else. From a practical standpoint, however, the doctrine of uniqueness is not useful without an exhaustive case study of every person to be educated or counseled or understood. Yet we cannot safely assume that other people’s minds work on the same principles as our own. All too often, others with whom we come in contact do not reason as we reason, or do not value the thins we value, or are not interested in what interests us.    
 現在很流行地說每個人都是獨一無二的。每個都是他或她自己的遺傳和環境的產物，因此，這世界上絕不存在兩個完全相同的人。但是，從實踐的角度來看，如果沒有對每個人進行詳盡的案例研究，就不能對唯一性原則有用。但是，我們不能安全地假設別人的思想與我們自己的思想相同。通常，與我們接觸的其他人不會像我們那樣推理，或者不珍惜我們珍視的東西，或者對我們感興趣的東西不感興趣。(Google翻)  
