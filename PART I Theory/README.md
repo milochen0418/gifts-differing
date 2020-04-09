@@ -29,4 +29,18 @@
 > Finding Which Process Is Dominant  
 
 ## Chapter 2
-### Extensions of Jung's Theory
+### Extensions of Jung's Theory  
+
+> Overlooked Implications of Jung’s Theory  
+
+> Constant Presence of the Auxiliary Process 
+
+> Results of the Combinations of Perception and Judgment  
+
+> Role of the Auxiliary in Balancing Extraversion-Introversion  
+
+> The Resulting Sixteen Types  
+
+> The Role of the Judgment-Perception Preference  
+
+> Reality of the Opposites  
