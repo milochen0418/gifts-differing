@@ -19,7 +19,7 @@ Because the project can help more Chinese to understnad the book Gifts Differing
 ### [Preface 前言](https://github.com/milochen0418/gifts-differing/blob/master/PREFACE.md)
 ## [Part I Theory 基礎理論](https://github.com/milochen0418/gifts-differing/tree/master/PART%20I%20Theory/README.md)
 ### Chapter 1 [An Orderly Reason for Personality Differences](https://github.com/milochen0418/gifts-differing/blob/master/PART%20I%20Theory/CH01_AnOrderlyReasonForPersonalityDifferences.md) 關於人格類型差異的思考
-### Chapter 2 Extensions of Jung's Theory 榮格理論的擴展
+### Chapter 2 [Extensions of Jung's Theory](https://github.com/milochen0418/gifts-differing/blob/master/PART%20I%20Theory/CH02_ExtensionsOfJungsTheory.md) 榮格理論的擴展
 
 ## [Part II Effects of the Preferences on Personality 人格維度與人格類型](https://github.com/milochen0418/gifts-differing/tree/master/PART%20II%20Effects%20of%20the%20Preferences%20on%20Personality/README.md)
 ### Chapter 3 Type Tables for Comparison and Discovery 人格類型表
