@@ -79,19 +79,25 @@ To attempt to determine a person’s type by observation, it is unnecessary to c
 ## The Role of the Judgment-Perception Preference  
 
 The JP preference completes the structure of type. As explained at the end of Chapter 1, this preference is indispensable for ascertaining which process is dominant. Students of Jung will not, however, find any reference to the JP preference in Psychological Types. Although he occasionally refers to judging and perceptive types among extraverts, Jung never mentions that the JP difference can be seen in introverts and that it reflects the character of their extraversion. This omission is inevitable because he never discusses the introvert’s extraversion.  
+JP首選項完成了類型的結構。如第1章末尾所述，此優先級對於確定哪個過程占主導地位是必不可少的。但是，榮格的學生不會在“心理類型”中找到任何關於JP偏好的參考。儘管他偶爾提到外向型人的判斷和感知類型，但榮格從未提及內向型人格可以看出JP差異，它反映了外向型人的特徵。這種遺漏是不可避免的，因為他從未討論過內向的外向性。(Google 翻譯)  
 
 Instead, Jung divides the types into rational and irrational; the “rational” types are those whose dominant process is thinking or feeling, and the “irrational” are those whose dominant process is sensing or intuition. This distinction is of little practical use in ascertaining a person’s type. The rationality of the introverted feeling type, for example, is too interior and subtle for the observer to perceive with any certainty, or even for the subject to report. It is safer to depend on relatively simple and accessible reactions.  
+相反，榮格將類型分為理性的和非理性的。 “理性”類型是指其主導過程是思維或感覺的人，而“非理性”類型是指其主導過程是感覺或直覺的人。這種區別在確定人的類型方面幾乎沒有實際用途。例如，內向的感覺類型的合理性過於內在和微妙，以至於觀察者無法確定地察覺，甚至無法報告對象。依靠相對簡單和可訪問的反應更加安全。(Google 翻譯)  
 
 The JP preference does show itself in simple and accessible reactions. It serves admirably as the fourth dichotomy if one detail is borne in mind: It deals only with outward behavior and thus points only indirectly to the dominant process of the introvert. The preference has three main advantages. It is easily ascertained; it is descriptive, embracing a number of conspicuous and important qualities; and it expresses a basic division in positive terms, without offense to either side. Both judging people and perceptive people can see merit in what they are, while to most people “irrational” is a fighting word.  
+JP偏好確實在簡單易懂的反應中表現出來。如果牢記一個細節，它可以很好地用作第四分法：它只處理外在行為，因此僅間接地指向內向的主導過程。該偏好具有三個主要優點。很容易確定；它具有描述性，包含許多顯著和重要的品質；它以積極的方式表達了基本的分歧，雙方都沒有冒犯。評判人和有洞察力的人都可以從自己的面貌中看到優點，而對大多數人而言，“非理性”是一個格言。(Google 翻譯)  
 
 Inclusion of the JP preference in the theory came about as a result of unpublished personality research by Katharine C. Briggs before Jung’s Psychological Types was published. The type categories she had devised were entirely consistent with Jung’s, but less detailed. Her “meditative type” included all introvert types. Her “spontaneous type” corresponded to the perceptive extraverts, in whom perceptive behavior is at its strongest. Her “executive type” exactly described the extraverted thinkers, and her “sociable type” the extraverted feeling people.  
+由於在榮格的《心理類型》發表之前，凱瑟琳·布里格斯（Katharine C. Briggs）尚未發表人格研究，因此將JP偏好納入了該理論。她設計的類型類別與Jung的完全一致，但不夠詳細。她的“冥想型”包括所有內向型。她的“自髮型”對應於性格外向的人，其中性格內向行為最強。她的“執行型”準確地描述了外向型思想家，而她的“社交型”則描述了外向型人。(Google 翻譯)  
 
 When Jung’s theory was published in 1923, she saw that it went far beyond her own, and she made an intensive study of it. Putting together the sentences quoted earlier in this chapter, she interpreted them to mean that the auxiliary process runs the introvert’s outer life. She looked at the outer lives of her “meditative” friends to see if this was true and concluded that it was.  
+榮格（Jung）的理論於1923年發表時，她發現它遠遠超出了她自己的理論，並且對它進行了深入研究。她將本章前面引述的句子放在一起，將它們解釋為意味著輔助過程控制著性格內向的人的外生活。她看著自己的“冥想”朋友的外在生活，看這是否正確，並得出結論。(Google 翻譯)  
 
 Briggs also found that when the introvert’s auxiliary was a perceptive process, it gave rise to a perceptive attitude and an outer personality that resembled, in a quiet way, the “spontaneous” personality of the perceptive extravert. When the auxiliary was a judging process, it produced a judging attitude and an outer personality that was the opposite of “spontaneous.”  
+布里格斯還發現，當性格內向的助手是一個感知過程時，它會產生一種感知的態度和一種外在性格，以一種安靜的方式類似於感知性外向者的“自發”性格。當輔助是一個判斷過程時，它會產生一種判斷態度和一種與“自發”相反的外在個性。(Google 翻譯)  
 
 Her own understanding of the “spontaneous” types had prepared her to recognize the perceptive attitude and the judging attitude -- and the fact that they made a fourth pair of opposites. Inclusion of JP along with the other preferences, EI, SN, and TF, completed the system. The analyses she drew up at that time -- summarizing the effects of each of these four preferences -- provided, long afterward, the key to the practical determination of type.  
-
+她自己對“自發”類型的理解使她準備認識到感知的態度和判斷的態度-以及它們與第四對相反的事實。包含JP以及其他首選項EI，SN和TF，就構成了系統。她當時進行的分析-總結了這四個偏好中的每一個的影響-很久以後提供了實際確定類型的關鍵。(Google 翻譯)  
 
 ## Reality of the Opposites  
 
