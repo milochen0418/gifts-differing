@@ -96,20 +96,29 @@ Her own understanding of the “spontaneous” types had prepared her to recogni
 ## Reality of the Opposites  
 
 In all our subsequent work with type, Katharine Briggs and I have taken these four pairs of opposites as basic. We did not invent or discover them. They are inherent in Jung’s theory of the function types, which is based on many years of observations that seemed to him to synthesize already existing knowledge of personality. We have been less interested in defining the processes than in describing the consequences of each preference as far as we can observe or infer them, and in using the most accessible consequences (not the most important) to develop a means of identifying type.  
+在隨後的所有類型工作中，Katharine Briggs 和我都將這四對對立作為基礎。我們沒有發明或發現它們。它們是榮格功能類型理論中固有的，它基於多年的觀察，在他看來似乎是在綜合已經存在的人格知識。我們對定義流程的興趣不如描述我們所能觀察或推斷的每種偏好的後果，以及使用最易獲得的後果（不是最重要的）來開發識別類型的方式感興趣。(Google 翻譯)  
 
 Since the more superficial aspects of type are often the easiest to report, many trivial reactions are useful for identification, but these are merely straws to show which way the wind blows. They are not the wind. It would be a mistake to assume that the essence of an attitude or of a perceptive or judging process is defined by its trivial surface effects or by the test items that reflect it or by the words used to describe it. The essence of each of the four preferences is an observable reality.  
+由於類型的更膚淺的方面通常是最容易報告的，因此許多微不足道的反應對於識別非常有用，但是這些僅僅是顯示風向的方式的稻草。他們不是風。假設態度，感知或判斷過程的本質是由其瑣碎的表面效果，反映其的測試項目或用於描述它的詞語所定義的，這是錯誤的。四個偏好中每一個的本質都是可以觀察到的現實。(Google 翻譯)  
 
 It is easy for people to see that they have a choice of two worlds on which to concentrate their interest. One is an outer world where things happen outside individuals or “without” them, in both senses of the word, and the other is an inner world where the activity is within the individual’s mind, so that the individual is an inseparable part of all that goes on.  
+人們很容易看到他們可以選擇兩個世界來集中他們的興趣。一個是在兩個詞的意義上事物都發生在個體外部或“不存在”的外部世界，另一個是內部世界，其中活動在個體的思想之內，因此個體是所有事物中不可分割的一部分。繼續。(Google 翻譯)  
 
 It will be apparent to people, too, though perhaps more clearly as applied to others rather than to themselves, that people have a choice of two attitudes in dealing with the outer world. They can perceive it with no inclination to judge it at the moment, or they can judge it without making any further effort at perception.  
+對於人們來說，儘管在對待他人而不是對自己的態度上可能更清楚，但對於人們來說也很明顯，人們在與外界打交道時會選擇兩種態度。他們可以立即判斷它，而不用花更多的精力去理解它。(Google 翻譯)  
 
 When people consider their own mental processes, it will be evident that more than one kind of perception is possible. People are certainly not limited to the direct report of their senses. Through the subtle messages of intuition people can also become aware of what might be or can be made to be.  
+當人們考慮自己的心理過程時，很明顯，一種以上的感知是可能的。人們當然不限於直接報告自己的感官。通過直覺的微妙信息，人們還可以意識到可能是或可以成為什麼樣。(Google 翻譯)  
 
 Finally, people can see, at least in others, that there are two kinds of judgment, one by way of thinking and one by way of feeling. Everyone meets both daily, sometimes used appropriately and sometimes not.  
+最後，人們至少在其他方面可以看到，存在兩種判斷，一種是通過思考的方式，另一種是通過感覺的方式。每個人每天都見面，有時會適當地使用，有時卻不會。(Google 翻譯)  
 
 The existence of the opposites is thus nothing new, as jUng himself points out. They are common knowledge, once people stop to think about them. The difficulty is, Jung notes, that they look quite different to different types. People of each type experience the opposites after their own fashion. Even with “perfect” knowledge of all sixteen points of view, it would still be impossible to define the opposites in terms that would satisfy everyone. However, when people waive formal definitions and consult instead the reality of their own experiences, they can agree that in each of the four areas just mentioned there is a choice of opposites that may be experienced, however the dichotomies are defined.  
+因此，正如容格本人指出的那樣，對立面的存在並不新鮮。一旦人們停止思考它們，它們就是常識。榮格指出，困難在於，不同類型的產品看起來截然不同。每種類型的人都按照自己的方式體驗對立面。即使擁有所有十六種觀點的“完美”知識，仍然不可能用滿足所有人的術語來定義對立面。但是，當人們放棄正式的定義而轉而參考自己的經歷的現實時，他們可以同意，在上述四個領域中的每一個領域，都有可能遇到的對立選擇，但是二分法被定義了。(Google 翻譯)  
 
 The way insight by which jung synthesized such knowledge was the realization that an initial choice between these basic opposites determines the line of development for the person’s perception and judgment and thus has profound consequences in the field of personality. This magnificent idea makes possible a coherent explanation for the variety of simple human differences, for complexities of personality, and for widely different satisfactions and motivations. It also suggests an important new dimension in understanding the development of young people.  
+榮格合成此類知識的洞察力是認識到，在這些基本對立之間的初步選擇決定了人的感知和判斷的發展路線，因此在人格領域產生了深遠的影響。這種宏偉的想法使得人們可以為各種簡單的人類差異，個性的複雜性以及廣泛不同的滿足和動機提供連貫的解釋。這也為理解年輕人的發展提出了一個重要的新方面。(Google 翻譯)  
 
 Jung saw his theory as an aid to self-understanding, but the application of the theory (like the theory itself) extends beyond the point where Jung was content to stop. The type concepts shed light on the way individuals perceive and judge and on the things that they value most; the type concepts are thus useful whenever one person must communicate with another or live with another or make decisions that affect another’s life.  
+榮格認為他的理論有助於自我理解，但是該理論的應用（就像理論本身一樣）超出了榮格滿足於停止的程度。類型概念闡明了個人的感知和判斷方式以及他們最重視的事物。因此，只要一個人必須與另一個人交流或與另一個人住在一起或做出影響另一個人生活的決定時，類型概念就很有用。(Google 翻譯)  
 
