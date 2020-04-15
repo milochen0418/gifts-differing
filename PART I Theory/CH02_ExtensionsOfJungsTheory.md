@@ -18,6 +18,7 @@ Few of Jung’s readers appear to have realized that his type concepts had a bea
 ## Overlooked Implications of Jung’s Theory  
 
 To be useful, a personality theory must portray and explain people as they are. Jung’s theory must, therefore, be extended to include the following three essentials.  
+要發揮作用，人格理論必須刻畫並解釋人們的現狀。 因此，榮格的理論必須擴展到包括以下三個要點。(Google 翻譯)  
 
 ## Constant Presence of the Auxiliary Process 
 
