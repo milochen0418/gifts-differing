@@ -23,12 +23,14 @@ To be useful, a personality theory must portray and explain people as they are. 
 ## Constant Presence of the Auxiliary Process 
 
 The first requisite for balance is development of the auxiliary process in support of the dominant process. Jung does not mention the auxiliary process in Psychological Types until page 513, after all his descriptions of the types.  
+平衡的首要條件是發展輔助過程以支持主導過程。 在對所有類型進行描述之後，榮格直到513頁都沒有在“心理類型”中提及輔助過程。(Google 翻譯)  
 
 - In the foregoing descriptions I have no desire to give my readers the impression that such pure types occur at all frequently in actual practice. (1923, p. 513)  
-
+在前面的描述中，我不希望給我的讀者留下這樣的印象，即這種純類型在實際實踐中幾乎經常出現。 （1923，第513頁）。(Google 翻譯)  
 - In conjunction with the most differentiated function, another function of secondary importance, and therefore of inferior differentiation in consciousness, is constantly present, and is a relatively determining factor. (1923, p. 513)  
-
+與最有區別的功能相結合，次要重要性的另一個功能，因此意識的較弱的區別，一直存在，並且是一個相對決定性的因素。（1923，第513頁）(Google 翻譯)  
 - Experience shows that the secondary function is always one whose nature is different from, though not antagonistic to, the leading function: Thus, for example, thinking, as primary function, can readily pair with intuition as auxiliary, or indeed equally well with sensation, but … never with feeling. (1923, p. 515)  
+經驗表明，次要功能始終是一種性質，儘管它並不不同於主導功能：例如，思維作為主要功能可以很容易地與直覺作為輔助功能相結合，或者實際上與感覺一樣好， 但是……從來沒有感覺。 （1923，第515頁）(Google 翻譯)  
 
 ## Results of the Combinations of Perception and Judgment  
 
