@@ -15,10 +15,10 @@ In view of Jung’s deep appreciation of the introverts’ value, it is ironical
 Few of Jung’s readers appear to have realized that his type concepts had a bearing on the familiar daily problem of educating people, counseling them, employing them, communicating with them, and living in the same family with them. For decades, therefore, the practical utility of his theory went unexplored.  
 榮格（Jung）的讀者中很少有人意識到他的類型概念與人們日常的教育問題有關，即教育人們，向他們提供諮詢，僱用他們，與他們交流以及與他們同居。因此，幾十年來，他的理論的實際應用一直未被探索。(Google 翻譯)  
 
-## Overlooked Implications of Jung’s Theory  
+## Overlooked Implications of Jung’s Theory 眺望榮格理論之蘊含  
 
 To be useful, a personality theory must portray and explain people as they are. Jung’s theory must, therefore, be extended to include the following three essentials.  
-要發揮作用，人格理論必須刻畫並解釋人們的現狀。 因此，榮格的理論必須擴展到包括以下三個要點。(Google 翻譯)  
+要發揮作用，人格理論必須刻畫並解釋人們的現狀。 因此，榮格的理論必須延伸到包括以下三個要點。(Google 翻譯)  
 
 ## Constant Presence of the Auxiliary Process 
 
