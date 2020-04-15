@@ -34,9 +34,11 @@ The first requisite for balance is development of the auxiliary process in suppo
 
 ## Results of the Combinations of Perception and Judgment  
 
-The characteristics that result from these combinations, as outlined in Chapter 1, provide perhaps the most easily recognized aspect of type. All Jung writes about them is the following:
+The characteristics that result from these combinations, as outlined in Chapter 1, provide perhaps the most easily recognized aspect of type. All Jung writes about them is the following:  
+如第1章所述，由這些組合產生的特徵可能提供了最容易識別的類型。榮格所寫的全部內容如下：(Google 翻譯)  
 
 > From these combinations well-known pictures arise, the practical intellect for instance paired with sensation, the speculative intellect breaking through with intuition, the artistic intuition which selects and presents its images by means of feeling judgment, the philosophical intuition which, in league with a vigorous intellect, translates its vision into the sphere of comprehensible thought, and so forth. (1923, p. 515)   
+從這些組合中出現了一些著名的圖片，例如實用的智力與感覺相結合，投機性智力憑直覺而突破，藝術直覺通過感覺判斷來選擇並呈現其圖像，哲學直覺與 強大的智力，將其視野轉化為可理解的思想領域，依此類推。 （1923，第515頁）(Google 翻譯)  
 
 ## Role of the Auxiliary in Balancing Extraversion-Introversion  
 
