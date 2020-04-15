@@ -43,23 +43,31 @@ The characteristics that result from these combinations, as outlined in Chapter 
 ## Role of the Auxiliary in Balancing Extraversion-Introversion  
 
 The basic principle that the auxiliary provides needed extraversion for the introverts and needed introversion for the extraverts is vitally important. The extraverts’ auxiliary gives them access to their own inner life and to the world of ideas; the introverts’ auxiliary gives them a means to adapt to the world of action and to deal with it effectively.  
+輔助功能為內向的人提供所需的內向性，為外向的人提供所需的內向性的基本原理至關重要。 外向者的輔助使他們能夠進入自己的內心生活和思想世界； 性格內向的人為他們提供了一種適應動作世界並有效應對的手段。(Google 翻譯)  
 
 Jung’s only allusions to this fact are cryptically brief. As a result, almost all his followers except van der Hoop seem to miss the principle involved. They assume that the two most developed processes are used in the favorite sphere (both extraverted or both introverted) and that the other sphere is left to the mercy of the two inferior processes. Jung writes:  
+榮格（Jung）對這個事實的唯一暗示只是隱含的簡短。 結果，除了范德霍普（van der Hoop）以外，幾乎他的所有追隨者似乎都懷念所涉及的原則。 他們假定在最喜歡的領域中使用了兩個最發達的過程（既是外向的還是內向的），而另一個領域則由兩個劣等的過程所左右。 榮格寫道：(Google 翻譯)  
 
 > For all the types appearing in practice, the principle holds good that besides the conscious main function there is also a relatively unconscious, auxiliary function which is in every respect different from the nature of the main function. (1923, p. 515)   
+> 對於實踐中出現的所有類型，該原理都適用，即除了有意識的主要功能外，還有一種相對無意識的輔助功能，在各個方面都與主要功能的性質不同。 （1923，第515頁）(Google 翻譯)  
 
 The operative words are “in every respect.” If the auxiliary process differs from the dominant process in every respect, it cannot be introverted where the dominant process is introverted. It has to be extraverted if the dominant process is introverted, and introverted if the dominant process is extraverted. This interpretation is confirmed by Jung in two other sentences, the first about the introvert thinker, the second about the extravert.   
+操作性用語是“在各個方面”。 如果輔助過程在各個方面都不同於主導過程，那麼在主導過程內向的地方就無法內向。 如果主導過程是內向的，則必須外向，如果主導過程是內向的，則必須內向。 榮格在另外兩句話中也證實了這一解釋，第一句話是關於內向的思想家，第二句話是關於內向的思想家。(Google 翻譯)  
 
 > The relatively unconscious functions of feeling, intuition and sensation, which counterbalance introverted thinking, are inferior in quality and have a primitive, extraverted character. (1923, p. 489)  
+> 情感，直覺和感覺的相對無意識的功能抵消了內向的思維，質量較差，具有原始的外向性格。 （1923，第489頁）(Google 翻譯)  
 >  
 > When the mechanism of extraversion predominates… the most highly differentiated function has a constantly extraverted application, where the inferior functions are found in the service of introversion. (1923, p. 426)    
+> 當外向性機制占主導地位時...高度差異化的功能會不斷外向化應用，其中內向性服務中會發現劣等功能。 （1923，第426頁）(Google 翻譯)  
 
 The conclusion that the auxiliary process takes care of the extraversion of the introvert and the introversion of the extravert is confirmed by observation. In any well-balanced introvert, the observer can see that the extraverting is carried on by the auxiliary process. For example, ISTJ people (introverted sensing types preferring thinking to feeling as auxiliary) normally run their outer life with their second-best process, thinking, so it is conducted with impersonal system and order. They do not leave it to their third-best process, feeling, as they would have to do if both their sensing and their thinking were introverted. Similarly, INFP people (introverted feeling types preferring intuition to sensing as auxiliary) normally run their outer life with their second-best process, their intuition, so their outer life is characterized by spurts and projects and enthusiasm. They do not leave it to ehri third-best process, sensing, as they would have to do if both their feeling and their intuition were introverted.  
+觀察證實了輔助過程照顧內向性和外向性的結論。在任何平衡良好的性格內向的人中，觀察者都可以看到，這種性交是由輔助過程進行的。例如，ISTJ人（性格內向的人傾向於以思考而不是感覺為輔助）通常通過其次優的思維過程來維持自己的外在生活，因此，它是以非人格的系統和秩序進行的。他們不會將其置於最佳狀態，即感覺，而不是內向和內向。同樣，INFP人（內向的感覺類型更傾向於直覺而不是感覺作為輔助）通常以其第二好的過程，直覺來維持他們的外在生活，因此他們的外在生活具有突兀，突兀和熱情的特點。他們不會將其留給ehri第三最好的過程，即感覺，如果他們的感覺和直覺都內向的話，他們將不得不做。(Google 翻譯)  
 
 A more subtle kind of evidence lies in the “extraverted character” of the introvert’s auxiliary process. For example, in a well-balanced ISTJ the observable auxiliary process, thinking, can be seen to resemble the thinking of the extraverted thinker more than that of the introverted thinker. This point can be tested with any introvert by comparing the auxiliary process with Chapter 8. Figures 28-31, where the differences between extraverted and introverted thinking, extraverted and introverted feeling, etc., are shown.  
+內向輔助過程的“外向性格”則是更微妙的證據。 例如，在一個平衡良好的ISTJ中，可以觀察到的輔助過程思維被認為更像是外向型思想家的思想，而不是內向型思想家的思想。 通過將輔助過程與第8章進行比較，可以用任何內向的觀點測試這一點。圖28-31顯示了內向和內向思維，內向和內向感覺等之間的差異。(Google 翻譯)  
 
 Good type development thus demands that the auxiliary supplement the dominant process in two respects. It must supply a useful degree of balance not only between perception and judgment but also between extraversion and introversion. When it fails to do so it leaves the individual literally “unbalanced,” retreating into the preferred world and consciously or unconsciously afraid of the other world. Such cases do occur and may seem to support the widespread assumption among Jungian analysts that the dominant and auxiliary are naturally both extraverted or both introverted; but such cases are not the norm: They are instances of insufficient use and development of the auxiliary. To live happily and effectively in both worlds, people need a balancing auxiliary that will make it possible to adapt in both directions -- to the world around them and to their inner selves.  
-
+因此，良好的類型開發要求輔助在兩個方面補充主導過程。 它不僅在感知和判斷之間，而且在外向和內向之間都必須提供有用的平衡。 如果無法做到這一點，就會使個人從字面上“失衡”，退回到首選的世界，有意識或無意識地害怕另一個世界。 確實發生了這種情況，並且似乎支持了Jungian分析師的普遍假設，即統治者和輔助者自然都外向或內向。 但是這種情況不是常態：它們是輔助工具使用和開發不足的實例。 為了在兩個世界中幸福而有效地生活，人們需要一種平衡的輔助工具，這將使人們有可能在兩個方向上適應周圍的世界及其內在自我。(Google 翻譯)  
 
 ## The Resulting Sixteen Types  
 
