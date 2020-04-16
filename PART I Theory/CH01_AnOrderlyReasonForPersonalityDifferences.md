@@ -55,30 +55,36 @@ Thus, the child who prefers thinking develops along divergent lines from the chi
 ## Combinations of Perception and judgment 感知與判斷的組合
 The TF preference (thinking or feeling) is entirely independent of the SN preference (sensing or intuition). Either kind of judgment can team up with either kind of perception. Thus, four combinations occur:  
 TF偏好（思考或情感）完全獨立於SN偏好（感覺或直覺）。 每種判斷都可以與任何一種感知結合在一起。 因此，出現四種組合：(Google 翻)
-
-- ST Sensing plus thinking
-- SF Sensing plus feeling
-- NF Intuition plus feeling
-- NT Intuition plus thinking  
-
+判斷方式 (TF) 與感知方式 (SN) 是完全獨立的兩種維度。任何一種判斷方式都可以與任何一種感知方式進行組合。因此，感知與判斷可以構成四種完全不同的組合。    
+- ST Sensing plus thinking 感覺思維型  
+- SF Sensing plus feeling 感覺情感型  
+- NF Intuition plus feeling 直覺情感型  
+- NT Intuition plus thinking  直覺思維型  
+  
 Each of these combinations produces a different kind of personality, characterized by the interests,  values, needs, habits of mind, and surface traits that naturally result from the combination. Combinations with a common preference will share some qualities, but each combination has qualities all its own, arising from the interaction of the preferred way of looking at life and the preferred way of judging what is seen. 
 這些組合中的每一種都會產生不同類型的個性，其特徵是組合所自然產生的興趣，價值，需求，思維習慣和表面特徵。具有共同偏愛的組合將具有某些特質，但是每種組合都具有其自身的特質，這源於對生活的偏愛和判斷事物的偏好。(Google 翻)
-
+以上每一種組合都代表著一種獨特的人格，其中又包括了不同的興趣、價值觀、需求、心理習慣以及各自不同的表面特質。在某一維度上具有共同偏好的組合會表現出類似的特質，而在感知與判斷方式的相互作用下，不同的組合又會形成自己獨有的特性。  
+  
 Whatever a person's particular combination of preferences may be, others with the same combination are apt to be the easiest to understand and like. They will tend to have similar interests, since they share the same kind of perception, and to consider the same things important, since they share the same kind of judgment. 
 無論一個人的特定偏好組合是什麼，具有相同組合的其他人都傾向於最容易理解和喜歡。由於他們具有相同的看法，因此他們傾向於具有相似的興趣，並且由於他們具有相同的判斷力，因此他們將認為相同的事情很重要。(Google 翻)
+無論個體屬於哪種組合，他總是特別理解並喜歡與自己具有相同偏好組合的人。因為彼此的感知方式相同，所以他們 的興趣點往往極為相似；又因為彼此的判斷方式一樣，所以他們的價值取向也往往非常一致。  
 
 On the other hand, people who differ on both preferences will be hard to understand and hard to predict --except that on every debatable question they are likely to take opposite stands. If these very opposite people are merely acquaintances, the clash of views may not matter, but if they are co-workers, close associates, or members of the same family, the constant opposition can be a strain. 
-另一方面，兩種偏好不同的人將很難理解和預測-除了在每個有爭議的問題上他們可能會採取相反的立場。如果這些非常對立的人僅僅是熟人，則意見衝突可能並不重要，但是如果他們是同事，親密同事或同一個家庭的成員，則持續不斷的反對可能會成為一種壓力。(Google 翻)
-
+另一方面，兩種偏好不同的人將很難理解和預測-除了在每個有爭議的問題上他們可能會採取相反的立場。如果這些非常對立的人僅僅是熟人，則意見衝突可能並不重要，但是如果他們是同事，親密同事或同一個家庭的成員，則持續不斷的反對可能會成為一種壓力。(Google 翻)  
+另一方面，如果兩人的感知和判斷偏好都不相同，那麼他們八成難以理解並預知彼此的想法和行為。而我們唯一能夠確定的就是在爭辯當中，他們很可能會各執己見、針鋒相對。如果僵持不下的雙方彼此並不認識，那麼這些衝突所造成的影響就可以忽略不計，但如果雙方互為同事、搭檔或者家人，在抬頭不見低頭見的環境中，如此頻繁的衝突必然會給雙方的關係造成巨大的壓力。    
+  
 Many destructive conflicts arise simply because two people are using opposite kinds of perception and judgment. When the origin  of such a conflict is recognized, it becomes less annoying and easier to handle.
-許多破壞性衝突的產生僅僅是因為兩個人正在使用相反的感知和判斷力。當識別出這種衝突的根源時，它就變得不那麼煩人並且更易於處理。(Google 翻)
+許多破壞性衝突的產生僅僅是因為兩個人正在使用相反的感知和判斷力。當識別出這種衝突的根源時，它就變得不那麼煩人並且更易於處理。(Google 翻)  
+事實上，很多極具破壞性的人際衝突都是由雙方的感知和判斷方式不同而導致的。一但我們找到這些問題的根源，就會發現它們其實沒有那麼討厭和棘手。  
 
 An even more destructive conflict may exist between people and their jobs, when the job makes no use of the worker's natural combination of perception  and judgment but constantly demands the opposite combination. 
 當工作沒有利用工人的感知和判斷力的自然組合，而是不斷要求相反的組合時，人們與工作之間可能存在更具破壞性的衝突。(Google 翻)
-
+如果個體所從事的工作恰好與其偏好組合相左，致使個體不得不使用與自己本性完全相反的感知和判斷方式，那麼在體與其工作之間便會產生嚴重衝突。    
+  
 The following paragraphs sketch the contrasting personalities that are expected in theory and found in practice to result from each of the four possible combinations of perception and judgment.
 以下各段簡要介紹了理論上所期望並在實踐中發現的兩種截然不同的個性，這些個性是由感知和判斷的四種可能組合中的每一種產生的。(Google 翻)
-
+理論上講，不同的感知和判斷方式組合會導致不同的人格表現，這一論斷己經在現實生活中得到了驗証。接下來，我們會詳細地描述四種不同的感知和判斷組合所展現出的不同的人格特徵。  
+  
 ### Sensing Plus Thinking 感覺加上思考的組合   
 
 The ST (sensing plus thinking) people rely primarily on sensing for purposes of perception and on thinking for purposes of judgment. Thus, their main interest focuses upon facts, because facts can be collected and verified directly by the senses -- by seeing, hearing touching, counting, weighing, measuring. ST people approach their decisions regarding these facts by impersonal analysis, because of their trust in thinking, with its step-by-step logical process of reasoning from cause to effect, from premise to conclusion.  
