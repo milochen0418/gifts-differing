@@ -99,10 +99,12 @@ In consequence, their personalities tend to be practical and matter-of-fact, and
 
 The SF (sensing plus feeling) people, too, rely primarily on sensing for purposes of perception, but they prefer feeling for purposes of judgment. They approach their decisions with personal warmth because their feeling weighs how much things matter to themselves and others.  
 SF（感覺加感覺）人也主要依靠感覺來達到感知的目的，但是他們更喜歡感覺來進行判斷。 他們以自己的熱情來決定自己的決定，因為他們的感覺決定著事情對自己和他人的重要性。(Google 翻)  
+感覺情感型 (SF) 個體同樣依靠 "感覺 (Sensing)" 來獲取信息，但喜歡通過 "情感 (Feeling) " 來進行判斷。通過情感評估，他們會判斷出某件事物對於自己和他人的重要性。因此，SF 型個體在做決策時，往往更有人情味兒。  
 
 They are more interested in facts about people than in facts about things and, therefore, they tend to be sociable and friendly. They are more likely to succeed and be satisfied in work where their personal warmth can be applied effectively to the immediate situation, as in pediatrics, nursing, teaching (especially elementary), social work, selling of tangibles, and service-with-a-smile jobs.  
 他們對人的事實比對事物的事實更感興趣，因此，他們傾向於社交和友好。 他們更有可能在工作中取得成功並感到滿意，在這種情況下，他們的個人溫暖可以有效地應用於當前情況，例如兒科，護理，教學（尤其是基礎教育），社會工作，有形物品銷售以及“提供服務” 微笑的工作。(Google 翻)  
-
+SF 型個體對於人的關注要遠大於對事物本身的關注，因此，他們往往顯得善於交際且親切友善。SF 型的個體非常適合從事那些需要與人近距離接觸並充分展現人情味兒的工作，比如兒科醫生、護士、教師 (尤其是小學教師)、社工、銷售或其他一些需要微笑服務的工作。  
+  
 ### Intuition Plus Feeling 直覺加上情感的組合 
 
 The NF (intuition plus feeling) people possess the same personal warmth as SF people because of their shared use of feeling for purposes of judgment, but because the NFs prefer intuition to sensing, they do not center their attention upon the concrete situation. Instead they focus on possibilities, such as new projects (things that haven’t ever happened but might be made to happen) or new truths (things that are not yet known but might be found out). The new project or the new truth is imagined by the unconscious processes and then intuitively perceived as an idea that feels like an inspiration.  
