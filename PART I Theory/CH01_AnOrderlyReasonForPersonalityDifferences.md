@@ -2,13 +2,16 @@
 
 It is fashionable to say that the individual is unique. Each is the product of his or her own heredity and environment and, therefore, is different from everyone else. From a practical standpoint, however, the doctrine of uniqueness is not useful without an exhaustive case study of every person to be educated or counseled or understood. Yet we cannot safely assume that other people’s minds work on the same principles as our own. All too often, others with whom we come in contact do not reason as we reason, or do not value the thins we value, or are not interested in what interests us.    
 現在很流行地說每個人都是獨一無二的。每個都是他或她自己的遺傳和環境的產物，因此，這世界上絕不存在兩個完全相同的人。但是，從實踐的角度來看，如果沒有對每個人進行詳盡的案例研究，就不能對唯一性原則有用。但是，我們不能安全地假設別人的思想與我們自己的思想相同。通常，與我們接觸的其他人不會像我們那樣推理，或者不珍惜我們珍視的東西，或者對我們感興趣的東西不感興趣。(Google翻)  
-  
+每個人都是獨一無二的，這是一種頗為時尚的說法。每個人都是遺傳和環境相互作用的產物，因此，這個世界上絕不存在兩個完全相同的人。但從實際應用的角度來看，我們必須對每一個所要教育、咨詢或了解的個體進行全面分析，這種關於個體獨特性的觀點的價值才能有所體現。我們很難假設詹人的想法都是一樣的。事實上，在與他人接觸的過程中，我們往往會發現對方的思維方式與我們截然不同，而彼此的價值觀和興趣點也經常大相徑庭。    
+
 The merit of the theory presented here is that it enables us to expect specific personality differences in particular people and to cope with the people and the differences in a constructive way. Briefly, the theory is that much seemingly chance variation in human behavior is not due to chance; it is in fact the logical result of a few basic, observable differences in mental functioning.  
 這裡介紹的理論的優點在於，它使我們能夠期待特定人的特定人格差異，並以建設性的方式應對人與人之間的差異。簡而言之，該理論認為，人類行為中看似偶然的變化並不是偶然的。實際上，這是心理功能上一些基本的，可觀察到的差異的邏輯結果。(Google翻)  
-  
+本書所介紹的理論的優勢在於，它不僅能夠幫助我們預測某個具體人物的性格特點及其與他人的差異，同時也會為我們指明與其溝通相處的切實有效的方法。簡單說來，該理論認為㆟與人之間存在的那些看似偶然的差異其實是必然的。這些個體差異的是基於特定事實而出現的合理結良，是個體內部心理功能差異的外在表現。  
+
 These basic differences concern the way people prefer to use their minds, specifically, the way they perceive and the way they make judgments. Perceiving is here understood to include the processes of becoming aware of things, people, occurrences, and ideas. Judging includes the processes of coming to conclusions about what has been perceived. Together, perception and judgment, which make up a large portion of people’s total mental activity,  govern much of their outer behavior, because perception -- by definition -- determines what people see in a situation, and their judgment determines what they decide to do about it. Thus, it is reasonable that basic differences in perception or judgment should result in corresponding differences in behavior.  
 這些基本差異關係到人們喜歡使用思想的方式，特別是他們的感知方式和做出判斷的方式。在這裡，感知被理解為包括對事物，人，事件和思想的認識的過程。評判包括就所感知的事物得出結論的過程。感知和判斷共同構成了人們總體心理活動的很大一部分，支配著他們的許多外在行為，因為感知（根據定義）決定了人們在某種情況下所看到的東西，而判斷則決定了他們決定要做的事情關於它。因此，合理的認識或判斷上的差異應導致相應的行為差異。(Google 翻)  
-
+這些基本的心理功能差異也就是不同個體對其大腦的不同使用偏好，具體來說，就是我們對事物進行感知和判斷的慣用方式不同。"感知" 就是我們對事物、人物、環境或想法的感知，而 "判斷" 則是我們對所感知到的信息的判斷。感知和判斷構成了我們心理活動的主體，並控制著我們絕大部份的行為表現。從這兩種心理功能的定義我們就能看出，感知決定了我們對環境的認知，而判斷則決定了我們將以怎樣的方式應對。因此，不同的感知或判斷方式自然會導致不同的行為表現，進而也就造成了人與人之間的差異。    
+  
 ## Two Ways of Perceiving 感知功能有兩種
 
 As Jung points out in Psychological Types, humankind is equipped with two distinct and sharply contrasting ways of perceiving. One means of perception is the familiar process of sensing, by which we become aware of things directly through our five senses. The other is the process of intuition, which is indirect perception by way of the unconscious, incorporating ideas or associations that the unconscious tacks on to perceptions coming from outside. These unconscious contributions range from the merest masculine “hunch” or “woman’s intuition” to the crowning examples of creative art or scientific discovery.
