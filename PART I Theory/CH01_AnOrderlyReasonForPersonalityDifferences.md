@@ -38,28 +38,28 @@ Thus, by a natural sequence of events, the child who prefers sensing and the chi
 
 A basic difference in judgment arises from the existence of two distinct and sharply contrasting ways of coming to conclusions. One way is by the use of thinking, that is, by a logical process, aimed at an impersonal finding. The other is by feeling, that is, by appreciation -- equally reasonable in its fashion -- bestowing on things a personal, subjective value.  
 判斷的基本差異是由兩種截然不同且截然相反的結論得出的。一種方法是通過使用思維，即通過針對非個人發現的邏輯過程。另一種是通過感覺，也就是通過欣賞（在形式上同樣合理），賦予事物一種個人的，主觀的價值。(Google翻)  
-通過對感知獲得的信息之加工，個體會得出相應的結論。不同個體在做結論時會采用不同的方式，這就是他們在判斷方式上存在的差異。一種判斷方式是 "思維 (Thinking)"，即通過理性的邏輯加工來獲得客觀的結論。另一種方式是 "情感 (Feeling)"，是基於個人的主觀價值取向對事物進行評估，這種評估同樣是一個理性過程。   
+通過對感知獲得的信息之加工，個體會得出相應的結論。不同個體在做結論時會采用不同的方式，這就是他們在判斷方式上存在的差異。一種判斷方式是 "思考 (Thinking)"，即通過理性的邏輯加工來獲得客觀的結論。另一種方式是 "情感 (Feeling)"，是基於個人的主觀價值取向對事物進行評估，這種評估同樣是一個理性過程。   
 
 These two ways of judging would also seem self-evident. Most people would agree that they make some decisions with thinking and some with feeling, and that the two methods do not always reach the same result from a given set of facts. The theory suggest that a person is almost certain to enjoy and trust one way of judging more than the other. In judging the ideas presented here, a reader who considers first whether they are consistent and logical is using thinking judgment.  A reader who is conscious first that the ideas are pleasing or displeasing, supporting or threatening ideas already prized, is using feeling judgment.  
 這兩種判斷方法似乎也是不言而喻的。大多數人會同意，他們用思想做出某些決定，而用感覺做出某些決定，並且這兩種方法並不總是從給定的事實集合中得出相同的結果。該理論表明，一個人幾乎肯定會喜歡和信任一種判斷方式，而不是另一種。在判斷此處提出的想法時，首先考慮思想是否一致且合乎邏輯的讀者正在使用思維判斷。首先意識到想法是令人愉悅或不悅，支持或威脅已經珍視的想法的讀者正在使用感覺判斷。(Google翻)  
-與感知方式類似，人們對信息進行判斷時存在兩種不同的方式也是顯而易見的。眾所周知，在做判斷和決定時，人們有時會依據思維，有時則會依據情感。即便對於同一件事情，這兩種方式所得出的結論往往也並不一致。榮格的理論指出，任何人都會天然地更加偏好並信賴其中一種判斷方式。比如，對於眼前呈現的這一觀點，思維型的讀者會優先關注其連貫性和邏輯性；情感型的讀者則會先評估自己是否喜歡這個觀點，他們會判斷眼前的新觀點是否支持或者威脅自己的固有認知。    
+與感知方式類似，人們對信息進行判斷時存在兩種不同的方式也是顯而易見的。眾所周知，在做判斷和決定時，人們有時會依據思考 Thinking，有時則會依據情感 Feeling。即便對於同一件事情，這兩種方式所得出的結論往往也並不一致。榮格的理論指出，任何人都會天然地更加偏好並信賴其中一種判斷方式。比如，對於眼前呈現的這一觀點，思考型 Thinking 的讀者會優先關注其連貫性和邏輯性；情感型 Feeling 的讀者則會先評估自己是否喜歡這個觀點，他們會判斷眼前的新觀點是否支持或者威脅自己的固有認知。    
 
 Whichever judging process a child prefers he or she will use more often, trust more implicitly, and be much more ready to obey. The other kind of judgment will be a sort of minority opinion, half-heard and often wholly disregarded.  
 無論孩子喜歡哪個判斷過程，他或她都會更頻繁地使用，更隱含地信任並且更願意服從。另一種判斷將是一種少數意見，是半聽卻常常被完全忽視的。(Google翻)  
-無論屬於思維型還是情感型，孩子都會更頻繁地使用自己所偏好的那種判斷方式，他們會無條件地信任這種判斷方式，也更願意接受由這種方式所得出的結論。而由另外一種判斷方式所得出的結論則供參考，他們會半信半疑，甚至充耳不聞。    
+無論屬於思考型 (T:Thinking) 還是情感型 (F:Feeling)，孩子都會更頻繁地使用自己所偏好的那種判斷方式，他們會無條件地信任這種判斷方式，也更願意接受由這種方式所得出的結論。而由另外一種判斷方式所得出的結論則供參考，他們會半信半疑，甚至充耳不聞。    
 
 Thus, the child who prefers thinking develops along divergent lines from the child who prefers feeling, even when both like the same perceptive process and start with the same perceptions. Both are happier and more effective in activities that call for the sort of judgments that they are better equipped to make. The child who prefers feeling becomes more adult in the handling of human relationships. The child who prefers thinking grows more adept in the organization of facts and ideas. Their basic preference for the personal or the impersonal approach to life results in distinguishing surface traits. This is the TF preference: T for thinking and F for feeling.  
 因此，即使他們都喜歡相同的感知過程並以相同的感知開始，但喜歡思考的孩子卻與喜歡感覺的孩子沿著分歧的方向發展。兩者在需要更好地做出判斷的活動中都更快樂，更有效。喜歡情感的孩子在處理人際關係時變得更加成人。喜歡思考的孩子會更擅長事實和思想的組織。他們對生活的個人或非個人方法的基本偏愛導致區分錶面特徵。這就是TF偏好：T代表思考，F代表感覺。(Google翻)  
-因此，即便兩個孩子利用相同的感官來獲取信息，並采用相同的認知過程來加工信息，他們也會因為判斷方式的不同而走上完全不同的發展路徑。在使用自己偏好和熟悉的方式時，他們都會感到更加愉悅和高效。隨著年齡的增長，情感型的孩子在處理關係時會顯得詆右逢源，思維型的孩子在各種事實和觀點的組織上則會更加游刃有餘。這種個人或非個人的判斷偏好最終使不同的個體展現出不同的表面特質。這個就是 (TF) 偏好：T 代表思維 (Thinking)，F 代表情感 (Feeling)。    
+因此，即便兩個孩子利用相同的感官來獲取信息，並采用相同的認知過程來加工信息，他們也會因為判斷方式的不同而走上完全不同的發展路徑。在使用自己偏好和熟悉的方式時，他們都會感到更加愉悅和高效。隨著年齡的增長，情感型的孩子在處理關係時會顯得詆右逢源，思考型的孩子在各種事實和觀點的組織上則會更加游刃有餘。這種個人或非個人的判斷偏好最終使不同的個體展現出不同的表面特質。這個就是 (TF) 偏好：T 代表思考 (Thinking)，F 代表情感 (Feeling)。    
 
 ## Combinations of Perception and judgment 感知與判斷的組合
 The TF preference (thinking or feeling) is entirely independent of the SN preference (sensing or intuition). Either kind of judgment can team up with either kind of perception. Thus, four combinations occur:  
 TF偏好（思考或情感）完全獨立於SN偏好（感覺或直覺）。 每種判斷都可以與任何一種感知結合在一起。 因此，出現四種組合：(Google 翻)
 判斷方式 (TF) 與感知方式 (SN) 是完全獨立的兩種維度。任何一種判斷方式都可以與任何一種感知方式進行組合。因此，感知與判斷可以構成四種完全不同的組合。    
-- ST Sensing plus thinking 感覺思維型  
+- ST Sensing plus thinking 感覺思考型  
 - SF Sensing plus feeling 感覺情感型  
 - NF Intuition plus feeling 直覺情感型  
-- NT Intuition plus thinking  直覺思維型  
+- NT Intuition plus thinking  直覺思考型  
   
 Each of these combinations produces a different kind of personality, characterized by the interests,  values, needs, habits of mind, and surface traits that naturally result from the combination. Combinations with a common preference will share some qualities, but each combination has qualities all its own, arising from the interaction of the preferred way of looking at life and the preferred way of judging what is seen. 
 這些組合中的每一種都會產生不同類型的個性，其特徵是組合所自然產生的興趣，價值，需求，思維習慣和表面特徵。具有共同偏愛的組合將具有某些特質，但是每種組合都具有其自身的特質，這源於對生活的偏愛和判斷事物的偏好。(Google 翻)
@@ -76,7 +76,7 @@ On the other hand, people who differ on both preferences will be hard to underst
 Many destructive conflicts arise simply because two people are using opposite kinds of perception and judgment. When the origin  of such a conflict is recognized, it becomes less annoying and easier to handle.
 許多破壞性衝突的產生僅僅是因為兩個人正在使用相反的感知和判斷力。當識別出這種衝突的根源時，它就變得不那麼煩人並且更易於處理。(Google 翻)  
 事實上，很多極具破壞性的人際衝突都是由雙方的感知和判斷方式不同而導致的。一但我們找到這些問題的根源，就會發現它們其實沒有那麼討厭和棘手。  
-
+  
 An even more destructive conflict may exist between people and their jobs, when the job makes no use of the worker's natural combination of perception  and judgment but constantly demands the opposite combination. 
 當工作沒有利用工人的感知和判斷力的自然組合，而是不斷要求相反的組合時，人們與工作之間可能存在更具破壞性的衝突。(Google 翻)
 如果個體所從事的工作恰好與其偏好組合相左，致使個體不得不使用與自己本性完全相反的感知和判斷方式，那麼在體與其工作之間便會產生嚴重衝突。    
@@ -85,13 +85,15 @@ The following paragraphs sketch the contrasting personalities that are expected 
 以下各段簡要介紹了理論上所期望並在實踐中發現的兩種截然不同的個性，這些個性是由感知和判斷的四種可能組合中的每一種產生的。(Google 翻)
 理論上講，不同的感知和判斷方式組合會導致不同的人格表現，這一論斷己經在現實生活中得到了驗証。接下來，我們會詳細地描述四種不同的感知和判斷組合所展現出的不同的人格特徵。  
   
-### Sensing Plus Thinking 感覺加上思考的組合   
+### Sensing Plus Thinking 感覺加上思考的組合 - 感覺思考型  
 
 The ST (sensing plus thinking) people rely primarily on sensing for purposes of perception and on thinking for purposes of judgment. Thus, their main interest focuses upon facts, because facts can be collected and verified directly by the senses -- by seeing, hearing touching, counting, weighing, measuring. ST people approach their decisions regarding these facts by impersonal analysis, because of their trust in thinking, with its step-by-step logical process of reasoning from cause to effect, from premise to conclusion.  
 ST（感知加思考）人員主要依靠感知來實現感知，並依靠思維來進行判斷。 因此，他們的主要興趣集中在事實上，因為可以通過感官直接收集和驗證事實-通過查看，聆聽觸摸，計數，稱重，測量來驗證事實。 ST人員基於對思維的信任，並通過逐個邏輯推理過程，從因果關係到從前提到結論，通過非個人化分析來對這些事實做出決策。(Google 翻)  
+感覺思考型 (ST) 個體鋹要依靠 "感覺 (Sensing)" 來獲取信息，並通過 "思考 (Thinking)" 對信息進行判斷。因此，他們往往對事實很感興趣，因為事實可以通過視覺、聽覺、觸覺、計算、稱重和測量等方式獲得。在進行判斷和決策時，ST 型個體會客觀地分析自己所掌握的信息，他們信賴思考  ，習慣通過一步步的邏輯推理來驗証自己的假設，近而得出最終的結論。  
 
 In consequence, their personalities tend to be practical and matter-of-fact, and their best chances of success and satisfaction lie in fields that demand impersonal analysis of concrete facts, such as economics, law, surgery, business, accounting, production,  and the handling of machines and materials.  
 結果，他們的性格趨向於務實，事半功倍，他們成功和滿意的最佳機會就在於那些需要對具體事實進行非人為分析的領域，例如經濟學，法律，外科，商業，會計，生產和 機器和材料的處理。(Google 翻)  
+因此，在人格上，ST 型個體往往非常實際和實事求是。ST 型個體更適合從事經濟、法律、醫學、商務、財會、生產、機械操作和材料處理等領域的工作，在這些講求客觀分析和實事求是的工作上，ST 型的個體更容易取得成功，並獲得成就感。  
 
 ### Sensing Plus Feeling 感覺加上情感的組合 
 
