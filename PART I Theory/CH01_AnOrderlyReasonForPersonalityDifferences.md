@@ -16,20 +16,24 @@ These basic differences concern the way people prefer to use their minds, specif
 
 As Jung points out in Psychological Types, humankind is equipped with two distinct and sharply contrasting ways of perceiving. One means of perception is the familiar process of sensing, by which we become aware of things directly through our five senses. The other is the process of intuition, which is indirect perception by way of the unconscious, incorporating ideas or associations that the unconscious tacks on to perceptions coming from outside. These unconscious contributions range from the merest masculine “hunch” or “woman’s intuition” to the crowning examples of creative art or scientific discovery.
 正如榮格在《心理類型》中指出的那樣，人類擁有兩種截然不同且截然相反的感知方式。感知的一種方法是熟悉的感知過程，通過它我們可以通過五種感覺直接感知事物。另一個是直覺的過程，它是通過無意識的方式進行的間接感知，並結合了無意識對來自外部的感知的想法或聯想。這些無意識的貢獻從最男性化的“預感”或“女性的直覺”到創造性藝術或科學發現的最高典範。(Google翻)
-
+正如榮格 (Jung) 在其著作心理類型一書中提到的，人類有兩種截不同的感知 (Perception) 方式。一種方式 (Process 稱功能，或稱心理過程 )是我們所熟知的 "感覺 (Sensing)"，感覺型的個體會利用身體的五官直接從環境中取信息。另一種方式 (Process 稱功能，或稱心理過程), 其方式是 "直覺 (Intuition)"，直覺型的個體會在無意識 (Unconscious) 中對各種外部信息進行綜合的聯系，水而間接地對環境進行感知。從日常生活中男人的預感和女人的直覺，到偉大的藝術成就和科學發現，"直覺" 都功不可沒。    
+  
 The existence of distinct ways of perceiving would seem self-evident.  People perceive through their senses, and they also perceive things that are not and never have been present to their senses. The theory adds the suggestion that the two kinds of perception compete for a person’s attention and that most people, from infancy up, enjoy one more than the other. When people prefer sensing, they are so interested in the actuality around them that they have little attention to spare for ideas coming faintly out of nowhere. Those people who prefer intuition are so engrossed in pursuing the possibilities it presents that they seldom look very intently at the actualities. For instance, readers who prefer sensing will tend to confine their attention to what is said here on the page. Readers who prefer intuition are likely to read between and beyond the lines to the possibilities that come to mind.
 存在不同的感知方式似乎是不言而喻的。人們通過自己的感官來感知，他們也可以感知那些從來沒有出現過的東西。該理論增加了一種建議，即兩種感知力爭奪一個人的注意力，並且大多數人從嬰儿期開始就比另一種享有更多的享受。當人們更喜歡感知時，他們對周圍的現實非常感興趣，以至於他們幾乎沒有註意力去避開那些虛幻的想法。那些喜歡直覺的人全神貫注於追求它所帶來的可能性，因此他們很少非常專心地看待現實。例如，喜歡感應的讀者會傾向於將注意力集中在頁面上的講話中。那些喜歡直覺的讀者可能會在可能出現的界限之間或之外閱讀。(Google翻)
-
-
+在日常生活中，這兩種不同的感知方式之存在是顯而易見的。人們會通過感官獲取信息，但也會足到感官之外很多的線索。與此同時，榮格也在他的心理類型理論一書中指出，在注意過程中，感覺和直覙會相互爭奪個體的注意資源，而對於大多數人來說，我們從小就會偏好其中一種感知方式。如果一個人更喜歡通感感覺來獲取信息，那麼他就會格外關注環境中的客觀事實，並自動惣略那些憑空出現的想法。相反，那些更加相信自己直覺的人則會執著於控可能出現的各種情況。對於眼前的各種事實卻顯得無動于衷。舉例來說，在看書的時候，感覺型的人會把注意力集中在書本上的字句本身，而直覺型的人則會試圖推敲作者的言外之意。
+  
 As soon as children exercise a preference between the two ways of perceiving, a basic difference in development begins. The children have enough command of their mental processes to be able to use the favorite processes more often and to neglect the processes they enjoy less. Whichever process they prefer, whether sensing or intuition, they will use more, paying closer attention to its stream of impressions and fashioning their idea of the world from what the process reveals. The other kind of perception  will be background, a little out of focus.
 一旦孩子在兩種感知方式之間選擇了偏愛，發育方面的基本差異就會開始。孩子們對自己的心理過程有足夠的控制能力，可以更多地使用自己喜歡的過程，而忽略了自己所享受的過程。無論他們喜歡哪個過程，無論是感知還是直覺，他們都將更多地使用它，密切關注它的印象流，並根據過程所揭示的內容塑造他們對世界的看法。另一種看法將是背景，有點模糊。(Google翻)
-
+從童年開始，個體就會偏好某一種感知方式，個體發展的基本差異即由此開始。此時，個體已經有足夠的能力來掌控自己的心理過程 (Process)。他會頻繁地使用自己偏好的感知方式來獲取信息，並盡可能地迴避自己不喜歡的感知方式。無論個體是偏好感覺還是直覺，他都會頻繁地使用他更加喜歡的感知方式，密切關注這種方式所帶來的信息，並基於這些信息來建構和更新自己對世界的認知。與此同時，另外一種不被偏好的感知方式則會退居幕後，不太受關注。  
+  
 With the advantage of constant practice, the preferred process grows more controlled and more trustworthy. The children become more adult in their use of the preferred process than in their less frequent use of the neglected one. Their enjoyment extends from the process itself to activities requiring the process, and they tend to develop the surface traits that result from looking at life in a particular way. 
 憑藉不斷實踐的優勢，首選過程變得更加可控且更可信賴。與不經常使用被忽視的孩子相比，兒童在使用首選方法時變得更加成人。他們的樂趣從過程本身擴展到需要過程的活動，並且他們傾向於發展以特定方式看待生活所產生的表面特徵。(Google翻)
-
+隨著實踐經驗的不斷累積，個體對於自己所偏好的感知方式的運用會愈發得心應手，對這一方式的信賴也會越發顯著。與不被偏好的那種感知方式相比，個體對其偏好的感知方式的使用要成熟得多。不僅如此，個體對於某種感知方式的偏好與興趣還會擴展到與之相關的各種行為和活動中去。不同的感知方式會導致個體對生活產生不同的理解，而個體也會因此而表現出各種不同的外在特徵。  
+  
 Thus, by a natural sequence of events, the child who prefers sensing and the child who prefers intuition develop along divergent lines. Each becomes relatively adult in an area where the other remains relatively childlike. Both channel their interests and energy into activities that give them a chance to use their mind the way they prefer. Both acquire a set of surface traits that grows out of the basic preferences beneath. This is the SN preference: S for sensing and N for intuition.
 因此，通過自然的事件序列，喜歡感知的孩子和喜歡直覺的孩子會沿著分歧的方向發展。在彼此保持相對童年的地區，每個人都相對成年。雙方都將自己的興趣和精力投入到活動中，使他們有機會以自己喜歡的方式使用自己的思想。兩者都獲得了一系列表面特徵，這些特徵是從下面的基本偏好中衍生出來的。這是SN偏好：S代表感應，N代表直覺。(Google翻)
-
+因此，隨著年齡的增長，偏好不同感知方式的個體會逐漸發現出明顯不同的發展路徑。個體總會在熟悉的領域中表現得更加成熟，而在陌生的領域中則顯得相對幼稚。而這兩者者會影響到個體興趣和精力的取向，個體會盡可能地選擇那些與自己偏婕的感知方式相關的活動，以便更多地展現自己的成熟而避免露出幼稚的馬腳。在這個體程中，個體會逐漸發展出特定的表面特質，而這些特質出現的根源就在於個體內心深處對於某種感知方式的偏好。這就是感知 (SN) 偏好：S 代表感覺 (Sensing)，N 代表直覺 (iNutition)。   
+  
 ## Two Ways of Judging 判斷功能有兩種
 
 A basic difference in judgment arises from the existence of two distinct and sharply contrasting ways of coming to conclusions. One way is by the use of thinking, that is, by a logical process, aimed at an impersonal finding. The other is by feeling, that is, by appreciation -- equally reasonable in its fashion -- bestowing on things a personal, subjective value.  
