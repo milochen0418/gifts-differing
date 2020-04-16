@@ -85,7 +85,7 @@ The following paragraphs sketch the contrasting personalities that are expected 
 以下各段簡要介紹了理論上所期望並在實踐中發現的兩種截然不同的個性，這些個性是由感知和判斷的四種可能組合中的每一種產生的。(Google 翻)  
 理論上講，不同的感知和判斷方式組合會導致不同的人格表現，這一論斷己經在現實生活中得到了驗証。接下來，我們會詳細地描述四種不同的感知和判斷組合所展現出的不同的人格特徵。  
   
-### Sensing Plus Thinking 感覺加上思考的組合 - 感覺思考型  
+### Sensing Plus Thinking 感覺加上思考的組合 - 感覺思考型 ST 
 
 The ST (sensing plus thinking) people rely primarily on sensing for purposes of perception and on thinking for purposes of judgment. Thus, their main interest focuses upon facts, because facts can be collected and verified directly by the senses -- by seeing, hearing touching, counting, weighing, measuring. ST people approach their decisions regarding these facts by impersonal analysis, because of their trust in thinking, with its step-by-step logical process of reasoning from cause to effect, from premise to conclusion.  
 ST（感知加思考）人員主要依靠感知來實現感知，並依靠思維來進行判斷。 因此，他們的主要興趣集中在事實上，因為可以通過感官直接收集和驗證事實-通過查看，聆聽觸摸，計數，稱重，測量來驗證事實。 ST人員基於對思維的信任，並通過逐個邏輯推理過程，從因果關係到從前提到結論，通過非個人化分析來對這些事實做出決策。(Google 翻)  
@@ -95,7 +95,7 @@ In consequence, their personalities tend to be practical and matter-of-fact, and
 結果，他們的性格趨向於務實，事半功倍，他們成功和滿意的最佳機會就在於那些需要對具體事實進行非人為分析的領域，例如經濟學，法律，外科，商業，會計，生產和 機器和材料的處理。(Google 翻)  
 因此，在人格上，ST 型個體往往非常實際和實事求是。ST 型個體更適合從事經濟、法律、醫學、商務、財會、生產、機械操作和材料處理等領域的工作，在這些講求客觀分析和實事求是的工作上，ST 型的個體更容易取得成功，並獲得成就感。  
 
-### Sensing Plus Feeling 感覺加上情感的組合 
+### Sensing Plus Feeling 感覺加上情感的組合 - 感覺情感型 SF
 
 The SF (sensing plus feeling) people, too, rely primarily on sensing for purposes of perception, but they prefer feeling for purposes of judgment. They approach their decisions with personal warmth because their feeling weighs how much things matter to themselves and others.  
 SF（感覺加感覺）人也主要依靠感覺來達到感知的目的，但是他們更喜歡感覺來進行判斷。 他們以自己的熱情來決定自己的決定，因為他們的感覺決定著事情對自己和他人的重要性。(Google 翻)  
@@ -105,7 +105,7 @@ They are more interested in facts about people than in facts about things and, t
 他們對人的事實比對事物的事實更感興趣，因此，他們傾向於社交和友好。 他們更有可能在工作中取得成功並感到滿意，在這種情況下，他們的個人溫暖可以有效地應用於當前情況，例如兒科，護理，教學（尤其是基礎教育），社會工作，有形物品銷售以及“提供服務” 微笑的工作。(Google 翻)  
 SF 型個體對於人的關注要遠大於對事物本身的關注，因此，他們往往顯得善於交際且親切友善。SF 型的個體非常適合從事那些需要與人近距離接觸並充分展現人情味兒的工作，比如兒科醫生、護士、教師 (尤其是小學教師)、社工、銷售或其他一些需要微笑服務的工作。  
   
-### Intuition Plus Feeling 直覺加上情感的組合 
+### Intuition Plus Feeling 直覺加上情感的組合 - 直覺情感型 NF 
 
 The NF (intuition plus feeling) people possess the same personal warmth as SF people because of their shared use of feeling for purposes of judgment, but because the NFs prefer intuition to sensing, they do not center their attention upon the concrete situation. Instead they focus on possibilities, such as new projects (things that haven’t ever happened but might be made to happen) or new truths (things that are not yet known but might be found out). The new project or the new truth is imagined by the unconscious processes and then intuitively perceived as an idea that feels like an inspiration.  
 NF（直覺加情感）人與SF人具有相同的個人溫暖，因為他們出於判斷目的共同使用感覺，但是由於NF寧願直覺而不是感覺，因此他們不會將注意力集中在具體情況上。相反，他們專注於可能性，例如新項目（從未發生過但可能會發生的事情）或新的真理（尚不知道但可能會發現的事情）。新項目或新真理是由潛意識的過程想像出來的，然後在直覺上被看作是一種靈感的想法。(Google 翻)   
@@ -115,22 +115,30 @@ The personal warmth and commitment with which the NF people seek and follow up a
 NF員工尋求並追隨可能性的個人熱情和承諾令人印象深刻。他們既熱情又有見識。通常，他們擁有明顯的語言天賦，並且可以傳達他們看到的可能性和對其賦予的價值。他們更有可能在需要創造力來滿足人類需求的工作中獲得成功和滿足感。他們可能在教學（尤其是大學和高中），講道，廣告，無形資產銷售，諮詢，臨床心理學，精神病學，寫作和大多數研究領域中表現出色。(Google 翻)  
 NF 型個體兼具人情味和責任心，同時又善於發現各種潛在的可能性，因此格外引人矚目。NF 型個體即滿腔熱情又富遠見，他們往往極具語言天賦，不僅能傳達出自己的預見，同時也能闡明其中的價值。在那些需要創造性地滿足人類需求的行業中，NF 型個體往往能夠獲得成功和滿足感，所以，他們非常適合從事教育 (尤其是大學和中學教育)、傳播、廣告、銷售、咨詢、臨床心理、精神病學、寫作以及各種研究工作。  
 
-### Intuition Plus Thinking 直覺加上思考的組合  
+### Intuition Plus Thinking 直覺加上思考的組合 - 直覺思考型 NT  
 
 The NT (intuition plus thinking) people also use intuition but team it with thinking.  Although they focus on a possibility, they approach it with impersonal analysis. Often they choose a theoretical or executive possibility and subordinate the human element.   
-NT（直覺加思考）也使用直覺，但將其與思考結合在一起。儘管他們專注於可能性，但是他們通過非個人分析來解決它。他們常常選擇理論或執行上的可能性並從屬於人為因素。(Google 翻)  
+NT（直覺加思考）也使用直覺，但將其與思考結合在一起。儘管他們專注於可能性，但是他們通過非個人分析來解決它。他們常常選擇理論或執行上的可能性並從屬於人為因素。(Google 翻)   
+直覺思考型 (NT) 型個體同樣通過 "直覺 (iNtuition)" 進行感知，但又與 "思考 (Thinking)" 判斷進行了組合。NT 型的個體雖然也非常關注 "可能性"，但他們會對這些可能性進行理性客觀的分析。他們通常會選擇那些合理或可行的可能性，而把人情因素置於次要位置。  
 
 NTs tend to be logical and ingenious and are most successful in solving problems in a field of special interest, whether scientific research, electronic computing mathematics, the more complex aspects of finance, or any sort of development or pioneering in technical areas.  
-NT往往具有邏輯性和獨創性，在解決特別感興趣的領域中的問題方面最成功，無論是科學研究，電子計算數學，金融的更複雜方面還是技術領域的任何形式的發展或開拓。(Google 翻)  
+NT 往往具有邏輯性和獨創性，在解決特別感興趣的領域中的問題方面最成功，無論是科學研究，電子計算數學，金融的更複雜方面還是技術領域的任何形式的發展或開拓。(Google 翻)    
+NT 型個體往往邏輯嚴謹，為人機敏。他們善於在自己喜歡的領域中解決各種難題，無論是科學研究、電子計算、數學、還是複雜的財政金融，甚至是前沿的技術研發，NT 型個體都能大展身手。  
+   
+   
 
-Everyone has probably met all four kinds of people: ST people, who are practical and matter-of-fact; the sympathetic and friendly SF people. NF people, who are characterized by their enthusiasm and insight; and NT people, who are logical and ingenious.  
-每個人都可能會遇到所有四種人：ST人，他們務實而務實；富有同情心和友好的SF人。具有熱情和洞察力的NF人；和NT人士，他們富有邏輯性和獨創性。(Google 翻)  
-
+    
+Everyone has probably met all four kinds of people: ST people, who are practical and matter-of-fact; the sympathetic and friendly SF people. NF people, who are characterized by their enthusiasm and insight; and NT people, who are logical and ingenious.   
+每個人都可能會遇到所有四種人：ST人，他們務實而務實；富有同情心和友好的SF人。具有熱情和洞察力的NF人；和NT人士，他們富有邏輯性和獨創性。(Google 翻)   
+在日常生活中，我們都會遇見這四類人：實事求是的 ST 型；感性友善的 SF 型；熱情智慧的 NF 型；以及嚴謹機敏的 NT 型。  
+  
 The skeptic may ask how four apparently basic categories of people could have gone unnoticed in the past. The answer is that the categories  have been noted repeatedly and by different investigators or theorists.   
 持懷疑態度的人可能會問，過去似乎沒有註意到四類基本的人。答案是類別已經被不同的研究者或理論家反复提及。(Google 翻)  
-
+有人也許會質疑，如果我們可以把人分為如此不同的四種類型，為什麼在此之前人們都沒有意識到呢? 事實上，這種區分早已被不同的研究者或理論家反覆提出過。  
+  
 Vernon (1938) cited three systems of classification derived by different methods but which are strikingly parallel. Each reflects the combinations of perception and judgment: Thurstone (1931), by factor analysis of vocational interest scores, found four main factors corresponding to interest in business,  in people, in language, and in science; Gundlach and Gerum (1931), from inspection of interest intercorrelations,  deduced five main “type of ability,” namely, technical, social, creative, and intellectual, plus physical skill; Spranger (1928), from logical and intuitive considerations, derived six “types of men,” namely, economic, social religious, and theoretical, plus aesthetic and political.  
 Vernon（1938）引用了三種分類方法，它們是通過不同的方法得出的，但它們卻是平行的。每個都反映了感知和判斷的結合：Thurstone（1931）通過對職業興趣分數的因素分析，發現了四個主要因素，它們對應於對商業，對人，對語言和對科學的興趣；貢德拉克和傑魯姆（Gundlach and Gerum，1931）從利益相關性的考察中得出了五種主要的“能力類型”，即技術，社會，創造力和智力以及身體技能。 Spranger（1928）從邏輯和直觀的角度出發，得出了六種“人的類型”，即經濟，社會宗教和理論，再加上美學和政治。(Google 翻)  
+弗農 (Vernon) 在 1938 年就提出胍人分為三種類型，而他所使用的方法雖然與我們不同卻極為相似：每一種類型都代表了不同的感知與判斷方式的組合。1931 年，瑟斯頓 (Thurstone) 通過對職業興趣得分進行因素分析總結出了四種主要的興趣類型，分別是商務、人文、語言和科學；貢德拉赫 (Gundlach) 與 格魯姆 (Gerum) 在 1931 年對興趣關聯性進行了研究，歸納出了人的五種 "能力類型"，即技術能力、社交能力、創造力、智力和肢體能力； 1928 年，斯普蘭格 (Spranger) 從邏輯和直覺的角度分析，指出人可以分為六種類型：經濟型、社會型、宗教型、理論型、審美型和權力型。  
 
 ## The Extraversion-Introversion Preference 外傾與內傾間的偏好 
 
