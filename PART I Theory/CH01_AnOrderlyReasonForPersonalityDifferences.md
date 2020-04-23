@@ -166,15 +166,19 @@ Among the NF people, the introverts (INF) work out their insights slowly and car
 
 One more preference enters into the identification of type -- the choice between the perceptive attitude and the judging attitude as a way of life, a method of dealing with the world around us. Although people must of course use both perception and judgment, both cannot be used at the same moment. So people shift back and forth between the perceptive and judging attitudes, sometimes quite abruptly, as when a parent with a high tolerance for children’s noise suddenly decides that enough is enough.   
 類型的識別又是一種偏好-在感知態度和判斷態度之間進行選擇，作為一種生活方式，一種與周圍世界打交道的方法。儘管人們當然必須同時使用感知和判斷力，但不能同時使用兩者。因此，人們有時會突然在感知和判斷態度之間來回切換，就像父母對孩子的噪音容忍度很高時突然決定足夠就足夠了。(Google 翻)  
-
+構成個體人格類型的最後一個維度是生活方式，即在日常生活中，個體便偏好感知 (Perception) 還是更偏好判斷 (Judgment)。雖然在生活中，我們即需要感知也需要判斷，但這兩種心理過程是不能同時進行的。因此，我們總會在感知和判斷之間來回切換。而有時候，這種切換會顯得非常突然，比如，向來對孩子無比包容的父母可能會突然難以忍受孩子的哭鬧。  
+  
 There is a time to perceive and a time to judge, and many times when either attitude might be appropriate. Most people find one attitude more comfortable than the other, feel more at home in it, and use it as often as possible in dealing with the outer world. For example, some readers are still following this explanation with an open mind; they are, at least for the moment, using perception. Other readers have decided by now that they agree or disagree; they are using judgment.   
 有時間去感知和去判斷，而且很多時候哪種態度都合適。大多數人會發現一種態度比另一種更為舒適，在其中感覺更自在，並在與外界打交道時盡可能多地使用它。例如，一些讀者仍然以開放的心態來遵循這個解釋。至少目前，他們在使用感知。到目前為止，其他讀者已經決定同意還是不同意。他們正在運用判斷力。(Google 翻)  
-
+在生活中，我們有時需要用心感知，有時則需要冷靜判斷，而更多的時候兩種方式都是可行的。但大部份人都會更加偏好其中一種生活方式，他們會覺得這種方式更加舒服、自如，並且會盡可能多地採用它來處理各種事務。比如，閱讀至此，有些讀者還在專心吸收、理解書中所闡述的內容，那麼起碼在這個當下，他們在使用感知功能。而另外一些讀者則已經明確自己是否贊同書中的觀點，這時他們就在進行判斷。  
+  
 There is a fundamental opposition between the two attitudes. In order to come to a conclusion, people use the judging attitude and have to shut off perception for the time being. All the evidence is in, and anything more is irrelevant and immaterial. The time has come to arrive at a verdict. Conversely, in the perceptive attitude people shut off judgment. Not all the evidence is in; new developments will occur. It is much too soon to do anything irrevocable.   
 兩種態度之間存在根本的對立。為了得出結論，人們使用判斷態度，必須暫時關閉感知。所有的證據都在裡面，還有其他無關緊要的東西。作出判決的時候到了。相反，人們以敏銳的態度切斷判斷力。並不是所有的證據都在裡面。新的發展將會發生。做任何不可撤銷的事情為時過早。(Google 翻)  
-
-This preference makes the difference between the judging people, who order their lives, and the perceptive people, who just live them. Both attitudes have merit. Either can make a satisfying way of life, if a person can switch temporarily to the opposite attitude when it is really needed.  
+感知和判斷是兩種截然相反的態度。在做決策時，個體必須關閉自己的感知，才能全身心地進行判斷。此時，個體需要提取所有與決策相關的信息和證據，並忽略其他不相關的干擾因素，直到得出確切的結論。相反，在感知過程中，個體必須停止判斷，因為用於決策的信息尚未收集完畢，事態隨時可能發變化，在這期間，得出任何定論都為時尚早。  
+  
+This preference makes the difference between the judging people, who order their lives, and the perceptive people, who just live them. Both attitudes have merit. Either can make a satisfying way of life, if a person can switch temporarily to the opposite attitude when it is really needed.   
 這種偏愛使判斷自己的人（生活秩序的人）與富有洞察力的人（生活的人）有所不同。兩種態度都有優點。如果一個人在真正需要時可以暫時轉向相反的態度，那麼任何一種都可以使人滿意。(Google 翻)  
+不同的生活方式偏好會造就不同的優點，判斷型個體總是把自己的生活安排的井井有條，而感知型個體則喜歡隨遇而安。生活方式並無好壞之分。如果個體懂得在必要的時候及時切換自己慣常的生活方式，那麼無論是感知型還是判斷型，都能生活得順心如意。  
 
 
 ## Summary of the Four Preferences 四種偏好類型之總結 
