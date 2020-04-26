@@ -265,24 +265,31 @@ Some people dislike the idea of a dominant process and prefer to think of themse
 
 One process alone, however, is not enough. For people to be balanced, they need adequate (but by no means equal) development of a second process, not as a rival to the dominant process but as a welcome auxiliary. If the dominant process is a judging one, the auxiliary process will be perceptive: Either sensing or intuition can supply sound material for judgments. If the dominant process is perceptive, the auxiliary process will be a judging one: Either thinking or feeling can give continuity of aim.  
 但是，僅一個過程是不夠的。為了使人們保持平衡，他們需要充分（但絕不平等）發展第二個過程，而不是與主導過程競爭，而是作為一個受歡迎的輔助手段。如果主導過程是判斷過程，則輔助過程將是可感知的：感知或直覺都可以為判斷提供合理的素材。如果主導過程是感知性的，則輔助過程將是一個判斷：思維或感覺都可以賦予目標連續性。(Google 翻)    
+對於個體來說，僅靠一種心理功能是遠遠不夠的。為了維持生活的穩定運作，個體需要另外一種充分發展但相對較弱的心理功能作為輔助，其作用主要是積極配合主導心理功能的發揮。如果處於主導地位的心理功能屬於判斷維度，那麼起輔助作用的心理功能就應該屬於感知維度：無論感覺還是直覺，都可以為個體的判斷提供強而有力的信息支持。而如果是感知維度的某種心理功能主導著個體的生活，那麼判斷維度的心理功能就會處於輔助位置：無論思維還是情感，都可以為個體目標的實現提供源源不斷的動力補充。  
 
 If a person has no useful development of an auxiliary process, the absence is likely to be obvious. An extreme perceptive with no judgment is all sail and no rudder. An extreme judging type with no perception is all form and no content.   
 如果一個人沒有輔助過程的有益發展，那麼這種缺失很可能是顯而易見的。一個沒有判斷力的極端洞察力就是所有的帆和舵。沒有感知的極端判斷類型就是形式和內容。(Google 翻)    
+如果個體沒有及時確定並充分發展自己的輔助心理功能，其不良影響是顯而易見的。一個沒有判斷功能輔助的極端感知型個體，就好像一艘滿帆卻無舵的船，速度雖快卻毫無方向感。而一個沒有感知功能輔助的極端判斷型個體，則空有形式卻毫無內容，往往顯得蒼白空洞。  
 
 In addition to supplementing the dominant process in its main field of activity, the auxiliary has another responsibility. It carries the main burden of supplying adequate balance (but not equality) between extraversion and introversion, between the outer and inner worlds. For all types, the dominant process becomes deeply absorbed in the world that interests them most, and such absorption is fitting and proper. The world of their choice is not only more interesting, it is more important to them. It is where they can do their best work and function at their best level, and it lays claim to the almost undivided attention of their best process. If the dominant process becomes deeply involved in less important matters are left to the auxiliary process.  
 除了補充其主要活動領域中的主導過程外，輔助者還承擔另一項責任。它承擔著在外在世界與內在世界之間在內向與內向之間提供適當平衡（而不是平等）的主要負擔。對於所有類型，主導過程都已深深地吸引到了他們最感興趣的世界中，並且這種吸收是適當且適當的。他們選擇的世界不僅更有趣，而且對他們來說更重要。在這裡，他們可以盡其所能，盡力而為，盡其所能，這是他們最好的過程的關注點。如果主導過程深入參與了次要問題，則由輔助過程處理。(Google 翻)    
+除了在重要的生活事件上作為個體主導心理功能的補充，輔助心理功能還有另外一個職責：維持外傾與內傾、外部世界與內部世界之間的平衡。無論個體屬於哪種人格類型，他們都會把自己的主導心理功能更多地投入到自己更感興趣的事物上，而這些事物對於主導功能的吸引也是天經地義、理所當然的。對於個體來說，自己所選擇的人生道路不僅趣味非非凡，而且意義重大。只有在自己主動選擇的領域中，個體才有可能最大程度地發揮自己的潛力並獲得最大的成功，因此，個體必然要毫無保留地將自己最為擅長的心理功能投入其中。而如果個體在生活的次要方面投入過多，其主要人生目標的實現就會受到影響。因此，一般來說，生活中的次要事物都可以交由輔心理功能來處理。    
 
 For extraverts, the dominant process is concerned with the outer world of people and things, and the auxiliary process has to look after their inner lives, without which the extraverts would be extreme in the extraversion and, in the opinions of their better-balanced associates, superficial.   
 對於外向型人來說，支配性過程與人和物的外部世界有關，輔助過程必須照顧他們的內心生活，否則，外向型人在外向性方面將是極端的，並根據他們的平衡良好的員工的看法，膚淺。(Google 翻)    
+對於外傾型個體來說，他們的主導心理功能大多投注在外部世界的人和事上面，而輔助心理功能則負責打理內部世界。如果沒有輔助功能的配合，那麼，相似於發展更為平衡的同半而言，個體就會變得極端外傾和非常膚淺。  
 
 Introverts have less choice about participating in both worlds. The outer life is  thrust upon them whether they want one or not. Their dominant process is engrossed with the inner world of ideas, and the auxiliary process does what it can about their outer lives. In effect, the dominant process says to the auxiliary, “Go out there and tend to the things that can’t be avoided, and don’t ask me to work on them except when it’s absolutely necessary.”  
 內向的人對參與這兩個世界的選擇較少。無論他們是否想要，外來生活都強加於他們。他們的主導過程全神貫注於思想的內在世界，而輔助過程則盡其所能地對待他們的外在生活。實際上，支配過程對輔助人員說：“到那裡去做一些不可避免的事情，不要讓我去做，除非絕對必要。”(Google 翻)    
+內傾型個體則不得不同時面對內外兩個世界。無論他們是否願意，外部世界都會展現在他們面前。內傾個體把自己的主導心理功能用在了內部世界的各種想法上，輔助心理功能則負責應對外部世界的各種事務。事實上，主導功能會對輔助功能說："你去處理外面那些煩人的事情，不到萬不得已，不要來打擾我。"  
 
 Introverts are reluctant to use the dominant process on the outer world any more than necessary because of the predictable results. If the dominant process, which is the most adult and conscientious process, is used on outer things, it will involve the introverts in more extraversion than they can handle, and such involvement will cost them privacy and peace.  
 內向的人由於可預見的結果，不願意在外部世界使用主導性過程。如果在外部事物上使用占主導地位的過程，這是最成人和最認真的過程，它將使內向的人更多地無法獲得外向的外向性，而這種介入將使他們的隱私與和平陷入困境。(Google 翻)    
+由於外部世界中很多事情的結果都是顯而易見的，所以不到萬不得已，內傾型個體往 往不太情願動用自己的主導功能來處理外部事務。一但開始這麼做，他們就會在自己並無把握的外部世界中越陷越深，而這同時也會侵犯他們的內心的隱私和平靜。  
 
 The success of introverts’ contacts with the outer world depends on the effectiveness of their auxiliary. If their auxiliary process is not adequately developed, their outer lives will be very awkward, accidental, and uncomfortable. Thus there is a more obvious penalty upon introverts who fail to develop useful auxiliary than upon the extraverts with a like deficiency.   
-性格內向的人與外界接觸的成功取決於他們的輔助能力。如果他們的輔助過程沒有得到充分的發展，他們的外在生活將非常尷尬，偶然和不舒服。因此，對內向型人未能發展出有用的輔助，比對具有類似缺陷的外向型人有更明顯的懲罰。(Google 翻)    
+性格內向的人與外界接觸的成功取決於他們的輔助能力。如果他們的輔助過程沒有得到充分的發展，他們的外在生活將非常尷尬，偶然和不舒服。因此，對內向型人未能發展出有用的輔助，比對具有類似缺陷的外向型人有更明顯的懲罰。(Google 翻)   
+因此，要想處好外部世界的人和事，內傾型個體必須依靠輔助心理功能的幫助。如果處於輔助地位的心理功能發展不良，那麼，內傾型個體在面對外部世界時就會局促不安、狀況百出，並會深感不適。所以說，如果缺乏輔助心理功能，內傾型個體的生活就會面臨極其嚴酸的考驗。而同樣的問題如果發生在外傾型個體身上，則只不過是某種尚能忍受的缺 陷而已。     
 
 ## Difficulty of Seeing the Introverts' Dominant Process 辨識內傾者之主導心理功能的困難處 
 
