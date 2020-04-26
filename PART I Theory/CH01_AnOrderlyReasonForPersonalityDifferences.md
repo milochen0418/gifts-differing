@@ -325,17 +325,22 @@ A cardinal precaution in dealing with introverts, therefore, is not to assume, j
 
 ## Finding Which Process Is Dominant 找出哪一個心理功能是主導的 
 
-There are three ways of deducing the dominant process from the four letters of a person’s type. The dominant process must, of course, be either the preferred perceptive process (as shown by the second letter) or the preferred judging process (as shown by the third).  
-有三種方法可以從一個人類型的四個字母推斷出主導過程。當然，主導過程必須是首選的感知過程（如第二個字母所示）或首選的判斷過程（如第三個字母所示）。(Google 翻)  
+There are three ways of deducing the dominant process from the four letters of a person’s type. The dominant process must, of course, be either the preferred perceptive process (as shown by the second letter) or the preferred judging process (as shown by the third).    
+有三種方法可以從一個人類型的四個字母推斷出主導過程。當然，主導過程必須是首選的感知過程（如第二個字母所示）或首選的判斷過程（如第三個字母所示）。(Google 翻)    
+有三種方法可以幫助我們從人格類型的四個字母組合中辨別出個體的主導心理功能。首先，處於主導地位的心理功能必然屬於感知維度 (第二個字母) 或者判斷維度 (第三個字母)。    
 
-The JP preference can be used to determine the dominant process, but must be used differently with extraverts and introverts. JP reflects only the process used in dealing with the outside world. As explained earlier, the extravert’s dominant process prefers the outer world. Hence the extravert’s dominant process shows on the JP preference. If an extravert’s type ends in J, the dominant process is a judging one, either T or F. If the type ends in P, the dominant process is a perceptive one, either S or N.  
-JP偏好可用於確定主導過程，但必須與外向和內向不同地使用。 JP僅反映與外界打交道的過程。如前所述，外向型人的主導過程傾向於外部世界。因此，外向型人的主導過程顯示在JP偏好上。如果外向型的類型以J結尾，則主導過程是判斷T或F。如果外向型的類型以P結尾，則主導過程為S或N。(Google 翻)  
+The JP preference can be used to determine the dominant process, but must be used differently with extraverts and introverts. JP reflects only the process used in dealing with the outside world. As explained earlier, the extravert’s dominant process prefers the outer world. Hence the extravert’s dominant process shows on the JP preference. If an extravert’s type ends in J, the dominant process is a judging one, either T or F. If the type ends in P, the dominant process is a perceptive one, either S or N.    
+JP偏好可用於確定主導過程，但必須與外向和內向不同地使用。 JP僅反映與外界打交道的過程。如前所述，外向型人的主導過程傾向於外部世界。因此，外向型人的主導過程顯示在JP偏好上。如果外向型的類型以J結尾，則主導過程是判斷T或F。如果外向型的類型以P結尾，則主導過程為S或N。(Google 翻)    
+我們可以從個體的判斷和感知偏好 (JP) 中發現其主導心理功能，但是需要區別對待外傾型和內傾型個體。判斷和感知偏好 (JP) 僅反應了個體對應外部世界的方式。正如前文所講，外傾型個體會使用自己的主導心理功能來處理外部世界的事務，因此，我們可以直接通過他們的判斷和感知偏好 (JP) 進行辨識。如果一個外傾型個體的人格類型是以 "J" 結尾的，那麼他的生活方式就屬於判斷型，進而就可以推斷他的主導心理功能應該是思考 (T) 或情感 (F) 中的一種。同理，如果他的人格類型是以 "P" 結尾的，他的生活方式就是感知型，而他的主導心理功能必然屬於感知維度，不是感覺 (S) 就是直覺 (N)。    
 
-For introverts, the exact opposite is true. The introvert’s dominant process does not show on the JP preference, because introverts prefer not to use the dominant process in dealing with the outer world. The J or P in their type therefore reflects the auxiliary instead of the dominant process. If an introvert’s type ends in J, the dominant process is a perceptive one, S or N. If the type ends in P,  the dominant process is judging one, T or F.  
-對於性格內向的人，恰恰相反。內向型人的主導過程並未顯示在JP偏好上，因為內向型人傾向於在與外界打交道時不使用主導性過程。因此，其類型中的J或P反映了輔助過程而不是主導過程。如果一個內向型的人以J結尾，則主導過程是一個感知性的S或N。如果一個內向型的人以P結尾，則主導過程是對一個T或F的判斷。(Google 翻)  
+For introverts, the exact opposite is true. The introvert’s dominant process does not show on the JP preference, because introverts prefer not to use the dominant process in dealing with the outer world. The J or P in their type therefore reflects the auxiliary instead of the dominant process. If an introvert’s type ends in J, the dominant process is a perceptive one, S or N. If the type ends in P,  the dominant process is judging one, T or F.    
+對於性格內向的人，恰恰相反。內向型人的主導過程並未顯示在JP偏好上，因為內向型人傾向於在與外界打交道時不使用主導性過程。因此，其類型中的J或P反映了輔助過程而不是主導過程。如果一個內向型的人以J結尾，則主導過程是一個感知性的S或N。如果一個內向型的人以P結尾，則主導過程是對一個T或F的判斷。(Google 翻)    
+內傾型個體則恰恰相反，他們的主導心理功能並不會體現在判斷和感知偏好 (JP) 中，因為他們一般不會動用自己的主導心理功能來處理外部事物，相反，在外部世界拋頭露面的是他們的輔助心理功能。因此，如果一個內傾型個體的人格類型以 "J" 結尾，那麼，他的主導心理功能反而應該是來自感知維度的感覺 (S) 或直覺 (N)。如果其人格類型以 "P" 結尾，那麼，他的主導心理功能就應該是來自判斷維度的思考 (T) 或情感 (F)。    
 
-For ready reference, the underlined letters in Figure 1 indicate the dominant process for each of the sixteen types.  
-為便於參考，圖1中帶下劃線的字母表示16種類型中每種類型的主導過程。(Google 翻)  
+For ready reference, the underlined letters in Figure 1 indicate the dominant process for each of the sixteen types.    
+為便於參考，圖1中帶下劃線的字母表示16種類型中每種類型的主導過程。(Google 翻)    
+為了方便讀都直接查詢，我們在表 1-1 中列出了全部 16 種人格類型的主導心理功能 (劃線的字母)。    
+
 
 |  | ST | SF | NF | NT |
 | ------ | ------ | ------ | ------ | ------ |
