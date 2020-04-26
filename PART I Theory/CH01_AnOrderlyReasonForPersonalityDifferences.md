@@ -211,10 +211,11 @@ Under the theory presented here, personality is structured by four preferences c
 
 Under this theory, people create their “type” through exercise of their individual preferences regarding perception and judgment. The interests, values, needs, and habits of mind that naturally result from any set of preferences tend to produce a recognizable set of traits and potentialities.  
 在這種理論下，人們通過行使個人對感知和判斷的偏好來創造自己的“類型”。 任何一組偏好自然產生的興趣，價值，需求和思維習慣往往會產生一組可識別的特徵和潛力。(Google 翻)  
-
+根據該理論，個體在不斷運用自己偏好的感知和判斷方式的過程中逐漸形成了自己的人格類型。不同的偏好組合會使個體形成不同的興趣、價值觀、需求和心理習慣，並造就一系列可辨識的特質和潛能。  
 
 Individuals can, therefore, be described in part by stating their four preferences, such as ENTP. Such a person can be expected to be different from others in ways characteristic of his or her type. To describe people as ENTPs does not infringe on their right to self-determination: They have already exercised this right by preferring E and N and T and P. Identifying and remembering people’s types shows respect not ojnly for their abstract right to develop along lines of their own choosing, but also for the concrete ways in which they are and prefer to be different from others.   
-因此，可以通過陳述個人的四個偏好來部分描述個人，例如ENTP。 可以期望這樣的人在其類型特徵上與他人不同。 將人們描述為ENTP並不侵犯他們的自決權：他們已經通過偏愛E，N，T和P行使了這項權利。識別並記住人們的類型表明，他們不偏重於他們沿著路線發展的抽象權利。 他們自己的選擇，也取決於他們所處的具體方式，並且希望與他人有所不同。(Google 翻)  
+因此，可以通過陳述個人的四個偏好來部分描述個人，例如ENTP。 可以期望這樣的人在其類型特徵上與他人不同。 將人們描述為ENTP並不侵犯他們的自決權：他們已經通過偏愛E，N，T和P行使了這項權利。識別並記住人們的類型表明，他們不偏重於他們沿著路線發展的抽象權利。 他們自己的選擇，也取決於他們所處的具體方式，並且希望與他人有所不同。(Google 翻)   
+因此，在某種程度上，我們可以用人格的四種偏好組合來描述個體，比如，某個人是外傾直覺思維感知型 (ENFP)，那麼我們就會知道，他的人格特徵必然與其他類型的個體存在差異。當我們使用 ENTP 來描錄一個人時，我們並不會侵犯他在生活中的自主權。事實上，在形成 E、 N、 T、 P、 這四種主觀偏好時，個體就已經行使了這一個權利。了解並記住一個人的人格類型，不僅是對其人生決擇的尊重，也是對其個人偏好和獨特性的尊重。  
 
 ## The Role of the Dominat Process 主導的角色 - 主導心理功能
 
