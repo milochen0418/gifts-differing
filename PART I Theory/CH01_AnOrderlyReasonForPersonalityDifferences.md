@@ -184,7 +184,8 @@ This preference makes the difference between the judging people, who order their
 ## Summary of the Four Preferences 四種偏好類型之總結 
 
 Under the theory presented here, personality is structured by four preferences concerning the use of perception and judgment. Each of these preferences is a fork in the road of human development and determines which of two contrasting forms of excellence a person will pursue. How much excellence people actually achieve depends in part on their energy and their aspirations, but according to type theory, the kind of excellence toward which they are headed is determined by the inborn preferences that direct them at each fork in the road.  
-根據這裡介紹的理論，人格由關於感知和判斷使用的四個偏好構成。 這些偏好中的每一個都是人類發展道路上的一個分支，並決定一個人追求兩種不同的卓越形式。 人們實際上能取得多少成就，部分取決於他們的精力和志向，但是根據類型理論，他們所追求的卓越程度取決於先天的偏好，這些偏好將他們引導到道路上的每個分支。(Google 翻)
+根據這裡介紹的理論，人格由關於感知和判斷使用的四個偏好構成。 這些偏好中的每一個都是人類發展道路上的一個分支，並決定一個人追求兩種不同的卓越形式。 人們實際上能取得多少成就，部分取決於他們的精力和志向，但是根據類型理論，他們所追求的卓越程度取決於先天的偏好，這些偏好將他們引導到道路上的每個分支。(Google 翻)    
+基於本書闡述的理論，個體在進行感知和判斷時的四種偏好類型，共同構成了個體的人格。每一種偏好都像人生道路中的岔路口，個體需要在這些路口決定自己的發展方向。個體能在自己選擇的道路上取得多大的成就，取決於他的努力和志向，而根據人格類型理論，個體會選擇什麼樣的道路進行耕耘和發展，則取決於他們在各個人格維度上的偏好，這些天生的偏好決定了他們在人生路口的每一次選擇。      
 
 ------  
 
@@ -210,6 +211,7 @@ Under the theory presented here, personality is structured by four preferences c
 
 Under this theory, people create their “type” through exercise of their individual preferences regarding perception and judgment. The interests, values, needs, and habits of mind that naturally result from any set of preferences tend to produce a recognizable set of traits and potentialities.  
 在這種理論下，人們通過行使個人對感知和判斷的偏好來創造自己的“類型”。 任何一組偏好自然產生的興趣，價值，需求和思維習慣往往會產生一組可識別的特徵和潛力。(Google 翻)  
+
 
 Individuals can, therefore, be described in part by stating their four preferences, such as ENTP. Such a person can be expected to be different from others in ways characteristic of his or her type. To describe people as ENTPs does not infringe on their right to self-determination: They have already exercised this right by preferring E and N and T and P. Identifying and remembering people’s types shows respect not ojnly for their abstract right to develop along lines of their own choosing, but also for the concrete ways in which they are and prefer to be different from others.   
 因此，可以通過陳述個人的四個偏好來部分描述個人，例如ENTP。 可以期望這樣的人在其類型特徵上與他人不同。 將人們描述為ENTP並不侵犯他們的自決權：他們已經通過偏愛E，N，T和P行使了這項權利。識別並記住人們的類型表明，他們不偏重於他們沿著路線發展的抽象權利。 他們自己的選擇，也取決於他們所處的具體方式，並且希望與他人有所不同。(Google 翻)  
