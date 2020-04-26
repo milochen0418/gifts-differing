@@ -221,33 +221,44 @@ Individuals can, therefore, be described in part by stating their four preferenc
 
 It is easier to recognize a person’s preferred way of perception and way of judging than it is to tell which of the two is the dominant process. There is no doubt that a ship needs a captain with undisputed authority to set its course and bring it safely to the desired port. It would never make harbor if each person at the helm in turn aimed at a different destination and altered course accordingly.  
 識別一個人偏愛的感知方式和判斷方式要比分辨兩者中的哪一個是主導過程要容易得多。毫無疑問，船舶需要擁有無可爭議的權威的船長來設定航向並將其安全地帶到所需的港口。如果掌舵的每個人依次瞄準不同的目的地並相應地改變航向，那將永遠不會成為港口。(Google 翻)    
+我們很容易識別個體偏好的感知和判斷方式，卻很難確定哪種心理功能才是他的主導功能。毫無疑問，一艘船需要一個絕對權威的船長來發號施令，才能順利抵達預定的港口。如果船上的人都輪流掌舵，隨意更改目標並轉變航線，那麼這船永遠都不可能順利靠岸。  
 
 In the same way, people need some governing force in their makeup. They need to develop their best process to the point where it dominates and unifies their lives. In the natural course of events, each person does just that.  
 同樣，人們在妝容中需要一些統治力。他們需要發展自己的最佳流程，使其支配和統一他們的生活。在自然事件中，每個人都這樣做。(Google 翻)    
+同樣，個體在決策時也需要一種權威的力量作為主導。因此，個體需要不斷地訓練自己擅常的心理功能，使其強大到足以主導並統籌自己的生活。事實上，在事物發展的自然進程中，我們每個人都是這樣做的。  
 
 For example, those ENTs who find intuition more interesting than thinking will naturally give intuition the right of way and subordinate thinking to it. Their intuition acquires an unquestioned personal validity that no other process can approach. They will enjoy, use, and trust it most. Their lives will be so shaped as to give maximum freedom for the pursuit of intuitive goals. BEcause intuition is a perceptive process. These ENTs will deal with the world in the perceptive attitude, which makes them ENTPs.   
 例如，那些覺得直覺比思考有趣的耳鼻喉科醫師自然會賦予直覺以通行權和從屬思維的權利。他們的直覺獲得了毫無疑問的個人有效性，這是其他任何過程都無法接近的。他們將最喜歡，使用和信任它。他們的生活將被塑造，以便為追求直觀目標提供最大的自由。因為直覺是一個感知過程。這些ENT將以感知的態度與世界打交道，這使其成為ENTP。(Google 翻)    
+比如，對於某些外傾直覺思維型 (ENT) 個體來說，直覺要比思維有趣得多，因此，他們會將自己的直覺置於主導地位，而把思維作為輔助功能。他們的直覺享有不容置疑的絕對主導權，這是其他任何心理功能都不可及的。在生活中，他們會最大限度地享受、使用並信賴自己的直覺。又因為直覺屬於一種感知方式，所以 ENT 型個體的生活方式也是感知型的。由此，我們就可以進一步把以直覺為主導功能的 ENT 型個體稱為外傾直覺思維感知型 (ENTP)。    
 
 They will consult their judgment, their thinking, only when it does not conflict with their intuition. Even then, they will use it only to a degree, depending on how well developed it is. They may make fine use of thinking in pursuit of something they want because of their intuition, but ENTPs will not permit thinking to reject what they are pursuing.   
 只有在與自己的直覺不衝突時，他們才會徵求自己的判斷和思想。即使這樣，他們也只會在一定程度上使用它，這取決於它的開發程度。他們可能會因為直覺而善於利用思維去追求自己想要的東西，但是ENTP不允許思考拒絕他們追求的東西。(Google 翻)    
+對於 ENTP 型個體來說，只有在思維判斷的結果與自己的直覺不衝突時，他們才會去注意那些非主導的心理功能。即便如此，依據這些功能的發展情況，個體也只是在有限程度上去使用他們。在直覺的驅動下，他們會去追求某些目標，如果此時思維判斷有助於實現自己的目標，他們就能夠順利地使用自己的思維，但如果情況相反，他們是不會因為思考判斷的阻止而放棄自己直覺的目標的。  
 
 On the other hand, those ENTs who find thinking more attractive than intuition will tend to let their thinking take charge of their lives, with intuition in second place. Thinking will dictate the goals, and intuition will only be allowed to suggest suitable means of reaching them. Since the process they prefer is a judging one, these ENTs will deal with the world in the judging attitude; therefore they are ENTJs.   
 另一方面，那些覺得思維比直覺更具吸引力的耳鼻喉科將傾向於讓自己的思維掌控自己的生活，而直覺排在第二位。思維將決定目標，直覺將僅被允許提出實現目標的合適方法。由於他們喜歡的過程是一個判斷過程，因此這些ENT將以判斷態度與整個世界打交道。因此它們是ENTJ。(Google 翻)    
+與 ENTP 型個體相反，另外一些外傾直覺思考型 (ENT) 個體則認為思考比直覺更有用，他們傾向於用思考來主導自己的生活，而將直覺置於次要地位。他們會根據思考功能來制訂自己的目標。思考是一種判斷功能，因此這類以思考為主導功能的 ENT 型個體的生活方式就是判斷型的，他們可以被稱為外傾直覺思考判斷型 (ENTJ)  
 
 Similarly, some ESFs find more satisfaction in feeling than in sensing; they let their feeling take charge of their lives, with sensing in second place. Feeling is then supreme and unquestioned. In any conflict with the other processes, feeling dominates. The lives of these ESFs will be shaped to serve their feeling values. Because of the preference for feeling, a judging process, they will deal with the world in the judging attitude. They are ESFJ.  
 同樣，一些ESF在感覺上比在感覺上更滿意。他們讓自己的感覺掌控自己的生活，而感知則排在第二位。感覺是至高無上的。在與其他過程的任何衝突中，感覺占主導地位。這些ESF的生活將被塑造以服務於他們的情感價值。由於對感覺的偏好和判斷過程，他們將以判斷態度與世界打交道。他們是ESFJ。(Google 翻)    
+同樣，有些外傾感覺情感型 (ESF) 的個體會覺得情感比感覺更好用，在生活中，他們會把情感作為主導功能，而感覺只發揮次要作用。他們的情感也就由此獲得了絕對優勢，絲毫不容置疑。如果其他的心理功能與情感產生衝突，結果必然是情感獲勝。在情感的主導下，ESF 型個體會按照情感的價值取向來塑造自己的人生。而因為情感屬於判斷功能，他們的生活風格便屬於判斷型。因此，重視情感的 ESF 型個體可以被稱為外傾感覺情感判斷型 (ESFJ)。  
 
 ESFJs will pay real attention to their perception, their sensing, only when it is in accord with their feeling. Even then, they will respect it only to a degree, depending on how well they have developed it. They will not acknowledge doubts raised by the senses concerning something valued by their feeling.  
 ESFJ只會在符合他們的感覺時才真正關注他們的感知和感知。即使這樣，他們也只會在一定程度上尊重它，具體取決於他們的開發程度。他們不會承認感官對他們的感覺所重視的事物提出的疑問。(Google 翻)    
+只有在其他心理功能與自己的情感判斷一致時，ESFJ 型才會去注意自己的感覺和感知。而他們能在多大程度上認可這些非主導的心理功能，則取決於這些功能的發展情況。如果感覺感知的結果有背於自己的情感取向，他們是不會接受的。  
 
 However, other ESFs find sensing more rewarding than feeling and will tend to put sensing first and feeling in second place. Their lives will be shaped to serve their sensing -- to provide a stream of experiences that provide something interesting to see, hear, taste, or handle. Feeling will be allowed to contribute but not to interfere. Because sensing, a perceptive process, is preferred, these ESFs will deal with the world in the perceptive attitude, and therefore they are ESFPs.  
 但是，其他ESF則發現感覺比感覺更有意義，並且傾向於將感覺放在第一位，將感覺放在第二位。他們的生活將被塑造以服務於他們的感知-提供一系列的體驗，這些體驗提供一些有趣的事物，以供觀看，聆聽，品嚐或操作。感覺會有所貢獻，但不能干預。由於感知是一個感知過程，因此這些ESF將以感知態度與世界打交道，因此它們是ESFP。(Google 翻)    
+與此相反，還有一些外傾感覺情感型 (ESF) 個體認為感覺比情感更加重要，他們更垂視自己的感覺而輕視情感。因此，他們生活是感知取向的，對於他們來說，生活的樂趣在於不斷地體驗，體驗各種好看的、好聽的、好吃的或者好用的東西。情感可以在適宜的時候發揮輔助作用，但絕對不能干擾感覺的主導。因為感覺是一種感知功能，這些感覺至上的 ESF 型個體的生活方式也就是感知型的，因此，他們可以被稱為外傾感覺情感感知型 (ESFP)。    
+
 
 This phenomenon, of the dominant process overshadowing the other processes and shaping the personality accordingly, was empirically noted by Jung in the course of his work and became, along with the extraversion-introversion preference, the basis of his Psychological Types.  
 榮格在工作過程中憑經驗指出了這一現象，即占主導地位的過程蓋過了其他過程並相應地塑造了人格，並與外向內向型偏好一起成為他的心理類型的基礎。(Google 翻)    
+榮格在自己的臨床工作中注意到了這一個現象，即在所有的心理功能中，總有一種心理功能處於主導地位並塑造著人們的生活。他把這一發現與自己早先提出的外傾-內傾偏好結合在一起，構成了他的著作「心理類型」的基礎。  
 
 Some people dislike the idea of a dominant process and prefer to think of themselves as using all four processes equally. However, Jung holds that such impartiality, where it actually exists, keeps all of the processes relatively undeveloped and produces a “primitive mentality,” because opposite ways of doing the same thing interfere with each other if neither has priority. If one perceptive process is to reach a high degree of development, it needs undivided attention much of the time, which means that the other must be shut off frequently and will be less developed. If one judging process is to become highly developed, it must similarly have the right of way. One perceptive process and one judging process can develop side by side, provided one is used in the service of the other. But one process -- sensing, intuition, thinking, or feeling -- must have clear sovereignty, with opportunity to reach its full development, if a person is to be really effective.  
 有些人不喜歡主導性過程的想法，而寧願認為自己平等地使用了所有四個過程。但是，榮格認為，這種公正性（實際上存在）使所有過程相對不發達，並產生了一種“原始心態”，因為如果沒有一個人優先考慮，做相同事情的相反方法會互相干擾。如果一個感知過程要達到較高的發展水平，那麼它在很多時候都需要全神貫注，這意味著必須經常關閉另一個感知過程，否則它就不會發展。如果一個審判程序要高度發展，它同樣必須具有通行權。一個感知過程和一個判斷過程可以並排發展，只要其中一個用於另一個。但是，如果一個人要真正變得有效，一個過程-感知，直覺，思考或感覺-必須擁有明確的主權，並有機會實現其全面發展。(Google 翻)    
+當然，也有人並不接受這種觀點，他們認為自己對所有心理功能的使用是均等的，並不存在所謂的主導功能。榮格指出，這種現象確實存在，但對於各種心理功能的均等使用同時也阻礙了這些功能的發展和分化，進而導致個體處於一種原始心理狀態。在處理信息或事務時，如果沒有任何心理功能作為主導，那麼兩種相反的心理功能就會同時運作，並彼此干擾。如果其中一種感知功能想要得到更好的發展，那麼個體就需要在這一功能上投注更多的精力，這就意味著另外一種感知功能必須經常關閉，如此一來，其發展自然會逐漸落後。而如果其中一種判斷功能想要發展得更好，與之對立的另外一種判斷功能也需要做出同樣的犧牲。一種感知維度的心理功能和一種判斷維度的心理功能可以同時發展，兩者可以相互補充。但要想保證個體的生活效率，感覺、直覺、思考和情感這四種心理功能，就必須分出主要與次要，進而確保處於主導地位的心理功能得到最為充份的發展。  
 
 
 ## The Role of the Auxiliary Process 輔佐的角色 - 輔助心理功能
