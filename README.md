@@ -22,7 +22,7 @@ Because the project can help more Chinese to understnad the book Gifts Differing
 ### Chapter 2 [Extensions of Jung's Theory](https://github.com/milochen0418/gifts-differing/blob/master/PART%20I%20Theory/CH02_ExtensionsOfJungsTheory.md) 榮格理論的延伸
 
 ## [Part II Effects of the Preferences on Personality 人格維度與人格類型](https://github.com/milochen0418/gifts-differing/tree/master/PART%20II%20Effects%20of%20the%20Preferences%20on%20Personality/README.md)
-### Chapter 3 Type Tables for Comparison and Discovery 人格類型表
+### Chapter 3 [Type Tables for Comparison and Discovery](https://github.com/milochen0418/gifts-differing/blob/master/PART%20II%20Effects%20of%20the%20Preferences%20on%20Personality/CH03_TypeTableForComparisonAndDiscovery.md) 人格類型表
 ### Chapter 4 Effect of the EI  Preference 外傾與內傾
 ### Chapter 5 Effect of the SN Preference 感覺與直覺
 ### Chapter 6 Effect of the TF Preference 思考與情感

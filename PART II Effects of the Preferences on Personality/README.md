@@ -1,6 +1,6 @@
 # Part II Effects of the Preferences on Personality 人格維度與人格類型
 ## Chapter 3 
-### Type Tables for Comparison and Discovery 人格類型表
+### [Type Tables for Comparison and Discovery](https://github.com/milochen0418/gifts-differing/blob/master/PART%20II%20Effects%20of%20the%20Preferences%20on%20Personality/CH03_TypeTableForComparisonAndDiscovery.md) 人格類型表
 ## Chapter 4 
 ### Effect of the EI  Preference 外傾與內傾
 ## Chapter 5 
