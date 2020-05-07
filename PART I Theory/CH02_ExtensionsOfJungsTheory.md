@@ -44,13 +44,15 @@ The first requisite for balance is development of the auxiliary process in suppo
 經驗表明，次要功能始終是一種性質，儘管它並不不同於主導功能：例如，思維作為主要功能可以很容易地與直覺作為輔助功能相結合，或者實際上與感覺一樣好， 但是……從來沒有感覺。(1923，第515頁)(Google 翻譯)  
 經驗證明，次要功能與主導功能雖然並不對立，但兩者卻有著本質的區別。比如，以 "思維" 為主導心理功能的個體，可以另外發展 "直覺" 或 "感覺" 作為自己的輔助心理功能，但卻不能與同屬於判斷維度的 "情感" 進行組合。(第1翻)  
 
-### Results of the Combinations of Perception and Judgment  
+### Results of the Combinations of Perception and Judgment 感知與判斷組合的結果  
 
 The characteristics that result from these combinations, as outlined in Chapter 1, provide perhaps the most easily recognized aspect of type. All Jung writes about them is the following:  
 如第1章所述，由這些組合產生的特徵可能提供了最容易識別的類型。榮格所寫的全部內容如下：(Google 翻譯)  
+在本書第一章，我們對感知與判斷的不同組合形成的不同人格特徵進行了說明，同時也指出了每種人格類型最具辨識性的特徵。而榮格對此的全部描述僅為以下這段話：(第1翻)  
 
 > From these combinations well-known pictures arise, the practical intellect for instance paired with sensation, the speculative intellect breaking through with intuition, the artistic intuition which selects and presents its images by means of feeling judgment, the philosophical intuition which, in league with a vigorous intellect, translates its vision into the sphere of comprehensible thought, and so forth. (1923, p. 515)   
 從這些組合中出現了一些著名的圖片，例如實用的智力與感覺相結合，投機性智力憑直覺而突破，藝術直覺通過感覺判斷來選擇並呈現其圖像，哲學直覺與 強大的智力，將其視野轉化為可理解的思想領域，依此類推。 （1923，第515頁）(Google 翻譯)  
+當感覺與判斷進行不同的組合後，截然不同的人格特點便清楚地呈現在我們眼前。實踐能力強的個體往往是感覺型的，而卓越的推理能力則與強大的直覺密不可分。其中，藝術性直覺能夠通過情感判斷來選擇並展現出各種圖畫意象，而哲理性直覺在理想思維的協助下，能夠將個體的所見所感通過哲學思辨轉換成有意義的思想。(第1翻)    
 
 ### Role of the Auxiliary in Balancing Extraversion-Introversion  
 
