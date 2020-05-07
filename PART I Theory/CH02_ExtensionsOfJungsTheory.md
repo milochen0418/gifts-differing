@@ -92,12 +92,14 @@ Good type development thus demands that the auxiliary supplement the dominant pr
 因此，良好的類型開發要求輔助在兩個方面補充主導過程。 它不僅在感知和判斷之間，而且在外向和內向之間都必須提供有用的平衡。 如果無法做到這一點，就會使個人從字面上“失衡”，退回到首選的世界，有意識或無意識地害怕另一個世界。 確實發生了這種情況，並且似乎支持了Jungian分析師的普遍假設，即統治者和輔助者自然都外向或內向。 但是這種情況不是常態：它們是輔助工具使用和開發不足的實例。 為了在兩個世界中幸福而有效地生活，人們需要一種平衡的輔助工具，這將使人們有可能在兩個方向上適應周圍的世界及其內在自我。(Google 翻譯)  
 因此，銀好的人格發展需要輔助心理功能在兩個方面對主導心理功能進行配合。輔助心理功能不僅要協調感知與判斷之間的平衡，還要維持外傾與內傾之間的平衡。若非如此，個體就會陷入人格 "失衡" 狀態，退縮到自己偏好的世界裡面，並有意無意地對另外一個世界產生恐懼。這類例子的確存在，而且似乎也確實能夠證實在眾多榮格研究者中廣為流傳的理論假設，即主導心理功能和輔助心理功能在外傾和內傾性上是天然一致的，兩種心理功能要麻都用於外部世界，要麼都用於內部世界。但這類例子並沒有普適性，它們其實都是輔助心理功能發展或使用不充分的表現。要想幸福、高效地生活，個體就要輔助心理功能來發揮平衡作用，進而順利地適應日常生活構 成的外部世界和自己的內部世界。(第1翻)  
 
-## The Resulting Sixteen Types  
+## The Resulting Sixteen Types 以下為十六型人格之結果  
 
 When the auxiliary process is taken into consideration, it splits each of Jung’s types into two. Instead of merely the introverted thinker, there are the introverted thinker with sensing and the introverted thinker with intuition. Thus there are sixteen types in place of Jung’s eight. Sixteen would be an unwieldy number to keep in mind if the types were arbitrary, unrelated categories, but each is the logical result of its own preferences and is closely related to other types that share some of those preferences. (The relationships can be visualized logically and easily through familiarity with the Type Table in Chapter 3, Figure 2.)  
 考慮到輔助處理後，它會將榮格 (Jung) 的每種類型都分為兩種。 不僅僅是內向的思想家，還有內向的思想家和內向的思想家。 因此，有16種類型可以代替榮格的8種類型。 如果類型是任意的，不相關的類別，則要牢記十六個數字，但是每個類型都是其自身偏好的邏輯結果，並且與共享某些此類偏好的其他類型緊密相關。 （通過熟悉圖2第3章中的類型表，可以在邏輯上輕鬆地可視化這些關係。）(Google 翻譯)  
+如果將輔助心理功能納人人格類型理論中，那麼榮格所提出的每一種人格類型都可進一步分為兩類。例如，內傾思考型又可以分為內傾感覺思考型和內傾直覺思考型。這樣一來，榮格最初所提出的八種人格類型就可以擴展到 16 種。如果這 16 種人格類型的數量是隨機設定的，而且不同人格類型之間也沒有任何關聯，那麼人們是很難記住的。但是，這其中的每一種類型都是由不同維度的偏好根據一定的邏輯組合而來的，而且具有相同維度偏好的人格類型具有高度的相關性。(第三章的表 3-1 中，讀者可以清楚地看到這 16 種人格類型之間的邏輯關係。)(第1翻)   
 
 To attempt to determine a person’s type by observation, it is unnecessary to consider all sixteen possibilities at once. Any preference that seems reasonably certain will reduce the possibilities by half. For example, any introvert belongs to one of the eight introvert types. An intuitive introvert belongs to one of the four IN types. If such a person prefers thinking to feeling, the type is refined further to INT. The final step, identification of the dominant process, will depend on the JP preference.為了試圖通過觀察來確定一個人的類型，沒有必要一次考慮所有十六種可能性。 似乎合理確定的任何偏好都會將可能性降低一半。 例如，任何內向的人都屬於八種內向的人之一。 直觀的性格內向屬於四種IN類型之一。 如果這樣的人喜歡思考而不是感覺，則將類型進一步改進為INT。 最後一步，即確定主導過程，將取決於JP偏好。(Google 翻譯)  
+在觀察、識別某個人的人格型時，我們不必同時考慮所有的可能。只要能確定個體在其中任何一維度的偏好，我們就可以將其可能向的人格類型數量縮減一半。例如，如果已經確定了對方是內傾型 (I), 那麼他的人格類型必然屬於 8 種內傾型人格中的一種。如果進一步確定了對方是內傾直覺型 (IN)，那麼，他的人格類型就會進一步壓縮到 4 種內傾直覺型 (IN) 中的一種。而如果我們還發現對方在進行判斷時更偏好思考功能而不是情感功能，那麼就可以確定他的人格類型是內傾直覺思考型 (INT) 的。剩下最後一步便是確定對方的主導心理功能，這就取決於他在判斷感知維度 (JP) 上的偏好了。(第1翻)  
 
 ## The Role of the Judgment-Perception Preference  
 
