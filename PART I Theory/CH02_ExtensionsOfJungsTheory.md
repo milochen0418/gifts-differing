@@ -54,34 +54,43 @@ The characteristics that result from these combinations, as outlined in Chapter 
 從這些組合中出現了一些著名的圖片，例如實用的智力與感覺相結合，投機性智力憑直覺而突破，藝術直覺通過感覺判斷來選擇並呈現其圖像，哲學直覺與 強大的智力，將其視野轉化為可理解的思想領域，依此類推。 （1923，第515頁）(Google 翻譯)  
 當感覺與判斷進行不同的組合後，截然不同的人格特點便清楚地呈現在我們眼前。實踐能力強的個體往往是感覺型的，而卓越的推理能力則與強大的直覺密不可分。其中，藝術性直覺能夠通過情感判斷來選擇並展現出各種圖畫意象，而哲理性直覺在理想思維的協助下，能夠將個體的所見所感通過哲學思辨轉換成有意義的思想。(第1翻)    
 
-### Role of the Auxiliary in Balancing Extraversion-Introversion  
+### Role of the Auxiliary in Balancing Extraversion-Introversion 輔助心理功能對 "外傾-內傾" 的平衡作用  
 
 The basic principle that the auxiliary provides needed extraversion for the introverts and needed introversion for the extraverts is vitally important. The extraverts’ auxiliary gives them access to their own inner life and to the world of ideas; the introverts’ auxiliary gives them a means to adapt to the world of action and to deal with it effectively.  
 輔助功能為內向的人提供所需的內向性，為外向的人提供所需的內向性的基本原理至關重要。 外向者的輔助使他們能夠進入自己的內心生活和思想世界； 性格內向的人為他們提供了一種適應動作世界並有效應對的手段。(Google 翻譯)  
+輔助心理功能可以為內傾型個體提供必要的外傾性，也能為外傾型個體提供必要的內傾性，這一點是非常重要的。有了輔助心理功能的幫助，外傾型個體才能感受到自己的內心並行深入的思考，而內傾型個體也才能適應外部世界並有效地應對現實生活中的各種人事。(第1翻)  
 
 Jung’s only allusions to this fact are cryptically brief. As a result, almost all his followers except van der Hoop seem to miss the principle involved. They assume that the two most developed processes are used in the favorite sphere (both extraverted or both introverted) and that the other sphere is left to the mercy of the two inferior processes. Jung writes:  
 榮格（Jung）對這個事實的唯一暗示只是隱含的簡短。 結果，除了范德霍普（van der Hoop）以外，幾乎他的所有追隨者似乎都懷念所涉及的原則。 他們假定在最喜歡的領域中使用了兩個最發達的過程（既是外向的還是內向的），而另一個領域則由兩個劣等的過程所左右。 榮格寫道：(Google 翻譯)  
+但對於這一點，榮格只是用非常隱晦的語言進行了極其簡短的描述。因此，除了范．德．霍普 (van der Hoop)，幾乎所有榮格的追隨者都忽略了這一點。他們以為個體用自己發展最好的兩種功能來處理自己偏好的領域中的問題 (都用在外部世界或都用在內部世界)，而另外兩種發展不良的心理功能則被個體用來應付自己不擅長的領域中的問題。榮格這樣寫道：(第1翻)  
 
 > For all the types appearing in practice, the principle holds good that besides the conscious main function there is also a relatively unconscious, auxiliary function which is in every respect different from the nature of the main function. (1923, p. 515)   
 > 對於實踐中出現的所有類型，該原理都適用，即除了有意識的主要功能外，還有一種相對無意識的輔助功能，在各個方面都與主要功能的性質不同。 （1923，第515頁）(Google 翻譯)  
+> 對於現實生活中不同人格類型的個體來說，除了意識層面的主導心理功能，他們還有一種處於無意識層面的輔助心理功能，這一輔助心理功能的性質在各方面都與主導心理功能不同。(第1翻)  
 
 The operative words are “in every respect.” If the auxiliary process differs from the dominant process in every respect, it cannot be introverted where the dominant process is introverted. It has to be extraverted if the dominant process is introverted, and introverted if the dominant process is extraverted. This interpretation is confirmed by Jung in two other sentences, the first about the introvert thinker, the second about the extravert.   
 操作性用語是“在各個方面”。 如果輔助過程在各個方面都不同於主導過程，那麼在主導過程內向的地方就無法內向。 如果主導過程是內向的，則必須外向，如果主導過程是內向的，則必須內向。 榮格在另外兩句話中也證實了這一解釋，第一句話是關於內向的思想家，第二句話是關於內向的思想家。(Google 翻譯)  
+這段話的關鍵詞是 "各方面"。如果助心理功能在各方都不同於主導心理功能，那麼，如果主導心理功能作用於內部世界，輔助心理功能就不可能也作用於內部世界。如果主導心理功能是對內的，那麼輔助心理功能必然需要對外；如果主導心理功能是對外的，那麼輔助心理功能就應該是對內的。這一觀點也從榮格書中的兩句話上得到了印證，第一句是關於內傾思考型的，第二句則是關於外傾型的。(第1翻)  
 
 > The relatively unconscious functions of feeling, intuition and sensation, which counterbalance introverted thinking, are inferior in quality and have a primitive, extraverted character. (1923, p. 489)  
-> 情感，直覺和感覺的相對無意識的功能抵消了內向的思維，質量較差，具有原始的外向性格。 （1923，第489頁）(Google 翻譯)  
+> 情感，直覺和感覺的相對無意識的功能抵消了內向的思維，質量較差，具有原始的外向性格。 (1923，第489頁)(Google 翻譯)  
+> 相對而言，處於無意識層面的情感、直覺和感覺，平衡了內傾思考型個體的人格，它們的發展水平相對較低，具有原始、外傾的特質。(1923，第489頁)(第1翻)  
 >  
 > When the mechanism of extraversion predominates… the most highly differentiated function has a constantly extraverted application, where the inferior functions are found in the service of introversion. (1923, p. 426)    
-> 當外向性機制占主導地位時...高度差異化的功能會不斷外向化應用，其中內向性服務中會發現劣等功能。 （1923，第426頁）(Google 翻譯)  
+> 當外向性機制占主導地位時...高度差異化的功能會不斷外向化應用，其中內向性服務中會發現劣等功能。(1923，第426頁)(Google 翻譯)  
+> 當外傾特質佔據了個體人格的主導地位…個體就會不斷地將其最具辨識度且高度發展的心理功能投注在外部世界，而那些發展相對較差的心理功能則被用在內部世界。(1923，第426頁)(第1翻)  
 
 The conclusion that the auxiliary process takes care of the extraversion of the introvert and the introversion of the extravert is confirmed by observation. In any well-balanced introvert, the observer can see that the extraverting is carried on by the auxiliary process. For example, ISTJ people (introverted sensing types preferring thinking to feeling as auxiliary) normally run their outer life with their second-best process, thinking, so it is conducted with impersonal system and order. They do not leave it to their third-best process, feeling, as they would have to do if both their sensing and their thinking were introverted. Similarly, INFP people (introverted feeling types preferring intuition to sensing as auxiliary) normally run their outer life with their second-best process, their intuition, so their outer life is characterized by spurts and projects and enthusiasm. They do not leave it to their third-best process, sensing, as they would have to do if both their feeling and their intuition were introverted.  
 觀察證實了輔助過程照顧內向性和外向性的結論。在任何平衡良好的性格內向的人中，觀察者都可以看到，這種性交是由輔助過程進行的。例如，ISTJ人（性格內向的人傾向於以思考而不是感覺為輔助）通常通過其次優的思維過程來維持自己的外在生活，因此，它是以非人格的系統和秩序進行的。他們不會將其置於最佳狀態，即感覺，而不是內向和內向。同樣，INFP人（內向的感覺類型更傾向於直覺而不是感覺作為輔助）通常以其第二好的過程，直覺來維持他們的外在生活，因此他們的外在生活具有突兀，突兀和熱情的特點。他們不會將其留給他們最好的第三過程，即感覺，如果他們的感覺和直覺都內向的話，他們將不得不做。(Google 翻譯)  
+輔助心理功能負責幫助內傾型個體應對外部世界，幫助外傾型個體打理內部世界，這一結論也得到了日常觀察的證實。通過觀察一個具有和諧人格的內傾型個體，我們就會現他對外的表現是由輔助心理功能負責的。例如，ISTJ 型個體(內傾感覺型，偏好以思考作為輔助心理功能，而非感覺) 通常使用思考這一發展水平稍次的輔助心理功能來處理外部世界的事務，並因此表現出客觀有序的處事風格。只有在發展最好的感覺功能和稍次的思考功能都忙於打理內部世界時，ISTJ 型個體才會啟用排在第三的情感功能來應對外部世界。同樣，INFP 型個體(內傾情感型，偏好以直覺功能作為輔助心理功能，而非情感) 一般使用發展水平排在第二的直覺功能來處理外部世界的事務，並對外表現出衝動、投射和熱情的特點。只有在萬不得已的情況下，他才會使用發展水平排在第三的感覺功能來應對外部世界。(第1翻)  
 
 A more subtle kind of evidence lies in the “extraverted character” of the introvert’s auxiliary process. For example, in a well-balanced ISTJ the observable auxiliary process, thinking, can be seen to resemble the thinking of the extraverted thinker more than that of the introverted thinker. This point can be tested with any introvert by comparing the auxiliary process with Chapter 8. Figures 28-31, where the differences between extraverted and introverted thinking, extraverted and introverted feeling, etc., are shown.  
 內向輔助過程的“外向性格”則是更微妙的證據。 例如，在一個平衡良好的ISTJ中，可以觀察到的輔助過程思維被認為更像是外向型思想家的思想，而不是內向型思想家的思想。 通過將輔助過程與第8章進行比較，可以用任何內向的觀點測試這一點。圖28-31顯示了內向和內向思維，內向和內向感覺等之間的差異。(Google 翻譯)  
+更微妙的是，內傾型個體的輔助心理功能會表現出 "外傾特點"。例如，面對一個擁有和諧人的 ISTJ 型個體，我們能夠直接觀察到他的輔助心理功能 -- 思考功能，並且這種思考與外傾思考型更為相似，而非內傾思考型。對於任何內傾型個體來說，他們的輔助心理功能都帶有這樣的 "外傾特點"。在本書第八章的表 8-1 至表 8-4 中，我們詳細地對比了外傾思考型與內傾思考型、外傾情感型與內傾情感型等類型之間的區別，大家可以參照表格對這一點進行驗證。(第1翻)  
 
 Good type development thus demands that the auxiliary supplement the dominant process in two respects. It must supply a useful degree of balance not only between perception and judgment but also between extraversion and introversion. When it fails to do so it leaves the individual literally “unbalanced,” retreating into the preferred world and consciously or unconsciously afraid of the other world. Such cases do occur and may seem to support the widespread assumption among Jungian analysts that the dominant and auxiliary are naturally both extraverted or both introverted; but such cases are not the norm: They are instances of insufficient use and development of the auxiliary. To live happily and effectively in both worlds, people need a balancing auxiliary that will make it possible to adapt in both directions -- to the world around them and to their inner selves.  
 因此，良好的類型開發要求輔助在兩個方面補充主導過程。 它不僅在感知和判斷之間，而且在外向和內向之間都必須提供有用的平衡。 如果無法做到這一點，就會使個人從字面上“失衡”，退回到首選的世界，有意識或無意識地害怕另一個世界。 確實發生了這種情況，並且似乎支持了Jungian分析師的普遍假設，即統治者和輔助者自然都外向或內向。 但是這種情況不是常態：它們是輔助工具使用和開發不足的實例。 為了在兩個世界中幸福而有效地生活，人們需要一種平衡的輔助工具，這將使人們有可能在兩個方向上適應周圍的世界及其內在自我。(Google 翻譯)  
+因此，銀好的人格發展需要輔助心理功能在兩個方面對主導心理功能進行配合。輔助心理功能不僅要協調感知與判斷之間的平衡，還要維持外傾與內傾之間的平衡。若非如此，個體就會陷入人格 "失衡" 狀態，退縮到自己偏好的世界裡面，並有意無意地對另外一個世界產生恐懼。這類例子的確存在，而且似乎也確實能夠證實在眾多榮格研究者中廣為流傳的理論假設，即主導心理功能和輔助心理功能在外傾和內傾性上是天然一致的，兩種心理功能要麻都用於外部世界，要麼都用於內部世界。但這類例子並沒有普適性，它們其實都是輔助心理功能發展或使用不充分的表現。要想幸福、高效地生活，個體就要輔助心理功能來發揮平衡作用，進而順利地適應日常生活構 成的外部世界和自己的內部世界。(第1翻)  
 
 ## The Resulting Sixteen Types  
 
