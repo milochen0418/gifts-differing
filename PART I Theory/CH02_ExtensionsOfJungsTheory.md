@@ -23,9 +23,10 @@ Few of Jung’s readers appear to have realized that his type concepts had a bea
 ## Overlooked Implications of Jung’s Theory 眺望榮格理論之蘊含  
 
 To be useful, a personality theory must portray and explain people as they are. Jung’s theory must, therefore, be extended to include the following three essentials.  
-要發揮作用，人格理論必須刻畫並解釋人們的現狀。 因此，榮格的理論必須延伸到包括以下三個要點。(Google 翻譯)  
+要發揮作用，人格理論必須刻畫並解釋人們的現狀。 因此，榮格的理論必須延伸到包括以下三個要點。(Google 翻譯)    
+一套實用的人格理論必須能夠精準地描述並解釋個體的真實狀態。因此，榮格的理論必須在以下三點內容上進行擴展。(第1翻)  
 
-## Constant Presence of the Auxiliary Process 
+### Constant Presence of the Auxiliary Process 
 
 The first requisite for balance is development of the auxiliary process in support of the dominant process. Jung does not mention the auxiliary process in Psychological Types until page 513, after all his descriptions of the types.  
 平衡的首要條件是發展輔助過程以支持主導過程。 在對所有類型進行描述之後，榮格直到513頁都沒有在“心理類型”中提及輔助過程。(Google 翻譯)  
@@ -37,7 +38,7 @@ The first requisite for balance is development of the auxiliary process in suppo
 - Experience shows that the secondary function is always one whose nature is different from, though not antagonistic to, the leading function: Thus, for example, thinking, as primary function, can readily pair with intuition as auxiliary, or indeed equally well with sensation, but … never with feeling. (1923, p. 515)  
 經驗表明，次要功能始終是一種性質，儘管它並不不同於主導功能：例如，思維作為主要功能可以很容易地與直覺作為輔助功能相結合，或者實際上與感覺一樣好， 但是……從來沒有感覺。 （1923，第515頁）(Google 翻譯)  
 
-## Results of the Combinations of Perception and Judgment  
+### Results of the Combinations of Perception and Judgment  
 
 The characteristics that result from these combinations, as outlined in Chapter 1, provide perhaps the most easily recognized aspect of type. All Jung writes about them is the following:  
 如第1章所述，由這些組合產生的特徵可能提供了最容易識別的類型。榮格所寫的全部內容如下：(Google 翻譯)  
@@ -45,7 +46,7 @@ The characteristics that result from these combinations, as outlined in Chapter 
 > From these combinations well-known pictures arise, the practical intellect for instance paired with sensation, the speculative intellect breaking through with intuition, the artistic intuition which selects and presents its images by means of feeling judgment, the philosophical intuition which, in league with a vigorous intellect, translates its vision into the sphere of comprehensible thought, and so forth. (1923, p. 515)   
 從這些組合中出現了一些著名的圖片，例如實用的智力與感覺相結合，投機性智力憑直覺而突破，藝術直覺通過感覺判斷來選擇並呈現其圖像，哲學直覺與 強大的智力，將其視野轉化為可理解的思想領域，依此類推。 （1923，第515頁）(Google 翻譯)  
 
-## Role of the Auxiliary in Balancing Extraversion-Introversion  
+### Role of the Auxiliary in Balancing Extraversion-Introversion  
 
 The basic principle that the auxiliary provides needed extraversion for the introverts and needed introversion for the extraverts is vitally important. The extraverts’ auxiliary gives them access to their own inner life and to the world of ideas; the introverts’ auxiliary gives them a means to adapt to the world of action and to deal with it effectively.  
 輔助功能為內向的人提供所需的內向性，為外向的人提供所需的內向性的基本原理至關重要。 外向者的輔助使他們能夠進入自己的內心生活和思想世界； 性格內向的人為他們提供了一種適應動作世界並有效應對的手段。(Google 翻譯)  
