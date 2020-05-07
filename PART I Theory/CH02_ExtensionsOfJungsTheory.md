@@ -26,17 +26,23 @@ To be useful, a personality theory must portray and explain people as they are. 
 要發揮作用，人格理論必須刻畫並解釋人們的現狀。 因此，榮格的理論必須延伸到包括以下三個要點。(Google 翻譯)    
 一套實用的人格理論必須能夠精準地描述並解釋個體的真實狀態。因此，榮格的理論必須在以下三點內容上進行擴展。(第1翻)  
 
-### Constant Presence of the Auxiliary Process 
+### Constant Presence of the Auxiliary Process 輔助心理功能的常態化存在  
 
 The first requisite for balance is development of the auxiliary process in support of the dominant process. Jung does not mention the auxiliary process in Psychological Types until page 513, after all his descriptions of the types.  
 平衡的首要條件是發展輔助過程以支持主導過程。 在對所有類型進行描述之後，榮格直到513頁都沒有在“心理類型”中提及輔助過程。(Google 翻譯)  
+首先，為了實現人格的平衡，個體必須充份發展自己的輔助心理功能，使之與主導心理功能相配合。在心理類型一書中，榮格在討論完全了全部的人格類型之後，才提到了輔助心理功能 (第1翻)   
 
 - In the foregoing descriptions I have no desire to give my readers the impression that such pure types occur at all frequently in actual practice. (1923, p. 513)  
-在前面的描述中，我不希望給我的讀者留下這樣的印象，即這種純類型在實際實踐中幾乎經常出現。 （1923，第513頁）。(Google 翻譯)  
+在前面的描述中，我不希望給我的讀者留下這樣的印象，即這種純類型在實際實踐中幾乎經常出現。(1923，第513頁)(Google 翻譯)  
+我希望讀者們在讀完本書前面的內容之後，不會誤認為我在書中所描述的這些 "純粹" 的人格類型在現實生活中是普遍存在的。(1923，第513頁)(第1翻)  
+
 - In conjunction with the most differentiated function, another function of secondary importance, and therefore of inferior differentiation in consciousness, is constantly present, and is a relatively determining factor. (1923, p. 513)  
-與最有區別的功能相結合，次要重要性的另一個功能，因此意識的較弱的區別，一直存在，並且是一個相對決定性的因素。（1923，第513頁）(Google 翻譯)  
+與最有區別的功能相結合，次要重要性的另一個功能，因此意識的較弱的區別，一直存在，並且是一個相對決定性的因素。(1923，第513頁)(Google 翻譯)  
+在最具區分性的主導心理功能之後，還跟隨著另外一種次要的心理功能，因為不是最重要的功能，因此個體常常很難清楚地意識到它的存在。但這一個次要功能卻是經常出現的，並且起著一定的決定作用。(1923，第513頁)(第1翻)  
+
 - Experience shows that the secondary function is always one whose nature is different from, though not antagonistic to, the leading function: Thus, for example, thinking, as primary function, can readily pair with intuition as auxiliary, or indeed equally well with sensation, but … never with feeling. (1923, p. 515)  
-經驗表明，次要功能始終是一種性質，儘管它並不不同於主導功能：例如，思維作為主要功能可以很容易地與直覺作為輔助功能相結合，或者實際上與感覺一樣好， 但是……從來沒有感覺。 （1923，第515頁）(Google 翻譯)  
+經驗表明，次要功能始終是一種性質，儘管它並不不同於主導功能：例如，思維作為主要功能可以很容易地與直覺作為輔助功能相結合，或者實際上與感覺一樣好， 但是……從來沒有感覺。(1923，第515頁)(Google 翻譯)  
+經驗證明，次要功能與主導功能雖然並不對立，但兩者卻有著本質的區別。比如，以 "思維" 為主導心理功能的個體，可以另外發展 "直覺" 或 "感覺" 作為自己的輔助心理功能，但卻不能與同屬於判斷維度的 "情感" 進行組合。(第1翻)  
 
 ### Results of the Combinations of Perception and Judgment  
 
