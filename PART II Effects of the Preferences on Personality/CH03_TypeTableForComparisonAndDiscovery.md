@@ -125,3 +125,10 @@ For the males in liberal arts, shown in Figure 12, the self-selection area consi
 For the engineering students, shown in Figure 13, the self-selection area consists of the IN quadrant, the two ENJ types, and ISTJ. The emphasis is on N and J, and F when combined with NJ seems nearly as attracted to engineering as T.  Note that the ENJ types would be adjacent to the IN quadrant if wrapped around a horixzontal cylinder,  and so would ISTJ if wrapped around a vertical one.  
 
 (These are the liberal arts and engineering samples from page 45 of the 1962 MBTI Manual.)  
+
+**(Plz get figure 14 from original book)**     
+**Figure 14 Finance and Commerce Students (N = 488)**  
+
+The Type Table in Figure 14 shows 488 undergraduates from the Wharton School of Finance and Commerce at the University of Pennsylvania. The Type Table opposite, in Figure 15, is really opposite, showing 705 science majors from Cal Tech.  
+
+The self-selection area for the finance and commerce students consists of the ES quadrant plus the two IST types, which is wholly suitable. The ST column is the one where the main objects of interest are the facts, approached with impersonal analysis, in a hardheaded, matterr-of-fact way. The ES quadrant is the most practical and realistic quadrant and the least given to intellectual abstractions.  
