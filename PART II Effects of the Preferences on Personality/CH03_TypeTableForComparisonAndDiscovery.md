@@ -96,3 +96,25 @@ The frequency of N went up from 38 percent to 54 percent, which resulted in a sy
   
 For the National Merit finalists, Figure 9, the frequency of N went up from 54 percent to 82.7 percent. Of the remaining 17.3 percent who were S, the outstanding survivor was ISTJ, holding 5 percent of the sample.    
 
+**(Plz get figure 10 from original book)**     
+**Figure 10 Philadelphia Girls' Hight School Student (N = 348 females)**  
+
+The corresponding selective high school for females is Philadelphia Girls's High School, which has the same requirements for admission as Central. Frequency distributions in the Type Tables in Figures 10 and 11 are much like those for the corresponding male samples, except that the males have a majority for T, whereas the females have a majority for F, as has been seen before.  
+
+Introverts at Girl's High  are 38.2 percent, rising to 52.1 percent among the National Merit finalists.  
+
+Intuitives at Girls' High are 50 percent, rising to 81.8 percent in the National Merit sample.  
+
+**(Plz get figure 11 from original book)**     
+**Figure 11 National Merit Finalists (N = 330 females)**  
+
+As with ISTJ for the males, the outstanding survivor of the S types among the female National Merit finalists was ISFJ, with a 5 percent frequency matching that of the males.  
+
+Here self-selection begins. After high school, students can choose whatever line of study they like. The degree of self-selection exercised by any type in any sample can be indicated by the self-0selection ratio (SSR), which is the percentage frequency of that type in the sample divided by its percentage frequency in the appropriate base population. For the samples in this chapter, except for the arts and counseling students, the base population is 3,503 high school males (Figure 3).  
+
+**(Plz get figure 12 from original book)**     
+**Figure 12 Liberal Arts Students (N = 3,676 males)**  
+
+In Figures 12-23, the SSR is shown for each of the sixteen types, Values above 1.00 show positive self-selection. Values below 1.00 show some degree of avoidance. Where types with the highest SSR (often 1.20 or higher) are adjacent, they make a self-selection area and are shaded in the Type Table.  
+
+For the males in liberal arts, shown in Figure 12, the self-selection area consists of the four NF types, typically interested in literature and humanities, and the two INT types, mildly interested in liberal arts but more interested in other fields.  
