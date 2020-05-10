@@ -59,6 +59,13 @@ The Type Tables in Figures 3-23 show the meanings of the letter combinations and
 
 In exploring such hypotheses, it is necessary to adopt a reasonable estimate of the frequency to be expected for those types. Most of the Type Tables in this chapter adopt for this purpose the frequencies actually found in a sample of 3,503 high school males preparing for college, as shown in the Type Table in Figure 3. The samples in Figures 5 and 8 were combined to make this group, which was also used for the expected frequencies on page 45 of the 1962 Myers-Briggs Type Indicator Manual.  
   
-(Plz get figure 2 from original book)    
+(Plz get figure 3 from original book)    
   
 Figure 3 High School Students, College Prep (N = 3,503 males)   
+  
+The Type Tables in Figures 3-23 show the heaviest frequencies and the areas with relatively sparse populations. In these Figures, the percent of the sample belonging to each type is written and shown graphically either with black squares, each representing roughly 2 percent, or with black circles, each standing for approximately 2 persons.  (Circles are used in Figures 16, 17, 18, and 20, in which the samples are less than 100.) The total number of extraverts, introverts, and so on and the percentage each number represents are given below the Tables.  
+
+(Plz get figure 4 from original book)    
+  
+Figure 4 High School Students, Other Than College Prep (N=1,430 males)  
+
