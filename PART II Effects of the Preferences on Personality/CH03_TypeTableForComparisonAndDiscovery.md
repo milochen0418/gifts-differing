@@ -118,3 +118,10 @@ Here self-selection begins. After high school, students can choose whatever line
 In Figures 12-23, the SSR is shown for each of the sixteen types, Values above 1.00 show positive self-selection. Values below 1.00 show some degree of avoidance. Where types with the highest SSR (often 1.20 or higher) are adjacent, they make a self-selection area and are shaded in the Type Table.  
 
 For the males in liberal arts, shown in Figure 12, the self-selection area consists of the four NF types, typically interested in literature and humanities, and the two INT types, mildly interested in liberal arts but more interested in other fields.  
+
+**(Plz get figure 13 from original book)**     
+**Figure 13 Engineering Students (N = 2,188)**  
+
+For the engineering students, shown in Figure 13, the self-selection area consists of the IN quadrant, the two ENJ types, and ISTJ. The emphasis is on N and J, and F when combined with NJ seems nearly as attracted to engineering as T.  Note that the ENJ types would be adjacent to the IN quadrant if wrapped around a horixzontal cylinder,  and so would ISTJ if wrapped around a vertical one.  
+
+(These are the liberal arts and engineering samples from page 45 of the 1962 MBTI Manual.)  
