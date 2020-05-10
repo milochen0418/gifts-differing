@@ -73,3 +73,8 @@ The Type Tables in Figures 4 and 5 show male high school students, mainly eleven
 
 (Plz get figure 5 from original book)    
 Figure 5 High School Students, College Prep (N = 2,603 males)   
+  
+On preferences other than SN, the differences in frequency are minimal. In both Tables the most frequent type is an S type, ESTJ, and the least frequent is an N type, INFJ. Otherwise these samples reveal fairly equal distributions, which is appropriate enough, since high school students are a heterogeneous group of very different people who will eventually ride off in all directions. College Type Tables (Figures 12-19) show some of those directions.   
+  
+(Plz get figure 6 from original book)    
+Figure 6 High School Students, Other Than College Prep (N = 1,884 females)    
