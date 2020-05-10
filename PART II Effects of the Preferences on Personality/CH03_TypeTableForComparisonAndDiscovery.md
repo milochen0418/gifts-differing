@@ -35,8 +35,7 @@ Extravert | EST- | ESF- | ENF- | ENT-
 The final division, for JP, divides each horizontal row into two, and the result is the complete Type Table with four rows and four columns, as shown in Figure 2. The arrangement of the horizontal rows is designed to place at the bottom the E--Js, extraverts with the judging attitude. The E--Ps, the perceptive extraverts, come just above them. Next, changing only one preference at a time, come the I--P types, the perceptive introverts. The top row is occupied by the I--J types, the judging introverts, balancing the judging extraverts at the bottom. Thus, the more resistant types, the thinkers at left and right and the judging types at top and bottom, make a sort of wall around the Type Table; the “gentler” FP types are inside. The types with both of the resistant preferences, the tough-minded, executive TJs, occupy the four corners.  
 
 **(Plz get figure 2 from original book)**    
-
-Figure 2 The Type Table   
+**Figure 2 The Type Table**   
   
   
 With these devices in mind --SN going from left to right, the feeling columns affiliating with each other in the center, the “northern” introverts and “southern” extraverts, and the judging types taking the brunt at the top and bottom -- the Type Table can be remembered and reproduced from memory. More important, the Type Table makes a logical framework within which to store the characteristics of the types.  
@@ -60,29 +59,40 @@ The Type Tables in Figures 3-23 show the meanings of the letter combinations and
 In exploring such hypotheses, it is necessary to adopt a reasonable estimate of the frequency to be expected for those types. Most of the Type Tables in this chapter adopt for this purpose the frequencies actually found in a sample of 3,503 high school males preparing for college, as shown in the Type Table in Figure 3. The samples in Figures 5 and 8 were combined to make this group, which was also used for the expected frequencies on page 45 of the 1962 Myers-Briggs Type Indicator Manual.  
   
 **(Plz get figure 3 from original book)**     
-Figure 3 High School Students, College Prep (N = 3,503 males)   
+**Figure 3 High School Students, College Prep (N = 3,503 males)**   
   
 The Type Tables in Figures 3-23 show the heaviest frequencies and the areas with relatively sparse populations. In these Figures, the percent of the sample belonging to each type is written and shown graphically either with black squares, each representing roughly 2 percent, or with black circles, each standing for approximately 2 persons.  (Circles are used in Figures 16, 17, 18, and 20, in which the samples are less than 100.) The total number of extraverts, introverts, and so on and the percentage each number represents are given below the Tables.  
 
 **(Plz get figure 4 from original book)**    
-Figure 4 High School Students, Other Than College Prep (N=1,430 males)  
+**Figure 4 High School Students, Other Than College Prep (N=1,430 males)**  
 
 The Type Tables in Figures 4 and 5 show male high school students, mainly eleventh-and twelfth-graders, who took Form D2 of the Indicator in 25 high schools in the suburban counties around Philadelphia in the spring of 1957, a period when sharp distinctions were maintained between college preparatory and nonpreparatory high school programs.    
 
 **(Plz get figure 5 from original book)**    
-Figure 5 High School Students, College Prep (N = 2,603 males)   
+**Figure 5 High School Students, College Prep (N = 2,603 males)**   
   
 On preferences other than SN, the differences in frequency are minimal. In both Tables the most frequent type is an S type, ESTJ, and the least frequent is an N type, INFJ. Otherwise these samples reveal fairly equal distributions, which is appropriate enough, since high school students are a heterogeneous group of very different people who will eventually ride off in all directions. College Type Tables (Figures 12-19) show some of those directions.   
   
 **(Plz get figure 6 from original book)**    
-Figure 6 High School Students, Other Than College Prep (N = 1,884 females)    
+**Figure 6 High School Students, Other Than College Prep (N = 1,884 females)**    
   
 The corresponding Type Tables for females, Figures 6 and 7, confirm the relation between intuition and educational level; they also demonstrate the magnitude of the sex difference on TF. Both females samples are 68 percent feeling; the nonpreparatory males are 41 percent feeling, the college preparatory males 38 percent. Because of this sex difference, data involving type frequencies for males and females must be presented separately; if pooled, the frequencies misrepresent both sexes.  
   
 **(Plz get figure 7 from original book)**     
-Figure 7 High School Students, College Prep (N = 2,155 females)    
+**Figure 7 High School Students, College Prep (N = 2,155 females)**    
 
 The sensing types in Fugures 6 and 7 show a strong preference for the judging attitude. The nonpreparatory sample, which has very few intuitives, is 65 percent J. Sensing types prefer, on the whole, to run their outer lives in a judging way that settles problem in advance. Intuitives like to run their in a perceptive way that lets their intuition follow its inspirations.  
 
 **(Plz get figure 8 from original book)**     
-Figure 8 Central High School Students, (N = 900 males)    
+**Figure 8 Central High School Students, (N = 900 males)**    
+
+The Type Table in Figure 8 shows high school males preparing for college -- but these studetns were preparing at the all-male Central High School in Philadelphia, to which no student is admitted unless he has an IQ of 110 or higher and no more than one grade as low as C in the two years before enrolling.  
+  
+It might be thought that the second requirement, which involves not seriously slighting any subject, would result in a substantial increase in the number of J students. The number of J students did go up, but only from 50.4 percent to 53.3 percent.  
+
+**(Plz get figure 9 from original book)**     
+**Figure 9 Nation Merit Finalists (N = 671 males)**  
+The frequency of N went up from 38 percent to 54 percent, which resulted in a symmertical lowering of the frequencies of the four SP types, who have neither N nor J.  
+  
+For the National Merit finalists, Figure 9, the frequency of N went up from 54 percent to 82.7 percent. Of the remaining 17.3 percent who were S, the outstanding survivor was ISTJ, holding 5 percent of the sample.    
+
