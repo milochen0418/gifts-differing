@@ -83,3 +83,8 @@ The corresponding Type Tables for females, Figures 6 and 7, confirm the relation
   
 (Plz get figure 7 from original book)     
 Figure 7 High School Students, College Prep (N = 2,155 females)    
+
+The sensing types in Fugures 6 and 7 show a strong preference for the judging attitude. The nonpreparatory sample, which has very few intuitives, is 65 percent J. Sensing types prefer, on the whole, to run their outer lives in a judging way that settles problem in advance. Intuitives like to run their in a perceptive way that lets their intuition follow its inspirations.  
+
+(Plz get figure 8 from original book)     
+Figure 8 Central High School Students, (N = 900 males)    
