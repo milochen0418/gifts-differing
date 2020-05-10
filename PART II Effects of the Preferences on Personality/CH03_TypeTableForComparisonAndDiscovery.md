@@ -33,3 +33,8 @@ Introvert | IST- | ISF- | INF- | INT-
 Extravert | EST- | ESF- | ENF- | ENT- 
 
 The final division, for JP, divides each horizontal row into two, and the result is the complete Type Table with four rows and four columns, as shown in Figure 2. The arrangement of the horizontal rows is designed to place at the bottom the E--Js, extraverts with the judging attitude. The E--Ps, the perceptive extraverts, come just above them. Next, changing only one preference at a time, come the I--P types, the perceptive introverts. The top row is occupied by the I--J types, the judging introverts, balancing the judging extraverts at the bottom. Thus, the more resistant types, the thinkers at left and right and the judging types at top and bottom, make a sort of wall around the Type Table; the “gentler” FP types are inside. The types with both of the resistant preferences, the tough-minded, executive TJs, occupy the four corners.  
+
+(Plz get figure 2 from original book)  
+
+Figure 2 The Type Table   
+
