@@ -78,3 +78,8 @@ On preferences other than SN, the differences in frequency are minimal. In both 
   
 (Plz get figure 6 from original book)    
 Figure 6 High School Students, Other Than College Prep (N = 1,884 females)    
+  
+The corresponding Type Tables for females, Figures 6 and 7, confirm the relation between intuition and educational level; they also demonstrate the magnitude of the sex difference on TF. Both females samples are 68 percent feeling; the nonpreparatory males are 41 percent feeling, the college preparatory males 38 percent. Because of this sex difference, data involving type frequencies for males and females must be presented separately; if pooled, the frequencies misrepresent both sexes.  
+  
+(Plz get figure 7 from original book)     
+Figure 7 High School Students, College Prep (N = 2,155 females)    
