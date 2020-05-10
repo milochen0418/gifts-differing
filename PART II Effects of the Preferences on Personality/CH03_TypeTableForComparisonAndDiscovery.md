@@ -69,3 +69,7 @@ The Type Tables in Figures 3-23 show the heaviest frequencies and the areas with
   
 Figure 4 High School Students, Other Than College Prep (N=1,430 males)  
 
+The Type Tables in Figures 4 and 5 show male high school students, mainly eleventh-and twelfth-graders, who took Form D2 of the Indicator in 25 high schools in the suburban counties around Philadelphia in the spring of 1957, a period when sharp distinctions were maintained between college preparatory and nonpreparatory high school programs.    
+
+(Plz get figure 5 from original book)    
+Figure 5 High School Students, College Prep (N = 2,603 males)   
