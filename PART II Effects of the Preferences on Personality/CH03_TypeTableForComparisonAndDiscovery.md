@@ -185,3 +185,9 @@ The results are very clear-cut. The essential for law is T, perferably TJ. All f
 The sample of urban police, Figure 22, affords an interesting comparison with the law students just seen, because both groups deal with the law. The students deal with the subtle distinctions of the law, what one can and cannot do. They also face the endless prospect of dealing in words with adversaries also armed with words. These are good reasons why 59 percent of them are on the intuitive side.  
 
 The police are 79 percent S. They deal with one concrete situation after another, where words are not as important as decisions and actions. They are more J than the law students, and a good many more of them are feeling types. There may well be more compassion on the beat than in the courts of law.  
+
+**(Plz get figure 23 from original book)**     
+**Figure 23 School Administrators (N = 124)**  
+Source: voin Fange (1961)  
+The Type Table in Figure 23, which portrays von Fang's Canadian school administrators (1961), is unique. It is all top and bottom. The sample seems to have no marked preference between E and I, S and N, or T and F. However, indealing with the world around them, they are 86 percent J. Propability the ability to make endless decisions, great and small,  and not grow weary is a necessity of life for those responsible for keeping educational systems on an even keel.  
+
