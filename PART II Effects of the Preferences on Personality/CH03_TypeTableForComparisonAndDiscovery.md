@@ -146,3 +146,11 @@ Source: Stephens (1972)
 The Type Tables in Figures 16-18, based on Stephens (1972), present three contrasting groups of senior art students at the University of Florida. The base population against which their self-selection is measured is a freshman class at the same university at about the same period.  
 
 The sample in Figure 16 consists of fine arts seniors who were planning to be artists, to create without reference to others. The four types showing positive self-selectiojn are all IN types -- intuition for creativity and introversion for independence from the outer world.  
+
+
+**(Plz get figure 17 from original book)**     
+**Figure 17 Occupational Therapy Seniors (N = 29)**  
+Source: Stephens (1972)  
+
+The seniors in Figure 17 were studying occupational theraphy and planning to use art for restoring people to health, whether by giving them a new interest in life of new confident in themselves or simply and enjoyable manual activity. All five of the types showing positive self-selection are extravert types, to whom overt action is important, and four of those five types are F types, to whom it is important that the action involve other people in a beneficial way. The type with the strongest self-selection is ESFJ, where feeling is extraverted and perception is practical, so that helping others is both a duty and a pleasure.  
+
