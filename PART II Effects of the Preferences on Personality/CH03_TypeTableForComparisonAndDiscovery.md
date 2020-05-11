@@ -173,3 +173,8 @@ The subjects in this sample were students at the University of Florida who gave 
 The sample of Rhodes Scholars, shown in Fugure 20, is the result of stringent competition. It has an even higher percentage of intuitives than the National Merit finalists. The majority are feeling types, probably because in defining the scholar Rhodes desired, his will stressed kindness and interest in others.  
 
 Figure 21 is based on data from Miller's follow-up study (1967) of students from seven law schools, including the dropouts. The number of dropouts from  each type is shown, preceded by a minus sign, on the same line as the frequency for that type. The dropout ratio (DOR), which is the type's percentage dropout divided by the percentage dropout for the sample as a whole, is given below the SSR.  
+
+**(Plz get figure 21 from original book)**     
+**Figure 21 Law Students (N = 2,248 -- 374 jof  whom dropped out)**  
+Source: Miller (1965, 1967)  
+The results are very clear-cut. The essential for law is T, perferably TJ. All four of the TJ types have positive self-selection and a lower-than-average dropout rate. Three of the TP types have positive self-selection but a higher-than-average dropout rate. None of the feeling types have SSR above 0.67, and sixe of them have a higher-than-average dropout rate. Apparently law school is best tackled by the tough-minded.  
