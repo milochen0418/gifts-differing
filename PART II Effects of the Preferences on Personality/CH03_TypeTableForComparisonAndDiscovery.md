@@ -160,4 +160,11 @@ Source: Stephens (1972)
 
 In examining Figure 18, which reports on art education seniors, one finds a wide diversity of types who have chosen that filed, perhaps because the field itself is diverse. This sample has six types with positive self-selection, three in common with fine arts students, three in common with occupational therapy students; three are I, three are E; three are NF, two are NT, and one is the somewhat detached SF. Probably the teaching styles these people developed would be found to vary accordingly.  
 
+**(Plz get figure 19 from original book)**     
+**Figure 19 Counselor Education Students (N = 118)**  
+
+In Figure 19, counselor education, self-selection seems confined to the NF types. Each NF type has a self-selection ratio of 1.80 or higher, and no other type has a self-selection ratio higher than 0.62. The reason is easily understood: The combination of intuition and feeling practically defines counseling. The province of intuition is too see the possibilities, and the province of feeling is a concern for people, which makes the exercise of intuition doubly rewarding, since it is possibilities for people that are sought and found.  
+
+The subjects in this sample were students at the University of Florida who gave their major as counseling education. For their SSRs  also, the base population was the Florida freshman.  
+
 
