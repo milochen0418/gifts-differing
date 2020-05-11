@@ -137,4 +137,12 @@ The self-selection area for the finance and commerce students consists of the ES
 **Figure 15 Science Students (N = 705)**  
 
 The self-selection area for the Cal Tech science students consists of the IN quadrant (in which the highest SSR is 3.88 and the lowest one 1.97) plus the two ENT types. People in the NT column focus on the possibilities and the principles involved in their solution. Inhabitants of the IN quadrant are the most intellectual, with a capacity for seeing farther into the unknown than most people can penetrate. The degree of interest that the science students have for the ES quadrant can be judged by the self-selection ratios they award it: 0.22, 0.17, 0.12, and 0.02.  
- 
+
+
+**(Plz get figure 16 from original book)**     
+**Figure 16 Fine Arts Seniors (N = 33)**  
+Source: Stephens (1972)  
+
+The Type Tables in Figures 16-18, based on Stephens (1972), present three contrasting groups of senior art students at the University of Florida. The base population against which their self-selection is measured is a freshman class at the same university at about the same period.  
+
+The sample in Figure 16 consists of fine arts seniors who were planning to be artists, to create without reference to others. The four types showing positive self-selectiojn are all IN types -- intuition for creativity and introversion for independence from the outer world.  
