@@ -132,3 +132,9 @@ For the engineering students, shown in Figure 13, the self-selection area consis
 The Type Table in Figure 14 shows 488 undergraduates from the Wharton School of Finance and Commerce at the University of Pennsylvania. The Type Table opposite, in Figure 15, is really opposite, showing 705 science majors from Cal Tech.  
 
 The self-selection area for the finance and commerce students consists of the ES quadrant plus the two IST types, which is wholly suitable. The ST column is the one where the main objects of interest are the facts, approached with impersonal analysis, in a hardheaded, matterr-of-fact way. The ES quadrant is the most practical and realistic quadrant and the least given to intellectual abstractions.  
+
+**(Plz get figure 15 from original book)**     
+**Figure 15 Science Students (N = 705)**  
+
+The self-selection area for the Cal Tech science students consists of the IN quadrant (in which the highest SSR is 3.88 and the lowest one 1.97) plus the two ENT types. People in the NT column focus on the possibilities and the principles involved in their solution. Inhabitants of the IN quadrant are the most intellectual, with a capacity for seeing farther into the unknown than most people can penetrate. The degree of interest that the science students have for the ES quadrant can be judged by the self-selection ratios they award it: 0.22, 0.17, 0.12, and 0.02.  
+ 
