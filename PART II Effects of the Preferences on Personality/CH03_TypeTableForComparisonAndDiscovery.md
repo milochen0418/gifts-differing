@@ -154,3 +154,10 @@ Source: Stephens (1972)
 
 The seniors in Figure 17 were studying occupational theraphy and planning to use art for restoring people to health, whether by giving them a new interest in life of new confident in themselves or simply and enjoyable manual activity. All five of the types showing positive self-selection are extravert types, to whom overt action is important, and four of those five types are F types, to whom it is important that the action involve other people in a beneficial way. The type with the strongest self-selection is ESFJ, where feeling is extraverted and perception is practical, so that helping others is both a duty and a pleasure.  
 
+**(Plz get figure 18 from original book)**     
+**Figure 18 Art Education Seniors (N = 31)**  
+Source: Stephens (1972)  
+
+In examining Figure 18, which reports on art education seniors, one finds a wide diversity of types who have chosen that filed, perhaps because the field itself is diverse. This sample has six types with positive self-selection, three in common with fine arts students, three in common with occupational therapy students; three are I, three are E; three are NF, two are NT, and one is the somewhat detached SF. Probably the teaching styles these people developed would be found to vary accordingly.  
+
+
