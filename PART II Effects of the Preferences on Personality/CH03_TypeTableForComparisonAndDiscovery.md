@@ -178,3 +178,10 @@ Figure 21 is based on data from Miller's follow-up study (1967) of students from
 **Figure 21 Law Students (N = 2,248 -- 374 jof  whom dropped out)**  
 Source: Miller (1965, 1967)  
 The results are very clear-cut. The essential for law is T, perferably TJ. All four of the TJ types have positive self-selection and a lower-than-average dropout rate. Three of the TP types have positive self-selection but a higher-than-average dropout rate. None of the feeling types have SSR above 0.67, and sixe of them have a higher-than-average dropout rate. Apparently law school is best tackled by the tough-minded.  
+
+**(Plz get figure 22 from original book)**     
+**Figure 22 Urban Police (N = 280)**  
+
+The sample of urban police, Figure 22, affords an interesting comparison with the law students just seen, because both groups deal with the law. The students deal with the subtle distinctions of the law, what one can and cannot do. They also face the endless prospect of dealing in words with adversaries also armed with words. These are good reasons why 59 percent of them are on the intuitive side.  
+
+The police are 79 percent S. They deal with one concrete situation after another, where words are not as important as decisions and actions. They are more J than the law students, and a good many more of them are feeling types. There may well be more compassion on the beat than in the courts of law.  
