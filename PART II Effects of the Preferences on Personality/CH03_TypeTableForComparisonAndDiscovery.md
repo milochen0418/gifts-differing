@@ -167,4 +167,9 @@ In Figure 19, counselor education, self-selection seems confined to the NF types
 
 The subjects in this sample were students at the University of Florida who gave their major as counseling education. For their SSRs  also, the base population was the Florida freshman.  
 
+**(Plz get figure 20 from original book)**     
+**Figure 20 Rhodes Scholars (N = 71 males)**  
 
+The sample of Rhodes Scholars, shown in Fugure 20, is the result of stringent competition. It has an even higher percentage of intuitives than the National Merit finalists. The majority are feeling types, probably because in defining the scholar Rhodes desired, his will stressed kindness and interest in others.  
+
+Figure 21 is based on data from Miller's follow-up study (1967) of students from seven law schools, including the dropouts. The number of dropouts from  each type is shown, preceded by a minus sign, on the same line as the frequency for that type. The dropout ratio (DOR), which is the type's percentage dropout divided by the percentage dropout for the sample as a whole, is given below the SSR.  
