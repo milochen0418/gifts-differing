@@ -2,7 +2,7 @@
 ## Chapter 3 
 ### [Type Tables for Comparison and Discovery](https://github.com/milochen0418/gifts-differing/blob/master/PART%20II%20Effects%20of%20the%20Preferences%20on%20Personality/CH03_TypeTableForComparisonAndDiscovery.md) 人格類型表
 ## Chapter 4 
-### Effect of the EI  Preference 外傾與內傾
+### [Effect of the EI  Preference](https://github.com/milochen0418/gifts-differing/blob/master/PART%20II%20Effects%20of%20the%20Preferences%20on%20Personality/CH04_EffectOfTheEIPreference.md) 外傾與內傾
 ## Chapter 5 
 ### Effect of the SN Preference 感覺與直覺
 ## Chapter 6 
