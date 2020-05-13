@@ -1,5 +1,5 @@
 ## Chapter 4 
-# Effect of the EI Preference 
+# Effect of the EI Preference 外傾與內傾偏好的效應區別
 
 The conduct of extraverts is based on the outer situation. If they are thinkers, they tend to criticize or analyze or organize it; feeling types may champion it, protest against it, or try to mitigate it; sensing types may enjoy it, use it, or good naturedly put up with it; and intuitives tend to try to change it. In any case, the extravert starts with the outer situation.  
 外向的行為是基於外部情況。如果他們是思想家，他們傾向於批評，分析或組織它。感覺類型可能會支持它，抗議它或試圖減輕它；感覺型的人可能會喜歡它，使用它或天生就忍受它；和直觀人士傾向於嘗試對其進行更改。無論如何，外向都是從外部情況開始的。(Google翻譯)  
@@ -81,3 +81,24 @@ Source of Figures 24-31: the notes of Katharine C. Briggs
 **圖-24 影響內傾外傾偏好的效應** 
 來源 凱瑟琳·布里格斯（Katharine C. Briggs）筆記圖 24-31  
 (Google翻譯)  
+  
+  
+
+------------------
+| **外傾型(Extraverted Types)** | **內傾型(Introverted Types)** |
+| ----- | ----- |
+| 事後思考型。只有親身經歷後，才能真正理解生活。 | 事前思考型。只有在理解了生活之後，才能開始生活。 |
+| 輕鬆、自信。總是樂觀地評估事情的難度，敢於直接嘗試各種新鮮和未知的事物。  | 謹慎、多疑。傾向於對事情進行保守評估，只有在全面地了解和評估之後，才會考慮嘗試新事物。 |
+| 精神指向外部世界。興趣和注意力都集中在客觀事物上，尤其是眼前的事物。他們的生活是由外部世界的各種人和事構成的。  | 精神指向內磇世界。對各觀存在於外部世界的事物毫不關心，興趣和注意力都集中在自己的內心活動上。他們的生活是由內心世界的各種觀點和理念構成的。 | 
+| 教化型人才，行動的巨人，現實成就無數，生活模式是 "行動--思考--行動" | 文化型人才，思想的巨人，能夠創造性地提出各種抽象概念，生活模式是 "思考--行動--思考"，如此循環。 | 
+| 關鍵的行為決策往往取決於客觀條件  | 關鍵的行為決策往往取決於內心的價值觀 | 
+| 慷慨地順應外界的要求，認為這些要求本身就是生活的一部份 | 極力抵抗外部世界的種種要求，努力維護自己的內心世界。 | 
+| 簡單易懂，親切隨和，通常擅於社交，樂於周旋於各種人和事中，面對抽象的理念往往不知所措。 | 微妙複雜，沉默寡言，一般比較害羞，與現實生活中的人和事相比，他們更樂於思考並沉浸在抽象的事物中。 | 
+| 熱情開朗但周情不深，隨著生活的繼續，會隨時缷下身上的情感負擔 | 感情強烈深刻，會把經歷過的情感仔細封存，小心看守 | 
+| 典型弱點是思想淺薄，這一問題在極端外傾的個體身上表現得特別突出 | 典型弱點是不切實際，這一問題在極端內傾的個體身上表現得特別突破 | 
+| 心理健康和人格完善的關鍵在於合理發展人格的內傾性，使之與自身的外傾性相互平衡 | 心理健康和人格完善的關鍵在於合理發展人格的外傾性，使之與自身的內傾性相互平衡。 |
+| 弗洛依德(Freud) <br> 達爾文(Darwin) <br> 羅斯福(Roosevelt)  包括西奧多羅斯福(Theodore) 和富蘭克林羅斯福(Franklin Delano) | 榮格(Jung) <br> 愛因斯坦(Einstein) <br>林肯(Lincoln) |
+------------------
+**圖24 外傾與內傾偏好的效應區別**  
+來源：凱瑟琳·布里格斯（Katharine C. Briggs）筆記中的圖 24-31  
+(第1翻)  
