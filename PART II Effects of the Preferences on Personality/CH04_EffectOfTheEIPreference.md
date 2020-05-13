@@ -49,6 +49,24 @@ EI偏好導致的鮮明特徵在圖24中的平行列中進行了匯總。通常�
 | Health and wholesomeness depend upon a reasonable development of balancing introversion. | Health and wholesomeness depend upon a reasonable development of balancing extraversion. |
 | Freud <br> Darwin <br> Roosevelt (both Theodore and Franklin Delano) | Jung <br> Einstein <br>Lincoln |
 ------------------
-
 **Figure 24 Effect of the EI preference**
 Source of Figures 24-31: the notes of Katharine C. Briggs  
+
+------------------
+| **外傾類型** | **內傾類型** |
+| ----- | ----- |
+| 思考者。 在生活之前，他們是無法理解的。 | 預言家。 除非他們了解生活，否則無法生活。 |
+| 態度輕鬆而自信。 他們期望水域變得淺淺，並容易陷入新的和未嘗試的經歷。  | 態度保留和質疑。 他們希望水域變得更深，並停下來在新的和未嘗試的地方進行探測。 |
+| 遵循客觀事件（主要是眼前環境的事件）後，頭腦會向外定向，引起興趣和關注。 因此，他們的真實世界是人與物的外部世界。 | 內心定向，經常不了解客觀環境，內心事件引起了興趣和注意力。 因此，他們的真實世界是思想和理解的內心世界。 | 
+| 文明的天才，行動的人們和實踐的成就，從做事到考慮再做。 | 文化天才，有思想的人們和抽象的發明家，從考慮到做事再回到考慮。 | 
+| 基本事務中的行為始終受客觀條件支配。  | 基本事務中的行為始終受主觀價值觀支配。 | 
+| 慷慨地花費在構成生命的外部要求和條件上。 | 盡可能抵禦外部主張和條件，捍衛內心生活。 | 
+| 在人和事物的世界中，比在思想世界中，人們更容易理解和訪問，甚至經常社交。 | 在思想世界中比在人和事物的世界中更多的是微妙而堅不可摧的，通常是沉默寡言和害羞的 | 
+| 他們情緒寬容，熱情洋溢，一路走來。 | 強烈而充滿激情，他們裝腔作勢，並像炸藥一樣小心地保護自己。 | 
+| 典型的弱點在於趨向於知識性膚淺，在極端類型中非常明顯。 | 典型的弱點在於趨於不切實際的趨勢，在極端類型中非常明顯。 | 
+| 外在生活的健康和身心健康取決於平衡內向性的合理發展。 | 外在生活的健康和身心健康取決於平衡外向性的合理發展。 |
+| Freud <br> Darwin <br> Roosevelt (both Theodore and Franklin Delano) | Jung <br> Einstein <br>Lincoln |
+------------------
+**圖-24 影響內傾外傾偏好的效應** 
+來源 凱瑟琳·布里格斯（Katharine C. Briggs）筆記圖 24-31  
+(Google翻譯)  
