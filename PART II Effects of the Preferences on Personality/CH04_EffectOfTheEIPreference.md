@@ -83,7 +83,6 @@ Source of Figures 24-31: the notes of Katharine C. Briggs
 (Google翻譯)  
   
   
-
 ------------------
 | **外傾型(Extraverted Types)** | **內傾型(Introverted Types)** |
 | ----- | ----- |
