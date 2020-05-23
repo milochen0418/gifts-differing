@@ -88,6 +88,7 @@ Because the project can help more Chinese to understnad the book Gifts Differing
 ----  
 By the way, there are also some operating societies and Facebook in Taiwan, everyone share, learn and communicate together.  
 另外一提，在台灣也有一些正在運作的社團以及臉書，大家一同分享、學習與交流。  
-[MBTI 了解16型人格原理的讀書會](https://www.facebook.com/groups/mbti.love/?target=_blank)  
-[Happy Peak - happy peak 人格類型 認識自己理解他人](https://www.facebook.com/search/top/?q=happy%20peak%20%E4%BA%BA%E6%A0%BC%E9%A1%9E%E5%9E%8B%20%E8%AA%8D%E8%AD%98%E8%87%AA%E5%B7%B1%E7%90%86%E8%A7%A3%E4%BB%96%E4%BA%BA&epa=SEARCH_BOX){:target="_blank"}  
-[MBTI Taiwan (Unofficial) - 台灣(非官方)](https://www.facebook.com/groups/mbtitaiwan/learning_content/){:target="_blank"}    
+[MBTI 了解16型人格原理的讀書會](https://www.facebook.com/groups/mbti.love/)  
+[Happy Peak - happy peak 人格類型 認識自己理解他人](https://www.facebook.com/search/top/?q=happy%20peak%20%E4%BA%BA%E6%A0%BC%E9%A1%9E%E5%9E%8B%20%E8%AA%8D%E8%AD%98%E8%87%AA%E5%B7%B1%E7%90%86%E8%A7%A3%E4%BB%96%E4%BA%BA&epa=SEARCH_BOX)  
+[MBTI Taiwan (Unofficial) - 台灣(非官方)](https://www.facebook.com/groups/mbtitaiwan/learning_content/)    
+<a href="https://www.facebook.com/groups/mbti.love/" target="_blank">MBTI 了解16型人格原理的讀書會</a>
