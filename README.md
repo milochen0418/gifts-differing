@@ -91,4 +91,3 @@ By the way, there are also some operating societies and Facebook in Taiwan, ever
 [MBTI 了解16型人格原理的讀書會](https://www.facebook.com/groups/mbti.love/)  
 [Happy Peak - happy peak 人格類型 認識自己理解他人](https://www.facebook.com/search/top/?q=happy%20peak%20%E4%BA%BA%E6%A0%BC%E9%A1%9E%E5%9E%8B%20%E8%AA%8D%E8%AD%98%E8%87%AA%E5%B7%B1%E7%90%86%E8%A7%A3%E4%BB%96%E4%BA%BA&epa=SEARCH_BOX)  
 [MBTI Taiwan (Unofficial) - 台灣(非官方)](https://www.facebook.com/groups/mbtitaiwan/learning_content/)    
-<a href="https://www.facebook.com/groups/mbti.love/" target="_blank">MBTI 了解16型人格原理的讀書會</a>
