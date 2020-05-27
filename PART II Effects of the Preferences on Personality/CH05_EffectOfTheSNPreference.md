@@ -72,16 +72,19 @@ Sensing types, of course, are not stupid at all -- but someone should have shown
 
 Fore sensing children to exercise their special gift of realism, they must have access to the facts and time to assimilate them. Whereas the intuitive children like to learn by insight, the sensing children prefer to lean by familiarization. They sensing types are most likely to shine in courses involving many solid facts, like history, geography, civics, or biology. They are at a corresponding disadvantage in subjects based on general principles. Often the trouble may be simply that the teacher has been too brief and abstract in referring to the principles and has passed over them so quickly that the sensing students have not had time to relate them to the facts. Physics, for example, can be a nightmare to the factually minded.  
 在意識到兒童要行使他們特殊的現實主義天賦之前，他們必須能夠利用事實和時間來吸收他們。直覺的孩子喜歡通過洞察力來學習，而有感覺的孩子則喜歡通過熟悉來學習。他們的感覺類型最有可能在涉及許多紮實事實的課程中大放異彩，例如歷史，地理，公民或生物學。在基於一般原理的學科中，它們處於相應的劣勢。通常，麻煩可能僅僅是因為教師在提及這些原則時過於簡短和抽象，並且已經過分地接受這些原則，以至於感性的學生沒有時間將它們與事實聯繫起來。例如，物理學可能會成為事實思維的噩夢。(Google 翻譯)  
+關注現實是感覺型孩子的天份所在，想要充份鍛練這一個天份，就要給他們充足的機會和時間去接觸並理解現實。直覺型的孩子往往靠理解去掌握新知識，而感覺型的孩子則喜歡通過再三重覆來學習。感覺型的孩子很容易在歷史、地理、社會學或者生物等涉及大量客觀事實的科目上大放異彩，但與此同時，也可能在抽象公理的科目上一籌莫展。一般來說，這都是因為任課老師在講解這些公理時過於簡單、抽象，感覺型的孩子在短時間內根本無法將課本上的公理與生活中的實例結合起來。比如，像物理這樣的科目，對於習慣形象思維的感覺型學生來說，就是惡夢般的存在。(第1翻)  
 
 One case in point may be cited for its irony. An earnest and hardworking "B" student who wanted to be a doctor and was an excellent type for it, an ISFJ, flunked a pre-medical course because he could not keep up in physics with the engineers. Now he is a doctor and his patients do not care about the speed of his diagnosis, so long as it sound. The very reliance upon sensing that made physics difficult is useful now. He is dealing with immediate realities -- rhythm of a heartbeat, the sound of breathing, the shade of flush or pallor -- the myriad details a doctor must note and weigh. Touch, sight, and hearing must be his ultimate guides in applying either his own experience or the wisdom of his books. Research medicine, the medical school faculties, and the complex specialties need the intuitives; but as family doctors the sensing types come into their own, and their aptitude for physics has little if anything to do with their competence. Johns Hopkins University long ago recognized this discrepancy and instituted a special physics course for premedical students. The regular course had been disqualifying valued students.  
 具有諷刺意味的就是一個例子。 ISFJ是一位認真而勤奮的B級學生，他想當一名醫生，並且是出色的職業，因此ISFJ未能完成醫學預科課程，因為他無法跟上工程師的物理學步伐。現在，他是一名醫生，他的患者們並不在乎他的診斷速度，只要聽起來就可以。現在，非常依賴於感知使物理學變得困難，這是有用的。他正在處理眼前的現實-心律律動，呼吸聲，臉紅或蒼白-醫生必須注意並稱重的無數細節。觸摸，視覺和聽覺必須是他運用自己的經驗或書本上的智慧的最終指導。研究醫學，醫學院係以及復雜的專業需要直觀的知識；但是，作為家庭醫生，感應類型就各有千秋，而且他們對物理學的天賦與他們的能力幾乎沒有關係。約翰霍普金斯大學很久以前就認識到這種差異，並為醫學預科生開設了特殊的物理課程。常規課程取消了重要學生的資格。(Google 翻譯)  
+在這裡，我想舉一個略帶諷刺意味的例子，有個學生既認真又努力，成績基本屬於 B 級，他想成為一名醫生，而他的人格類型是 ISFJ (內傾感覺情感判斷型)，也確實很適合從事醫療行業。但是當初考醫學院的時候，他完全跟不上 "工程物理學" 這門醫學預科課程，考試也沒有及格。現在，他已經如願成了一名醫生，他的患者們從不在意他的診斷速度是否夠快，只在乎最終的診斷結果是否準確。當初導致他考試掛掉的感覺型思維習慣，如今卻在工作中派上用場了。在診療過程中，他需要注意和判斷的就是患者的心跳、呼吸和臉色等具體細節。無論是發揮自己的臨床經驗還是運用書本中的理論知識，在面對具體的病患時，醫生都必須以實際的觸覺、視覺和聽覺信息為準。藥劑研究者、醫科教師或者其他領域的專家也許需要敏銳的直覺，但感覺型的人作為家庭醫生自有其優勢，他們也許不擅長物理學，但這並不意味他們不能成為優秀家庭醫生。約翰．霍普金期大學很早就意識到了這種狀況，因此該校為醫學預科班的學生開設了專門的物理學課程，而之前的常規物理課程已不再納入醫學院的入校考核體系了。(第1翻)  
 
 When the time comes that educators take into account the SN preference and try to meet the divergent needs of students, beginning with kindergartners, there will be a much happier and more effective use of human resources. Young realists will no longer be penalized for their reliance on direct observation and first-hand experience -- as Charles Darwin was in his boyhood, when his classical schoolmasters rated him below average in mental power.  
 當教育工作者考慮到SN偏好並嘗試滿足學生的不同需求的時候到來（從幼稚園開始），將會有更快樂，更有效地利用人力資源。年輕的現實主義者將不再因其依賴直接觀察和第一手經驗而受到懲罰-就像查爾斯·達爾文（Charles Darwin）少年時代那樣，當時他的古典校長將他的心理能力評為低於平均水平。(Google 翻譯)  
+如果從幼兒園開始，教育工作者們就關注學生的感知偏好，並將不同感知偏好的學生的需求差異都考慮在內，那麼，這個社會的人才資源必將得到更愉快也更高效的利用。到那時，偏好感覺的孩子將再也不會因為對直接觀察和親身體驗的依賴而受到責罰。要知道，在達爾文還是學生的時候，他那古板的校長就為此斷定其智商有問題。(第1翻)  
 
 A summary of the contrasting traits resulting from the SN preference is given here in parallel columns in Figure 25. These traits are most evident in the EP types, whose perceptive process is both extraverted and dominant and consequently most visible and least restrained. When the perceptive process is merely the auxiliary, it is subordinate to the judgment of the dominant process, and its mainifestations tend to be more moderate.  
 SN偏好導致的對比特徵的摘要在此處的圖25的平行列中給出。這些特徵在EP類型中最為明顯，其感知過程既是外向性的又是主導性的，因此最明顯且受最少的限制。當知覺過程僅僅是輔助過程時，它服從於對主導過程的判斷，其表現形式往往更為溫和。(Google 翻譯)  
-
+在 圖-25 中，我們總結了 "感覺型" (S) 和 "直覺型" (N) 個體的不同特質。這些不同之處在外傾感知型 (EP) 個體身上表現得格外明顯，因為 EP 型個體的感知心理功能既明顯地表現在外部世界，又作為主導心理功能體現在他們的生活風格上。如果感知只是個體的輔助心理功能，它就必須服從處於主導地位的判斷心理功能，這樣的話，這些由不同感知偏好所導致的差異也就不會那麼明顯了。(第1翻)  
 
 ------------------
 | **Sensing Types** | **Intutive Types** |
@@ -111,3 +114,18 @@ SN偏好導致的對比特徵的摘要在此處的圖25的平行列中給出。�
 ------------------
 **圖-25 感覺與直覺偏好的效應區別**
 (Google 翻譯)  
+
+------------------
+| **感覺型(S)** | **直覺型(N)** |
+| ----- | ----- |
+| 觀察生活很敏銳，追求快樂。 | 對生活充滿期待，追求靈感。 |
+| 能夠敏銳地感知到各種類型的信息，對外部環境的情況了如指掌；非常善於觀察、但缺乏想象力。 | 只有當感官信息與自己當下的靈感一致時，才會全身心地去感知並觀察環境；擁有天馬行空的想象力，但缺乏觀察能力。 |
+| 天生的享樂者和消費者，全然接受並熱愛生活本身，常常自得其樂。 | 天生的開創者、創新者和推動者；對生活本身的興趣不大，接受度也不高，不太會享受生活，總是躁動不安。 |
+| 追求掌控和享樂，因為善於觀察，所以常常模仿他人，別人有什麼自己也想要，別人做什麼自己也想做，對物質環境的依賴信很強。 | 關注機遇和可能性，因為善於想象，所以做事富有創意，不在乎別人有什麼或做什麼，也不依賴物質環境。 |
+| 極度厭惡與感覺無關的工作，很難為了長遠利益而犧牲眼前的享樂。 | 極兖厭惡處處需要感覺的工作，他們既沒有活在當下，也不享受當下，因此能夠為了更好的未來而最大限度地放棄眼前的享樂。 |
+| 優先考慮當下的生活藝術，對事業成就並不熱衷。 | 寧願為事業感到喜悅和成就，對於當下生活的藝術和樂趣毫不關心。 |
+| 熱衷於各種享受和娛樂活動，追求舒適、奢侈和美婕的東西，並因此推動著社會的發展。 | 在與人類利益息息相關的領域能充份發揮自己的創造性和主觀能動性，展現出卓越的實幹精神和領導能力，並因此推動著社會的發展。 |
+| 需要充分發展自己的判斷心理功能，使之與感知心理功能保持平衡，才能避免流於輕浮。 | 需要充分發展自己的判斷心理功能，使之與感知心理功能保持平衡，否則的話很容易三心二意、變化無常且缺乏毅力。 |
+------------------
+**圖-25 感覺與直覺偏好的效應區別**
+(第1翻)  
