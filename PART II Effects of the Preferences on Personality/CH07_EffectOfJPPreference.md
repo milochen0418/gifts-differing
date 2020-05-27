@@ -28,50 +28,50 @@ Thus well-balanced individuals must always have perception to support their judg
 因此，均衡的個人必須始終具有支持自己的判斷力的感知力和支持自己的感知力的判斷力。 Tjhey仍將保留其基本偏愛及其提供的品質。 判斷力包括：
 
 - *System in doing things.* It is natural for a judging type to decide what is the best way of doing a thing and then consistently do it that way. The thinking process tries for the most logical method; the feeling process for hte most pleasing, suitable, or proper method.  
-*做事中的系統。*對於判斷類型來說，確定什麼是做某事的最佳方法，然後始終如一地做是很自然的。 思維過程會嘗試最合乎邏輯的方法； 最令人愉悅，最合適或最合適的方法的感覺過程。
+*做事中的系統*。對於判斷類型來說，確定什麼是做某事的最佳方法，然後始終如一地做是很自然的。 思維過程會嘗試最合乎邏輯的方法； 最令人愉悅，最合適或最合適的方法的感覺過程。
 
 - *Order in possessions.* It is a judging sentiment that order is Heaven's first law. Thinking types believe in orderliness for utiliarian reasons. TJ types may have eerything inside their bureau drawers neatly classified in boxes but not concern themselves with the state of the bureau top; FJ types, more esthetically inclined, are almost certain to have the top neat, too.  
-*擁有財產的秩序。*判斷是秩序是天堂的第一定律。 思維類型出於功利性原因而相信秩序。 TJ類型的人員在他們的辦公室抽屜中可能有很多東西，它們整齊地分類在盒子中，但並不關心辦公室頂部的狀態。 FJ類型，從審美角度來看，更傾向於頂部整潔。
+*擁有財產的秩序*。判斷是秩序是天堂的第一定律。 思維類型出於功利性原因而相信秩序。 TJ類型的人員在他們的辦公室抽屜中可能有很多東西，它們整齊地分類在盒子中，但並不關心辦公室頂部的狀態。 FJ類型，從審美角度來看，更傾向於頂部整潔。
 
 - *The planned life.* Order applied to one's activities means programs and schedules. The judging types decide in advance what they intend to accomplish, and they make careful and sometimes very long-range plans. FJs tend to have the fullest schedules because of their many social activities.  
-*計劃壽命。*應用於某人活動的順序表示計劃和時間表。 評審類型會預先決定要完成的工作，並且會制定謹慎的計劃，有時甚至是非常長遠的計劃。 FJ由於其許多社交活動而往往擁有最充分的日程安排。
+*計劃壽命*。應用於某人活動的順序表示計劃和時間表。 評審類型會預先決定要完成的工作，並且會制定謹慎的計劃，有時甚至是非常長遠的計劃。 FJ由於其許多社交活動而往往擁有最充分的日程安排。
 - *Sustained effort.* Having once decided to do a thing, the judging types continue to do it. This application of willpower results in impressive accomplishments. The tortoise in the race was certainly a judging type. The hare, becuase he liked to operate in tremendous spurts, was probably an extraverted intuitive but lacked adequate judgment.  
-*持續努力。*一旦決定做某事，評委類型將繼續做。 意志力的這種應用取得了令人矚目的成就。 比賽中的烏龜無疑是一種判斷。 野兔，因為他喜歡突飛猛進，可能是一種外向的直覺，但缺乏足夠的判斷力。
+*持續努力*。一旦決定做某事，評委類型將繼續做。 意志力的這種應用取得了令人矚目的成就。 比賽中的烏龜無疑是一種判斷。 野兔，因為他喜歡突飛猛進，可能是一種外向的直覺，但缺乏足夠的判斷力。
 
 - *Decisiveness.* Note everyone who lives in the judging attitude enjoys the actual makeing of decisions. Some simply dislike to have things remain undecided. These are more likely to be feeling types than thinkers.  
-*果斷。*請注意，每個以評判態度生活的人都喜歡實際的決策。 有些人根本不喜歡讓事情變得不確定。 與思想家相比，這些人更可能是情感類型。
+*果斷*。請注意，每個以評判態度生活的人都喜歡實際的決策。 有些人根本不喜歡讓事情變得不確定。 與思想家相比，這些人更可能是情感類型。
 
 - *Exercise of authority.* The judging types want to see other people conform to their standards and are usually glad to advise them. The TJ people often have better executive and organizing abilities, but where the rules are firmly laid down, the FJs can be very good at gentle enforcement. Of 124 school administrators cited by von Fange (1961), 86 percent were J.  
-*行使權力。*評審類型希望看到其他人符合他們的標準，並且通常很樂意為他們提供建議。 TJ人員通常具有更好的執行和組織能力，但是如果規則很牢固，FJ就會很善於輕柔地執行。 馮·範格（1961）引用的124位學校管理人員中，有86％是J。
+*行使權力*。評審類型希望看到其他人符合他們的標準，並且通常很樂意為他們提供建議。 TJ人員通常具有更好的執行和組織能力，但是如果規則很牢固，FJ就會很善於輕柔地執行。 馮·範格（1961）引用的124位學校管理人員中，有86％是J。
 
 - *Settled opinions.* Judging types usually know what they think about everything they consider worth thinking about.  
-*和解意見。*評判類型通常會知道他們對所有值得考慮的事物的想法。
+*和解意見*。評判類型通常會知道他們對所有值得考慮的事物的想法。
 
 - *Acceptance of routine.* Acceptance of routine is put last because any marked development of intuition is apt to cancel it out, but judging types with sensing seem able to take routine more philosophically than any of the other types. Among the gifts of perception are:  
-*接受例行程序。*接受例行程序是最後一次，因為直覺的任何顯著發展都傾向於將其消除，但是用感覺來判斷的類型似乎比其他任何類型的方法在哲學上都更容易接受。 感知的禮物包括：
+*接受例行程序*。接受例行程序是最後一次，因為直覺的任何顯著發展都傾向於將其消除，但是用感覺來判斷的類型似乎比其他任何類型的方法在哲學上都更容易接受。 感知的禮物包括：
 
 - *Spontaneity.* Spontaneity is the ability to take whole-heartedly the experience or enlightenment of the present moment, even though  some intended thing goes undone. Perceptive types believe it can be more important to go and look at a bird's nest that the children have found, or to take time out to help hunt up the answer to a question, or listen to a confidence with one's whole heart, thatn to have a meal on time.  
-*自發性。*自發性是一種能夠全心全意地吸收當前時刻的經驗或啟示的能力，即使某些預期的事情沒有完成。 有洞察力的人認為，去看孩子發現的燕窩，或者抽出時間來幫助尋找問題的答案，或者全心全意地傾聽，以擁有 準時吃飯。
+*自發性*。自發性是一種能夠全心全意地吸收當前時刻的經驗或啟示的能力，即使某些預期的事情沒有完成。 有洞察力的人認為，去看孩子發現的燕窩，或者抽出時間來幫助尋找問題的答案，或者全心全意地傾聽，以擁有 準時吃飯。
 
 - *Open-mindedness.* Perception involves a certain hospitality of mind, a willingness to admit to consideration of new facts, ideas, and proposals, even though they involve the reopening of decisions or opinions. The perceptive types leave many decisions and opinions standing wide open in expectation of new information.  
-*思想開放。*感知涉及到一定的待客之道，願意接受對新事實，新思想和新提議的考慮，即使它們涉及重新開放決策或觀點。 感知類型使許多決策和觀點在期待新信息的情況下敞開。
+*思想開放*。感知涉及到一定的待客之道，願意接受對新事實，新思想和新提議的考慮，即使它們涉及重新開放決策或觀點。 感知類型使許多決策和觀點在期待新信息的情況下敞開。
 
 - *Understanding.* Perception is applied to people in order to understand their point of view rather than to pass judgment on their actions. Parents who take the perceptive attitude with their children whenever possible will be entrusted with many more confidences than parents who have an immediate (and usually critical) opinion about everything they are told. The comparatively rare pronouncements of the perceptive parents will be accorded more respect,  because the parents will have done enough listening to appreciate the situation.<br>
 A *generally* perceptive attitude is perfectly consistent with firm parental discipline. Discipline is needed to enforce the fundamentals, preferably a few fundamentals. If children observe those faithfully, they are acceptable members of society, and just like grown-ups, they are entitled to be spared a running commentary on their every act.  
-- *了解。*感知應用於人們是為了理解他們的觀點，而不是對他們的行為做出判斷。 與那些對所告訴的一切有立即（通常是批評性的）觀點的父母相比，在任何可能的情況下對孩子採取感知態度的父母將被賦予更多的信心。 家長會做出更多的尊重，因為父母會傾聽足夠多的聲音來欣賞情況。<br>
+- *了解*。感知應用於人們是為了理解他們的觀點，而不是對他們的行為做出判斷。 與那些對所告訴的一切有立即（通常是批評性的）觀點的父母相比，在任何可能的情況下對孩子採取感知態度的父母將被賦予更多的信心。 家長會做出更多的尊重，因為父母會傾聽足夠多的聲音來欣賞情況。<br>
 *一般*的感知態度與堅定的父母紀律完全一致。 需要紀律來加強基本原則，最好是一些基本原則。 如果孩子們忠實地遵守這些原則，那麼他們就是社會上可以接受的成員，就像大人一樣，他們有權免於對其行為的評論。
 
 - *Tolerance.* The "live and let live" attitude arises partly from reluctance to settle things for other people and partly from perceptive recognition that there can be a variety of legitimate standards. Tolerance grows dangerous only when carried to the extreme of condoning actual *lack* of standards in some essential field.  
-*寬容。*“生與活”的態度部分源於不願為他人解決問題，部分源於對各種合法標準的敏銳認知。 只有在某些必不可少的領域中容忍標準的實際“不足”時，公差才變得危險。
+*寬容*。“生與活”的態度部分源於不願為他人解決問題，部分源於對各種合法標準的敏銳認知。 只有在某些必不可少的領域中容忍標準的實際“不足”時，公差才變得危險。
 
 - *Curiosity.* One of the liveliest gifts of the perceptive types is the expectation that what they do not yet know will be interesting. Curiosity leads them into many byways of knowledge and experience and into amassing astonishing stores of information. It also wards off boredom, as it finds something of interest in almost any situation.  
-*好奇心。*這種敏銳類型最生動的禮物之一就是期望他們還不知道會變得有趣。 好奇心使他們進入許多知識和經驗的途徑，並積累了大量驚人的信息。 它還可以避免無聊，因為它幾乎可以在任何情況下找到一些有趣的東西。
+*好奇心*。這種敏銳類型最生動的禮物之一就是期望他們還不知道會變得有趣。 好奇心使他們進入許多知識和經驗的途徑，並積累了大量驚人的信息。 它還可以避免無聊，因為它幾乎可以在任何情況下找到一些有趣的東西。
 
 - *Zest for experience.* Another expectation of the perceptives is that what they have not yet done is going to be interesting. They may refuse a new experience on grounds of taste or principle or in favor of a more compelling attraction, but seldom because it is "not worth doing," as the judging types say.  
-*對經驗的熱情。*對感知器的另一個期望是，他們尚未做的事情將會變得有趣。 他們可能會出於品味或原則而拒絕新體驗，或者傾向於吸引人的吸引力，但是很少有人會因為評判類型的說法而認為“不值得這樣做”。
+*對經驗的熱情*。對感知器的另一個期望是，他們尚未做的事情將會變得有趣。 他們可能會出於品味或原則而拒絕新體驗，或者傾向於吸引人的吸引力，但是很少有人會因為評判類型的說法而認為“不值得這樣做”。
 
 - *Adaptability.* The perceptive handles a difficulty by adapting the available means for the achievement of the essential ends. One very perceptive woman cherishes a compliment from her judging husband on how effectively she reassembles the fragments of a situation when something unforeseen upsets all the existing arrangements. Because she is never tied to the old plan, she is free to improvise a new one to meet the altered conditions, and enjoys doint it.   
-*適應性。*感知者通過適應實現基本目的的可用手段來處理困難。 一位非常有洞察力的婦女對她的評判丈夫表示稱讚，稱她在無法預料的情況下破壞了所有現有安排的情況下，如何有效地重組了局勢的碎片。 因為她從未與舊計劃捆綁在一起，所以她可以自由地為滿足變更後的條件而臨時制定一個新計劃，並且喜歡這樣做。
+*適應性*。感知者通過適應實現基本目的的可用手段來處理困難。 一位非常有洞察力的婦女對她的評判丈夫表示稱讚，稱她在無法預料的情況下破壞了所有現有安排的情況下，如何有效地重組了局勢的碎片。 因為她從未與舊計劃捆綁在一起，所以她可以自由地為滿足變更後的條件而臨時制定一個新計劃，並且喜歡這樣做。
 
 In considering the qualities listed above, readers may have difficulty evaluating their own JP preference because of an inconsistency between what they feel they should do, what they actually do, and what they naturally tend to do. It is the natural tendency that reveals the basic preference. A person's idea of what is right may be an acquired ideal, borrowed from another type, and the person's actual behavior may reflect a somewhat uncongenial good habit learned from parents or accepted because of the person's own dogged efforts.  
 在考慮上述質量時，讀者可能難以評估自己的JP偏好，因為他們認為應該做的事情，實際要做的事情以及他們自然傾向於做的事情之間不一致。 揭示基本偏好的是自然趨勢。 一個人對正確事物的想法可能是一種獲得的理想，是從另一種類型借鑒而來的，並且該人的實際行為可能反映出從父母那裡學到的，或者由於該人自己的頑強努力而被接受的一種不太友善的好習慣。
