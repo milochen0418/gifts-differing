@@ -33,4 +33,17 @@ The effect of the interaction  of the preferred processes is made apparent when 
 ------------------
 **Figure 29 Comparison of Extraverted and Introverted Feeling**  
 
+------------------
+| **Extraverted Sensing** | **Introverted Sensing** |
+| ----- | ----- |
+| Suppresses as far as possible the subjective element of the sense impression. | Suppresses as afar as possible the objective element of the sense impression. |
+| Values the object sensed rather than the subjective impression, of which the individual may hardly be aware. | Values the subjective impression released by the object rather than the object itself, of which the individual may hardly be aware. |
+| Sees things photographically, the impression being one of concrete reality and nothing more, The "primrose by a river's brim" is simply a primrose. | Sees things highly colored by the subjective factor, the impression being merely suggested by the object and coming out of the unconscious in the form of some meaning or significane. |
+| Leads to concrete enjoyment, seizing very fully the momentary and manifest existence of things, and that only. | Leads to ideas, through the activation of archetypes, seizing the background of the physical world rather than its surface. |
+| Develops attention that is riverted by the strongest stimulus, which invariably becomes the center of interest, so that life seems wholly under the influence of accidental outer happenings. | Develops attention that is very selective, guided wholly by the inner constellation of interests, so that it is impossible to predict what outer stimulus will catch and hold attention. |
+| Develops a pleasure-loving outer self, very rich in undigested experience and unclassified knowledge of uninterpreted facts. | Develops an extremely eccentric and individual inner self, which sees things other people do not see, and may appear very irrational. |
+| Must be balanced by introverting judgment, or it makes a shallow, wholly empirical personality, with many superstitions and no morality except collective conventions and taboos. | Must be balanced by extraverting judgment, or it makes a silent, inaccessible personality, wholly uncommunicative, with no conversation except conventional banalities about the weather and other collective interests. |
+------------------
+**Figure 30 Comparison of Extraverted and Introverted Sensing**  
+
 
