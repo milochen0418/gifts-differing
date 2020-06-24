@@ -20,3 +20,17 @@ The effect of the interaction  of the preferred processes is made apparent when 
 **Figure 28 Comparison of Extraverted and Introverted Thinking**  
 
 
+------------------
+| **Extraverted Feeling** | **Introverted Feeling** |
+| ----- | ----- |
+| Is determined chiefly by the objective factor and serves to make the individual feel correctly, that is, conventionally, under all circumstances. | Is determined chiefly by the subjective factor and serves as a guide to the emotional acceptance or rejection of various aspects of life. | 
+| Adapts the individual to the objective situation. | Adapts the objective situation to the individual by the simple process of excluding or ignoring the unacceptable. |
+| Depends wholly upon the ideals, conventions, and customs of the environment, and is extensive rather than deep. | Depends upon abstract feeling -- ideals such as love, patriotism, religion, and loyalty, and is deep and passionate rather than extensive. |
+| Finds soundness and value outside of the individual in the collective ideals of the community,  which are usually accepted without question | Finds soundness and value inside one's self from one's own inner wealth and powers of appreciation and abstraction. |
+| Has as its goal the formation and maintenance of easy and harmonious emotional relationships with other people. | Has as its goal the fostering and protection  of an intense inner emotional life, and, so far as possible, the outer fulfillment and realization of the inner ideal. |
+| Expresses itself easily and so shares itself with others, creating and arousing similar feeling and establishing warm sympathy and understanding | May be too overpowering to be expressed at all, creating a false appearance of coldness to the point of indifference, and may be completely misunderstood. |
+| Has a tendency to suppress the personal standpoint entirely, and presents the danger of becoming a feeling personality, giving the effect of insincerity and pose. | Has a tendency to find no objective fulfillment or realization -- or outlet -- for expression, and presents the danger of living upon sentiment, illusion, and self-pity. |
+------------------
+**Figure 29 Comparison of Extraverted and Introverted Feeling**  
+
+
