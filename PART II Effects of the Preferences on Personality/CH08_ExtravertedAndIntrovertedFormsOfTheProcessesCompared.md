@@ -46,4 +46,15 @@ The effect of the interaction  of the preferred processes is made apparent when 
 ------------------
 **Figure 30 Comparison of Extraverted and Introverted Sensing**  
 
-
+------------------
+| **Extraverted Intuition** | **Introverted Intuition** |
+| ----- | ----- |
+| Uses the inner understanding in the interests of the objective situation. | Uses the objective situation in the interests of the inner understanding. |
+| Regards the immediate situation as a prison from which escape is urgently necessary and aims to escape by means of some sweeping change in the objective situation. | Regards the immediate situation as a prison from which escape is urgently necessary and aims to escape through some sweeping change in the subjective understanding of the objective situation. |
+| Is wholly directed upon outer objects, searching for emerging possibilities, and will sacrifice all else for such possibilities when found. | Receives its impetus from outer objects but is never arrested by external possibilities, being occupied rather by searching out new angles for viewing and understanding life. |
+| May be artistic, scientific, mechanical, inventive, industrial, commercial, social, political, or adventurous. | May be creative in any field: artistic, literary, scientific, inventive, philosophical, or religious. |
+| Finds self-expression natual and easy. | Finds self-expression difficult. |
+| Finds its greatest value in the promotion and initiation of new enterprises. | Finds its greatest value lies in the interpretation of life and the promotion of understanding. |
+| Requires the development of balancing judgment not only for the criticism and evaluation of the intuitive enthusiasms but also to hold it to the completion of its various activities. | Requires the development of balancing judgment not only for the criticism and evaluation of intuitive understanding but to enable it to impart its visions to others and bring them to practical usefulness in the world. |
+------------------
+**Figure 31 Comparison of Extraverted and Introverted Intuition**  
