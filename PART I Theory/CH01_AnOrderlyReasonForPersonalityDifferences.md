@@ -89,7 +89,7 @@ The following paragraphs sketch the contrasting personalities that are expected 
 
 The ST (sensing plus thinking) people rely primarily on sensing for purposes of perception and on thinking for purposes of judgment. Thus, their main interest focuses upon facts, because facts can be collected and verified directly by the senses -- by seeing, hearing touching, counting, weighing, measuring. ST people approach their decisions regarding these facts by impersonal analysis, because of their trust in thinking, with its step-by-step logical process of reasoning from cause to effect, from premise to conclusion.  
 ST（感知加思考）人員主要依靠感知來實現感知，並依靠思維來進行判斷。 因此，他們的主要興趣集中在事實上，因為可以通過感官直接收集和驗證事實-通過查看，聆聽觸摸，計數，稱重，測量來驗證事實。 ST人員基於對思維的信任，並通過逐個邏輯推理過程，從因果關係到從前提到結論，通過非個人化分析來對這些事實做出決策。(Google 翻)  
-感覺思考型 (ST) 個體鋹要依靠 "感覺 (Sensing)" 來獲取信息，並通過 "思考 (Thinking)" 對信息進行判斷。因此，他們往往對事實很感興趣，因為事實可以通過視覺、聽覺、觸覺、計算、稱重和測量等方式獲得。在進行判斷和決策時，ST 型個體會客觀地分析自己所掌握的信息，他們信賴思考  ，習慣通過一步步的邏輯推理來驗証自己的假設，近而得出最終的結論。(第1翻)  
+感覺思考型 (ST) 個體主要依靠 "感覺 (Sensing)" 來獲取信息，並通過 "思考 (Thinking)" 對信息進行判斷。因此，他們往往對事實很感興趣，因為事實可以通過視覺、聽覺、觸覺、計算、稱重和測量等方式獲得。在進行判斷和決策時，ST 型個體會客觀地分析自己所掌握的信息，他們信賴思考  ，習慣通過一步步的邏輯推理來驗証自己的假設，近而得出最終的結論。(第1翻)  
 
 In consequence, their personalities tend to be practical and matter-of-fact, and their best chances of success and satisfaction lie in fields that demand impersonal analysis of concrete facts, such as economics, law, surgery, business, accounting, production,  and the handling of machines and materials.  
 結果，他們的性格趨向於務實，事半功倍，他們成功和滿意的最佳機會就在於那些需要對具體事實進行非人為分析的領域，例如經濟學，法律，外科，商業，會計，生產和 機器和材料的處理。(Google 翻)  
