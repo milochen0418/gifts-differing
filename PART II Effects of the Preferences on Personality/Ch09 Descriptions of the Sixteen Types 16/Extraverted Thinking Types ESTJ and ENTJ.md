@@ -28,3 +28,15 @@ There is another reason why the thinkers should, for their own sake, practice th
 
 Extraverted thinkers are convinced by reasoning, and when they are convinced, that is quite an accomplishment, because when they decide to do something, it gets done.  
 
+## Extraverted Thinking Supported by Sensing  
+
+ESTJs look at the owrld with sensing rather than intuition; hence, they are most interested in the realities perceived by their five senses, so they tend to be matter-of-fact and practical, receptive and retentive of factual detail, tolerant of routine, deft at mechanical things, realistic, and concerned with the here and now. Their thinking process appears deliberate, because it often is actual thinking, rather than the shortcut that is frequently furnished by intuition.  
+
+The curiosity of an ESTJ is stirred mainly by new things that appeal directly to the senses --- now objects, gadgets or contrivances, new physical activities, new people, new houses, new food, and new scenery.  New things that cannot be grasped through the senses -- abstract ideas and theories -- seem less real and are much less acceptable. Anything intangible is rather distasteful, as it undermines the security of a factual world in which people can be sure of their judgments.  
+
+The ESTJs solve problems by expertly applying and adapting past experience. They like work where they can achieve immediate, visible, and tangible results. They have a natural bent for business and industry, production and construction. They enjoy administration and getting things organized and done. Executives of this type prefer to base plans and decisions on established facts and procedures; they do not listen to their own intuition very much , and may need an intuitive around to point out the value of new ideas.  
+
+This is perhaps the most traditionally "masculine" type and includes more men than any other.  
+
+## Extaverted Thinking Supported by Intuition  
+
