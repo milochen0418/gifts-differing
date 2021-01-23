@@ -40,3 +40,8 @@ This is perhaps the most traditionally "masculine" type and includes more men th
 
 ## Extaverted Thinking Supported by Intuition  
 
+ENTJs look at the world with intuition rather than sensing, so they are mainly interested in the possibilities beyond the present, obvious, or known. Intuition heightens their intellectual interest, curiosity about new ideas (whether immediately useful or not), tolerance for theory, taste for complex problems, insight, vision and concern for long-range possibilities and consequences.  
+
+ENTJs are seldom content in a job that makes no demand on intuition. They need problems to solve and are likely to be expert at finding new solutions. Their interest is in the broad picture, however, not in detailed procedures or facts.  
+
+Executives of this type are likely to surround themselves with other intuitives, because they like people who are quick on the uptake, with minds that work in the same fashion as their own, but they do well to have at least one good sensing type on their staff to keep them from overlooking relevant facts and important details.  
