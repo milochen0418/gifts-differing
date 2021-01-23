@@ -24,4 +24,7 @@ The basic mistake here is the infliction of one's own judgment on other people. 
 
 Against that background, any suggestions can be carried out with better grace than would otherwise be the case. Everyone likes to be treated perceptively, but it is especially important with subordinates, who cannot fight for their own viewpoints, and with children, husbands, and wives, who can do so only at expense of family peace.  
 
-There is another reason why the thinkers should, for their own sake, 
+There is another reason why the thinkers should, for their own sake, practice the perceptive attitude. If they let thinking judgement dominate their every waking moment, their feeling will be too suppressed to be of any use to them. It may even acutely embarrass them at times by unexpected explosions of temper which consciously they would never "think" of committing. If they cultivate perception, however, by now and then turning off their thinking judgment, they give feeling a constructive outlet before it reaches the boiling point.  
+
+Extraverted thinkers are convinced by reasoning, and when they are convinced, that is quite an accomplishment, because when they decide to do something, it gets done.  
+
