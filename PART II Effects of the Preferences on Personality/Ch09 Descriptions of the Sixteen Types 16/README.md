@@ -4,7 +4,7 @@
 ## [Extraverted Thinking Types ESTJ and ENTJ](https://github.com/milochen0418/gifts-differing/blob/master/PART%20II%20Effects%20of%20the%20Preferences%20on%20Personality/Ch09%20Descriptions%20of%20the%20Sixteen%20Types%2016/Extraverted%20Thinking%20Types%20ESTJ%20and%20ENTJ.md) 外傾思考型: ESTJ 和 ENTJ
 ### Extraverted Thinking Supported by Sensing 被感覺輔佐的 外傾思考型 (ESTJ)
 ### Extraverted Thinking Supported by Intuition 被直覺輔佐的 外傾思維型 (ENTJ)
-## Introverted Thinking Types ISTP and INTP 內傾思考型: ISTP 和 INTP
+## [Introverted Thinking Types ISTP and INTP](https://github.com/milochen0418/gifts-differing/blob/master/PART%20II%20Effects%20of%20the%20Preferences%20on%20Personality/Ch09%20Descriptions%20of%20the%20Sixteen%20Types%2016/Introverted%20Thinking%20Types%20ISTP%20and%20INTP.md) 內傾思考型: ISTP 和 INTP
 ### Introverted Thinking Supported by Sensing 被感覺輔佐的 內傾思考型 (ISTP)
 ### Introverted Thinking Supported by Intuition 被直覺輔佐的 內傾思考型 (INTP)
 ## Extraverted Feeling Types ESFJ and ENFJ 外傾思考型: ESFJ 和 ENFJ
