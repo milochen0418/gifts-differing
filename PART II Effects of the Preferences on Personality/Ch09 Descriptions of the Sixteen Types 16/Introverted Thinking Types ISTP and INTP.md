@@ -29,5 +29,21 @@ With nontechnical interests, the ISTPs can use general principles to bring order
 
 Some ISTPs, especially young ones, are great believers in economy of effort. This belief can contribute to their efficiency if they judge accurately how much effort is needed and proceed promptly to exert that much effort. However, if they understimate or underperform, economy of effort can come perilously close to laziness, and little may get done.  
 
+## Introverted Thinking Supported by Intuition  
+
+INTPs make scholars, theorists, and abstract thinkers in fields such as science, mathematics, economics, and philosophy. INTPs are perhaps the most intellectually profound of all the types. Intuition brings a deeper insight than is granted to thinking alone. It gives its possessors intellectual curiosity, quickness of understanding , ingenuity and fertility of ideas in dealing with problems, and an extra glimpse of possibilities that logic has not yet had time to reach. On the debit side, intuition makes routine harder, though an intuitive may, in the coure of a lifetime, achieve a sufficient adaptation to it.  
+
+People of the InTP type, therefore, are particularly adapted to research and the attainment of new clarities. They are quite likely to be more interested in analyzing a prolbem and discovering where the solution lies than in carrying out their ideas. They formulate principles and create theories; they value facts only as evidence or as examples for a theory, never for their own sake.  
+
+A psychology professor of this type explained to an extraverted student, "This paper is perfectly correct, but you have put so much more stress on the facts than on the principle that it is obvious that you consider the facts the most important part. Therefore, your mark is a "B."  The student was far more indignant over the reason than over the grade. "But of course the facts are the most important part," she said.  
+
+Many scholars of this type are teachers, especially on the university level, because the university values their attainments, and they them selves value the opportunity for study and research; but it is characteristic of their teaching that they care more for the subject than for the students. Gauss, the great mathematician, found teaching so painful that he tried to discourage all prospective students by telling them that the course about which they were inquiring would probably not be given at all.  
+
+The problem of communication also hampers their teaching. When confronted by a simple question that needs a simple answer, the introverted thinkers feel bound to state the xact truth, with every qualification that their scholarly consciences dictate; the answer is so exact and so complicated that few can follow it. If the teachers would scale down their explanation until it seemed, in their own opinion, too simple and obvious to be worth saying, they would have it just about right for general consumption.  
+
+INTP executives are probably rare outside scientific or academic circles. The good executives will be those who have acquired a very definite facility at extraversion sufficient to keep them in touch with the situations they must handle. Exercising their authority in a perceptive manner, such InTPs will use ingenuity and understanding to find ways of achieving the desired ends. But they will test every proposed measure by the exacting yardstick of their principles, so that whatever they direct will emboby their own integrity.  
+
+The temptation for InTPs (as well as for extraverts with intuition) is to assume that an attractive possibility suggested by their intuition is as possible as it looks. They need to check out even their most attractive intuitive projects against the relevant facts and the limitations these facts impose. Otherwise they may find too late that they have squandered their energies in pursuit of an impossibility.  
+
 
 
