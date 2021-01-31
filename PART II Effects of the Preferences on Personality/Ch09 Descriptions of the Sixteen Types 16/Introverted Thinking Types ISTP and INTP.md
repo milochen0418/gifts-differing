@@ -21,3 +21,13 @@ With introverted thinkers, as with all introverts, the choice of the auxiliary p
 
 Choice of the auxiliary process also affects the use that will be made of the dominant process, because the kind of perception employed determines in large part what elements of the outer world will be brought to the attention of the ruling thinking. If sensing makes the selection, the material presented will be more tangible and concrete, often involving mechanics or statistics but in any case factual. If intuition does the choosing, the material will be more theoretical and abstract, giving scope for the exercise of insight and orignality.  
 
+## Introverted Thinking Supported by Sensing  
+
+ISTPs have a vested interest in practical and applied science, especially in the ffield of mechanics. Of all the processes, sensing provides for the greatest understanding of the visible and tangible properties of matter, how it behaves, what you can and cannot do with it. People of this type are likely to be good with their hands, which is a genuine asset in the practical application of scientific principles.  
+
+With nontechnical interests, the ISTPs can use general principles to bring order out of confused data and meaning out of unorganized facts. The capacity of sensing to absorb fact and detail can be very useful to ISTPs who work in the filed of economics, as securities analysts, or as market and sales analysts in business and industry -- in short, in dealing with statistics in any field.  
+
+Some ISTPs, especially young ones, are great believers in economy of effort. This belief can contribute to their efficiency if they judge accurately how much effort is needed and proceed promptly to exert that much effort. However, if they understimate or underperform, economy of effort can come perilously close to laziness, and little may get done.  
+
+
+
