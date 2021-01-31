@@ -1,0 +1,23 @@
+# Introverted Thinking Types ISTP and INTP 
+. Are analytical and impersonal  
+. Are interested primarily in the underlying principles  
+. Are organized in relation to concepts and ideas (if INTP) or facts (if ISTP) -- but not people or situations, unless or necessity.   
+. Are perceptive, not dominating, as the decisiveness of the thinking usually shows only in intellectual matters.  
+. Are outwardly quiet, reserved, detached, perhaps even aloof except with intimates.  
+. Are inwardly absorbed in the current analysis or problem.  
+. Are inclined toward shyness, especially when young, as the chief interests of introverted thinking are little help in small talk or social contacts.  
+
+Introverted thinkers use their thinking to analyze the world, not to run it. Relying on thinking makes them logical, impersonal, objectively critical, not likely to be convinced by anything except reasoning. As introverts, they focus their thinking on the principles underlying things rather than on the things themselves. Because it is hard to switch their thinking from ideas to details of daily living, they lead their outer lives mainly with their preferred perceptive process, which makes them detachedly curious and quite adaptable -- until one of their ruling principles is violated, at which point they stop adapting.  
+
+They are likely to be persevering and independent of external circumstances to a marked degree, with a singleness of purpose that subordinates the social and emotional aspects of life to some long-term achievement of the mind. They may have difficulty in conveying their conclusions to the rest of the world and getting these accpted or even understood. Jung says the introverted thinker "will hardly ever go out of his way to win anyone's appreciation of his ideas ... He merely exposes them, and is often extremely annoyed when they fail to thrive on their own account" (1923, p. 486)  
+
+Introverted thinking applied to mathematics can be seen in Einstein; applied to philosophy, in Kant; applied to world affairs, in Woodrow Wilson; and applied to psychology, in Jung. In the industrial field, the introverted thinker's job should be to work out the needed principles underlying a problem or operation. Then other types can go ahead and do the operating. A sweeping application of the principles underlying mass production may be seen in the achievements of Henry Ford. (Ford always took great pains to preserve his independence of action and spare himself the necessity of converting others to his plans.)  
+
+To be effective, the introverted thinkers must have a good auxiliary process to supply perception in support of their thinking. If neither their sensing nor their intuition is serviceably developed, they will suffer a general deficit of perception, so that their thinking will not have enough to think about and consequently will be barren and unproductive. The lack of an adequate auxiliary process will leave them short on extraversion, too. They will have inadequate relationship to the outside world, even by introvert standards.  
+
+The least-developed process of the introverted thinkers inevitably is extraverted feeling. They are not apt to know, unless told, what matters emotionally to another person, but they can and should act on the principle that people do care about having their merits appreciated and their point of view respectfully considered. Both the working life and the personal life of the introverted thinkers will go better if they take the trouble to do two simple things: Say an appreciative word when praise is honestly due, and mention the points on which they agree with another person before they bring up the points on which they disagree.  
+
+With introverted thinkers, as with all introverts, the choice of the auxiliary process makes a great difference and colors the outward personality. In the ISTP combination, sensing will lend realism, matter-of-factness, sometimes an unexpected gift of fun for its own sake, often an interest in sports and outdoor recreation in general. In the InTP combination, intuition will lend subtlety, imagination, and a liking for projects and occupations demanding ingenuity.  
+
+Choice of the auxiliary process also affects the use that will be made of the dominant process, because the kind of perception employed determines in large part what elements of the outer world will be brought to the attention of the ruling thinking. If sensing makes the selection, the material presented will be more tangible and concrete, often involving mechanics or statistics but in any case factual. If intuition does the choosing, the material will be more theoretical and abstract, giving scope for the exercise of insight and orignality.  
+
