@@ -43,7 +43,7 @@ The problem of communication also hampers their teaching. When confronted by a s
 
 INTP executives are probably rare outside scientific or academic circles. The good executives will be those who have acquired a very definite facility at extraversion sufficient to keep them in touch with the situations they must handle. Exercising their authority in a perceptive manner, such InTPs will use ingenuity and understanding to find ways of achieving the desired ends. But they will test every proposed measure by the exacting yardstick of their principles, so that whatever they direct will emboby their own integrity.  
 
-The temptation for InTPs (as well as for extraverts with intuition) is to assume that an attractive possibility suggested by their intuition is as possible as it looks. They need to check out even their most attractive intuitive projects against the relevant facts and the limitations these facts impose. Otherwise they may find too late that they have squandered their energies in pursuit of an impossibility.  
+The temptation for INTPs (as well as for extraverts with intuition) is to assume that an attractive possibility suggested by their intuition is as possible as it looks. They need to check out even their most attractive intuitive projects against the relevant facts and the limitations these facts impose. Otherwise they may find too late that they have squandered their energies in pursuit of an impossibility.  
 
 
 
