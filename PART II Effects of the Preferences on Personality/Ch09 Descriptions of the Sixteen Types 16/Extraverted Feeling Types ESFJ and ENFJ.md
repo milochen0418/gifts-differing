@@ -27,5 +27,6 @@ One very unperceptive extraverted feeling type, who was having a great deal of t
   
 In the absence of adequate perception, the extraverted feeling types are prone to jump to conclusions and to act on assumptions that turn out to be wrong. They are especially likely to be blind to the facts when there is a disagreeable situation or painful criticism. It is harder for them than for other types to look squarely at things that they wish were not true; actually it is even hard for them to see such things at all. If they fail to face disagreeable facts, they will ignore their problems instead of finding good solutions.   
 
-
+## Extraverted Feeling Supported by Sensing  
+ESFJs tend to be matter-of-fact
 
